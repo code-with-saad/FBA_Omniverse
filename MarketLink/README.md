@@ -119,8 +119,40 @@ npm run build && npm start              # everything on http://localhost:5000
 ## Security
 bcrypt password hashing, JWT in an httpOnly SameSite cookie, role checks on API and UI, rate limits on login and forms, Helmet headers, NoSQL-operator sanitising, image-only uploads (2 MB, random file names).
 
-## Deployment (free)
-MongoDB Atlas (free M0) + Render (free web service). Root directory `MarketLink`, build `npm run install:all && npm run build`, start `npm start`, health check `/api/health`. Set `MONGO_URI`, `JWT_SECRET`, `TZ`, `NODE_ENV=production`. Run `npm run seed` once against Atlas. A blueprint is provided in `render.yaml` at the repo root. Free instances sleep when idle, so the first request can take about a minute.
+## How the system works
+```
+Browser (React SPA)  <--JSON over HTTPS-->  Express API  <-->  MongoDB
+        |                                       |   \-->  Redis / memory cache (optional)
+        |                                       \------>  SMTP (order e-mails)
+        \-- Leaflet/OSM maps, OSRM routes
+```
+- **One server:** in production Express serves the built React app and the `/api` routes on the same port, so there are no CORS problems and login cookies stay first-party.
+- **Login:** the server signs a JWT and stores it in an httpOnly cookie. Middleware checks the role (customer, farmer, admin) on every protected route, and the React router hides pages the role cannot use.
+- **Cache:** public lists (markets, farmers, products, FAQs) and admin reports are cached for about a minute in Redis, or in memory if `REDIS_URL` is empty.
+- **Scheduler:** an hourly job sends "markets open today" alerts and, at the start of each week, re-applies every farmer's recurring stock template.
+
+### Order flow
+1. The customer picks products and a pickup slot. The server checks cut-off time, slot capacity and the 60-minute clash rule, then **reserves stock atomically**.
+2. Status: `placed` -> `accepted` -> `ready` -> `completed`. Side exits: `declined` (farmer) and `cancelled` (customer).
+3. Each change sends an in-app notification and an e-mail. "Ready" includes directions to the stall.
+4. The customer pays cash at pickup and confirms receipt, or reports a pickup problem. Stock from declined or cancelled orders returns to the shelf.
+5. After completion the customer can review the farmer and product.
+
+### Farmer approval
+Register -> status "waiting for approval" -> admin approves (or rejects) -> farmer can list products and appears in public pages. An approval also alerts customers in the same city ("New farmer at ...").
+
+## SEO and AEO (search and AI-answer optimisation)
+Most React apps are invisible to crawlers that do not run JavaScript. MarketLink avoids this on the server side:
+- **Server-rendered facts:** for every public page Express injects the title, meta description, canonical link, Open Graph/Twitter tags and a plain-HTML summary of the page (market timings, farmer stock, prices) into the HTML before it is sent.
+- **Structured data (JSON-LD):** `WebSite`, `Organization`, `LocalBusiness`/`Place` (markets and stalls), `Product` with `Offer` and `AggregateRating`, `FAQPage` with `Question` and `BreadcrumbList`.
+- **Two languages:** every page has `hreflang` links for English and Urdu (`?lang=ur`).
+- **`/sitemap.xml`:** built live from the database, so new markets, farmers and products appear automatically.
+- **`/robots.txt`:** public pages are open, private pages (account, farmer and admin areas) are closed. Private pages also send `noindex`.
+- **AI-assistant readiness (AEO):** `/llms.txt` and `/llms-full.txt` describe the whole site in Markdown. `robots.txt` explicitly allows AI crawlers (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, Bingbot and others). Pages lead with a short answer-first summary, and the FAQ pages use question-and-answer markup, so answer engines can quote them.
+- **Static snapshot:** `npm run seo-files` writes `sitemap.xml`, `robots.txt`, `llms.txt` and `llms-full.txt` into `client/public`. Set `SITE_URL` first so they carry your real domain.
+- **Also:** manifest and favicon, image size/alt text, lazy-loaded pages, compression and caching for speed.
+
+Note: these are implemented features, not a ranking guarantee. Real results depend on hosting the site on a public domain and submitting the sitemap in Google Search Console.
 
 ## Demo logins
 See the root `README.md` for the full table. Quick start: `admin@marketlink.com` / `Admin@123`, `farmer@marketlink.com` / `Farmer@123`, `customer@marketlink.com` / `Customer@123`.
