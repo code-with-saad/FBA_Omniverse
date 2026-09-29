@@ -38,9 +38,7 @@ npm run dev                          # http://localhost:5173
 
 ## Video Demo
 
-<video src="https://raw.githubusercontent.com/code-with-saad/FBA_Omniverse/main/Demo%20Video%20%26%20Screenshots/demo_video.mp4" controls width="100%">
-  Your browser does not support the video tag.
-</video>
+[▶ Click here to watch the Video Demo](https://raw.githubusercontent.com/code-with-saad/FBA_Omniverse/main/Demo%20Video%20%26%20Screenshots/demo_video.mp4)
 
 ## Project Report
 URL: [Report](https://github.com/code-with-saad/FBA_Omniverse/blob/main/documentation/MarketLink-Project-Report.pdf)
