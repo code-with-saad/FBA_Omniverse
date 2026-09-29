@@ -6,8 +6,7 @@ Farmers-market pre-order web app: MongoDB, Express, React, Node. Cash on pickup.
 | Folder | Contents |
 |---|---|
 | `MarketLink/` | The app: `client`, `server`, `database`, `package.json` (see its README) |
-| `Video Demo/` | Demo video |
-| `screenshots/` | Page screenshots |
+| `Demo Video & Screenshots/` | Demo video & Screenshots |
 | `documentation/` | Project Report (`.docx` and `.pdf`) |
 | `render.yaml` | Render deployment blueprint |
 
