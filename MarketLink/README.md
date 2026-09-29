@@ -155,4 +155,4 @@ Most React apps are invisible to crawlers that do not run JavaScript. MarketLink
 Note: these are implemented features, not a ranking guarantee. Real results depend on hosting the site on a public domain and submitting the sitemap in Google Search Console.
 
 ## Demo logins
-See the root `README.md` for the full table. Quick start: `admin@marketlink.com` / `Admin@123`, `farmer@marketlink.com` / `Farmer@123`, `customer@marketlink.com` / `Customer@123`.
+See the root `[README.md](https://github.com/code-with-saad/FBA_Omniverse/blob/main/README.md).` for the full table. Quick start: `admin@marketlink.com` / `Admin@123`, `farmer@marketlink.com` / `Farmer@123`, `customer@marketlink.com` / `Customer@123`.
