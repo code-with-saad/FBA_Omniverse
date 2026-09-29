@@ -154,5 +154,12 @@ Most React apps are invisible to crawlers that do not run JavaScript. MarketLink
 
 Note: these are implemented features, not a ranking guarantee. Real results depend on hosting the site on a public domain and submitting the sitemap in Google Search Console.
 
+## Assumptions
+- Payment is settled in person at pickup. There is no payment gateway and no delivery (per the SRS).
+- Farmer identity and organic claims are not verified; tags such as "Pesticide-free" are the farmer's own description.
+- All markets use one time zone (`TZ`, default Asia/Karachi) for pickup slots and cut-off times.
+- The e-mail address is the login name.
+- MongoDB has no `.sql` files, so the database definition is a mongosh script plus JSON sample data.
+
 ## Demo logins
-See the root [README.md](https://github.com/code-with-saad/FBA_Omniverse/blob/main/README.md). for the full table. Quick start: `admin@marketlink.com` / `Admin@123`, `farmer@marketlink.com` / `Farmer@123`, `customer@marketlink.com` / `Customer@123`.
+See the root [README.md](https://github.com/code-with-saad/FBA_Omniverse/blob/main/README.md) for the full table. Quick start: `admin@marketlink.com` / `Admin@123`, `farmer@marketlink.com` / `Farmer@123`, `customer@marketlink.com` / `Customer@123`.
