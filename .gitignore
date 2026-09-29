@@ -1,0 +1,21 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+# user uploaded images (seed images in uploads/seed are committed)
+server/uploads/products/*
+server/uploads/farmers/*
+server/uploads/markets/*
+server/uploads/categories/*
+server/uploads/avatars/*
+server/uploads/banners/*
+!server/uploads/**/.gitkeep
+
+# one-click start marker
+server/.seeded
+
+# one-click start scripts are given with the submission zip, not on GitHub
+start.bat
+start.sh
+*.zip
