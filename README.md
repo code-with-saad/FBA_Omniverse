@@ -30,5 +30,8 @@ npm run seed
 npm run dev                          # http://localhost:5173
 ```
 
-## Live site
-URL: (add after deployment)
+## Video Demo
+URL: [Demo Video](https://github.com/code-with-saad/FBA_Omniverse/blob/main/Demo%20Video%20%26%20Screenshots/demo_video.mp4)
+
+## Project Report
+URL: [Report](https://github.com/code-with-saad/FBA_Omniverse/blob/main/documentation/MarketLink-Project-Report.pdf)
