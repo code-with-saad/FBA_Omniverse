@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "6ab81d4e532629ea684fbd58",
+    "targetType": "review",
+    "review": "6ab81d4e532629ea684fbc5a",
+    "farmer": "6ab81d4c532629ea684fb8db",
+    "reason": "misleading",
+    "note": "This review talks about a different stall.",
+    "reporter": "6ab81d4d532629ea684fb95e",
+    "status": "open",
+    "action": "none",
+    "__v": 0,
+    "createdAt": "2026-09-26T19:30:22.392Z",
+    "updatedAt": "2026-09-26T19:30:22.392Z"
+  },
+  {
+    "_id": "6ab81d4e532629ea684fbd59",
+    "targetType": "review",
+    "review": "6ab81d4e532629ea684fbd57",
+    "farmer": "6ab81d4c532629ea684fb913",
+    "reason": "auto_language",
+    "note": "Contains \"bakwas\"",
+    "status": "open",
+    "action": "none",
+    "__v": 0,
+    "createdAt": "2026-09-26T19:30:22.392Z",
+    "updatedAt": "2026-09-26T19:30:22.392Z"
+  },
+  {
+    "_id": "6ab81d4e532629ea684fbd5a",
+    "targetType": "product",
+    "product": "6ab81d4c532629ea684fb8fb",
+    "farmer": "6ab81d4c532629ea684fb8ef",
+    "reason": "wrong_info",
+    "note": "The jar size in the photo is different from the one sold.",
+    "reporter": "6ab81d4c532629ea684fb95c",
+    "status": "open",
+    "action": "none",
+    "__v": 0,
+    "createdAt": "2026-09-26T19:30:22.392Z",
+    "updatedAt": "2026-09-26T19:30:22.392Z"
+  }
+]

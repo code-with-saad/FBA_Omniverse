@@ -1,0 +1,22 @@
+{
+  "name": "MarketLink: fresh from local farmers markets",
+  "short_name": "MarketLink",
+  "description": "Pre-order fresh produce from local farmers and pick it up at your weekly farmers market. Pay at the stall.",
+  "lang": "en-PK",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F0",
+  "theme_color": "#173B2C",
+  "categories": ["food", "shopping", "lifestyle"],
+  "icons": [
+    { "src": "/brand/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/brand/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/brand/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Shop this week's produce", "url": "/products", "icons": [{ "src": "/brand/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Farmers markets", "url": "/markets", "icons": [{ "src": "/brand/icon-192.png", "sizes": "192x192" }] },
+    { "name": "My orders", "url": "/account/orders", "icons": [{ "src": "/brand/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#173B2C" />
+    <meta name="application-name" content="MarketLink" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/brand/favicon-32.png" />
+    <link rel="apple-touch-icon" href="/brand/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
+    <link rel="alternate" type="text/plain" title="MarketLink for AI assistants" href="/llms.txt" />
+    <meta name="geo.region" content="PK" />
+    <meta name="geo.placename" content="Karachi" />
+    <!-- The server replaces this block with the tags of each page (server/src/services/seo.js) -->
+    <!--seo:start-->
+    <title>MarketLink | Fresh from local farmers markets</title>
+    <meta name="description" content="MarketLink connects local farmers markets with customers: see what each farmer has in stock this week, pre-order fresh produce and pick it up at the market. Pay at the stall." />
+    <meta name="keywords" content="farmers market, fresh produce, local farmers, pre-order vegetables, fresh fruit, organic food, Karachi farmers market, Pakistan, pickup, MarketLink" />
+    <meta property="og:site_name" content="MarketLink" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="MarketLink | Fresh from local farmers markets" />
+    <meta property="og:image" content="/brand/og-image.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <!--seo:end-->
+    <!-- Shown until the app has loaded, so a slow connection sees the page taking shape instead of a blank screen -->
+    <style>
+      .boot{min-height:100vh;background:#faf7f0;font-family:system-ui,sans-serif}
+      .boot-nav{height:72px;display:flex;align-items:center;gap:16px;padding:0 max(16px,calc((100% - 1296px)/2));border-bottom:1px solid #e7e1d3}
+      .boot-logo{width:150px;height:30px;border-radius:8px;background:#173b2c}
+      .boot-main{padding:16px max(16px,calc((100% - 1296px)/2))}
+      .boot b{display:block;border-radius:16px;background:linear-gradient(90deg,#e9e1cd 25%,#f5f0e5 37%,#e9e1cd 63%);background-size:400% 100%;animation:boot 1.3s ease infinite}
+      .boot-hero{height:min(430px,60vh);border-radius:28px!important}
+      .boot-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:16px;margin-top:16px}
+      .boot-row b{height:150px}
+      .boot-msg{margin:18px 0 0;color:#66756d;font-size:14px;display:flex;align-items:center;gap:8px}
+      .boot-msg i{width:14px;height:14px;border-radius:50%;border:2px solid #2e7d4f;border-right-color:transparent;animation:spin .8s linear infinite}
+      @keyframes boot{0%{background-position:100% 50%}100%{background-position:0 50%}}
+      @keyframes spin{to{transform:rotate(360deg)}}
+      @media (prefers-reduced-motion:reduce){.boot b,.boot-msg i{animation:none}}
+      .prerender{position:absolute;width:1px;height:1px;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+    </style>
+  </head>
+  <body>
+    <noscript>MarketLink needs JavaScript to show local farmers markets, products and pre-orders. Please turn JavaScript on.</noscript>
+    <div id="root">
+      <div class="boot" role="status" aria-label="Loading MarketLink">
+        <div class="boot-nav"><span class="boot-logo"></span></div>
+        <div class="boot-main">
+          <b class="boot-hero"></b>
+          <div class="boot-row"><b></b><b></b><b></b><b></b></div>
+          <p class="boot-msg"><i></i> Loading fresh produce from local farmers…</p>
+        </div>
+      </div>
+      <!-- The server writes the page's main text and links here for crawlers that do not run JavaScript -->
+      <!--prerender:start--><!--prerender:end-->
+    </div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

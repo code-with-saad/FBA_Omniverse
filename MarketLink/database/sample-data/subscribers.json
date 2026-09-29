@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "6ab81d4e532629ea684fbc6e",
+    "email": "customer@marketlink.com",
+    "name": "Ayesha Khan",
+    "source": "home",
+    "status": "subscribed",
+    "createdAt": "2026-09-25T19:30:22.314Z",
+    "token": "<secret>",
+    "__v": 0,
+    "updatedAt": "2026-09-26T19:30:22.315Z"
+  },
+  {
+    "_id": "6ab81d4e532629ea684fbc6f",
+    "email": "sara@marketlink.com",
+    "name": "Sara Ali",
+    "source": "footer",
+    "status": "subscribed",
+    "createdAt": "2026-09-22T19:30:22.314Z",
+    "token": "<secret>",
+    "__v": 0,
+    "updatedAt": "2026-09-26T19:30:22.315Z"
+  },
+  {
+    "_id": "6ab81d4e532629ea684fbc70",
+    "email": "mariam@example.com",
+    "name": "Mariam Siddiqui",
+    "source": "footer",
+    "status": "subscribed",
+    "createdAt": "2026-09-19T19:30:22.314Z",
+    "token": "<secret>",
+    "__v": 0,
+    "updatedAt": "2026-09-26T19:30:22.315Z"
+  },
+  {
+    "_id": "6ab81d4e532629ea684fbc71",
+    "email": "hamza@marketlink.com",
+    "name": "Hamza Sheikh",
+    "source": "checkout",
+    "status": "subscribed",
+    "createdAt": "2026-09-16T19:30:22.314Z",
+    "token": "<secret>",
+    "__v": 0,
+    "updatedAt": "2026-09-26T19:30:22.315Z"
+  },
+  {
+    "_id": "6ab81d4e532629ea684fbc72",
+    "email": "zainab.r@example.com",
+    "source": "home",
+    "status": "subscribed",
+    "createdAt": "2026-09-13T19:30:22.314Z",
+    "token": "<secret>",
+    "__v": 0,
+    "updatedAt": "2026-09-26T19:30:22.315Z"
+  },
+  {
+    "_id": "6ab81d4e532629ea684fbc73",
+    "email": "ali.hassan@example.com",
+    "source": "footer",
+    "status": "unsubscribed",
+    "unsubscribedAt": "2026-09-26T19:30:19.363Z",
+    "createdAt": "2026-09-10T19:30:22.314Z",
+    "token": "<secret>",
+    "__v": 0,
+    "updatedAt": "2026-09-26T19:30:22.315Z"
+  }
+]

@@ -1,0 +1,168 @@
+// Frequently asked questions loaded by the seed (admins edit them later under Admin > FAQs).
+// Each answer starts with one short, direct sentence: search engines and AI assistants quote it.
+// questionUr / answerUr: the same question in Urdu (shown when the site is in Urdu).
+export const faqs = [
+  // ---------------------------------------------------------------- shopping & pre-orders
+  {
+    group: 'shopping',
+    showOnHome: true,
+    question: 'What is MarketLink?',
+    answer:
+      'MarketLink is a website where you pre-order fresh food from local farmers and collect it at your weekly farmers market.\n\nYou can see what every farmer has in stock this week, reserve it online and pay the farmer in cash when you pick it up. Farmers see their orders before market day, so they bring the right amount and waste less.',
+    questionUr: "MarketLink کیا ہے؟",
+    answerUr:
+      "MarketLink ایک ویب سائٹ ہے جہاں آپ مقامی کسانوں سے تازہ کھانے کا پیشگی آرڈر دیتے ہیں اور اسے اپنی ہفتہ وار کسان منڈی سے وصول کرتے ہیں۔\n\nآپ دیکھ سکتے ہیں کہ اس ہفتے ہر کسان کے پاس کیا دستیاب ہے، اسے آن لائن محفوظ کر سکتے ہیں اور وصولی کے وقت کسان کو نقد ادائیگی کرتے ہیں۔ کسان مارکیٹ کے دن سے پہلے اپنے آرڈر دیکھ لیتے ہیں، اس لیے وہ صحیح مقدار لاتے ہیں اور کم مال ضائع ہوتا ہے۔",
+  },
+  {
+    group: 'shopping',
+    showOnHome: true,
+    question: 'How do I pre-order from a farmer?',
+    answer:
+      'Add products to your basket, pick a market and a pickup time for each farmer, then confirm the order.\n\n1. Open Shop (or a farmer or market page) and press Add on a product.\n2. Choose how many you want and press Add to basket.\n3. Open the basket and press Checkout.\n4. Pick the market, day and time slot for each farmer.\n5. Confirm. You get an order number and an e-mail, and the farmer is notified straight away.',
+    questionUr: "کسان سے پیشگی آرڈر کیسے دیں؟",
+    answerUr:
+      "اشیاء اپنی ٹوکری میں ڈالیں، ہر کسان کے لیے مارکیٹ اور وصولی کا وقت چنیں، پھر آرڈر کی تصدیق کریں۔\n\n1۔ خریداری کا صفحہ (یا کسی کسان یا مارکیٹ کا صفحہ) کھولیں اور کسی چیز پر “ڈالیں” دبائیں۔\n2۔ مطلوبہ مقدار چنیں اور “ٹوکری میں ڈالیں” دبائیں۔\n3۔ ٹوکری کھولیں اور “آرڈر مکمل کریں” دبائیں۔\n4۔ ہر کسان کے لیے مارکیٹ، دن اور وقت چنیں۔\n5۔ تصدیق کریں۔ آپ کو آرڈر نمبر اور ای میل ملے گی، اور کسان کو فوراً اطلاع ہو جائے گی۔",
+  },
+  {
+    group: 'shopping',
+    question: 'Do I need an account to order?',
+    answer:
+      'No. You can check out as a guest with your name, phone number and e-mail, and MarketLink creates a free account for you.\n\nThe account lets you follow your orders, change or cancel them, save favourite farmers and leave reviews. You can set a password later from the e-mail we send.',
+    questionUr: "کیا آرڈر کے لیے اکاؤنٹ ضروری ہے؟",
+    answerUr:
+      "نہیں۔ آپ اپنے نام، فون نمبر اور ای میل کے ساتھ بطور مہمان آرڈر مکمل کر سکتے ہیں، اور MarketLink آپ کے لیے مفت اکاؤنٹ بنا دیتا ہے۔\n\nاس اکاؤنٹ سے آپ اپنے آرڈر دیکھ سکتے ہیں، انہیں بدل یا منسوخ کر سکتے ہیں، پسندیدہ کسان محفوظ کر سکتے ہیں اور جائزے لکھ سکتے ہیں۔ پاس ورڈ آپ بعد میں ہماری بھیجی ہوئی ای میل سے بنا سکتے ہیں۔",
+  },
+  {
+    group: 'shopping',
+    question: 'Can I order from more than one farmer at once?',
+    answer:
+      'Yes. One basket can hold products from several farmers.\n\nAt checkout the basket is split per farmer, and you choose a pickup slot for each of them. Every farmer receives only their own part of the order.',
+    questionUr: "کیا ایک ہی بار میں ایک سے زیادہ کسانوں سے آرڈر دیا جا سکتا ہے؟",
+    answerUr:
+      "جی ہاں۔ ایک ٹوکری میں کئی کسانوں کی اشیاء ہو سکتی ہیں۔\n\nآرڈر مکمل کرتے وقت ٹوکری ہر کسان کے حساب سے الگ ہو جاتی ہے، اور آپ ہر ایک کے لیے وصولی کا وقت چنتے ہیں۔ ہر کسان کو صرف اپنے حصے کا آرڈر ملتا ہے۔",
+  },
+  {
+    group: 'shopping',
+    showOnHome: true,
+    question: 'Can I change or cancel my order?',
+    answer:
+      'Yes, until the farmer’s order cut-off time, which is usually 12 hours before your pickup slot.\n\nOpen Account > My orders, choose the order and change the quantities or the pickup slot, or cancel it. The stock goes back to the farmer automatically. After the cut-off, or once the order is ready, please contact the farmer directly.',
+    questionUr: "کیا آرڈر میں تبدیلی یا اسے منسوخ کیا جا سکتا ہے؟",
+    answerUr:
+      "جی ہاں، کسان کے آرڈر کے آخری وقت تک، جو عموماً آپ کی وصولی کے وقت سے 12 گھنٹے پہلے ہوتا ہے۔\n\nاکاؤنٹ میں “میرے آرڈر” کھولیں، آرڈر چنیں اور مقدار یا وصولی کا وقت بدلیں، یا اسے منسوخ کر دیں۔ اسٹاک خود بخود کسان کے پاس واپس چلا جاتا ہے۔ آخری وقت گزرنے کے بعد، یا آرڈر تیار ہو جانے پر، براہِ کرم کسان سے براہِ راست رابطہ کریں۔",
+  },
+  {
+    group: 'shopping',
+    question: 'What happens if a product sells out?',
+    answer:
+      'A sold-out product cannot be added to the basket, and the farmer’s stock is reserved the moment you place your order.\n\nAdd a sold-out product to your favourites and you get a notification as soon as the farmer restocks it.',
+    questionUr: "اگر کوئی چیز ختم ہو جائے تو کیا ہوتا ہے؟",
+    answerUr:
+      "ختم ہو جانے والی چیز ٹوکری میں نہیں ڈالی جا سکتی، اور آرڈر دیتے ہی کسان کا اسٹاک آپ کے لیے محفوظ ہو جاتا ہے۔\n\nختم ہو جانے والی چیز کو اپنے پسندیدہ میں شامل کریں، کسان کے دوبارہ اسٹاک بھرتے ہی آپ کو اطلاع مل جائے گی۔",
+  },
+  {
+    group: 'shopping',
+    question: 'Are the products organic?',
+    answer:
+      'Some are. Every farmer lists their own farming practices, such as organic, pesticide-free or free-range.\n\nYou can see the practices on the farmer’s page and filter the shop by them. MarketLink does not certify farms itself, so ask the farmer at the market if you have questions.',
+    questionUr: "کیا یہ اشیاء نامیاتی (آرگینک) ہیں؟",
+    answerUr:
+      "کچھ ہیں۔ ہر کسان اپنے کاشت کے طریقے خود بتاتا ہے، جیسے نامیاتی، کیڑے مار دوا کے بغیر یا کھلے میں پلے ہوئے جانور۔\n\nیہ طریقے کسان کے صفحے پر نظر آتے ہیں اور آپ دکان میں ان کے مطابق چھانٹ بھی سکتے ہیں۔ MarketLink خود فارموں کی تصدیق نہیں کرتا، اس لیے کوئی سوال ہو تو مارکیٹ میں کسان سے پوچھ لیں۔",
+  },
+  // ---------------------------------------------------------------- pickup & payment
+  {
+    group: 'pickup',
+    showOnHome: true,
+    question: 'How do I pay?',
+    answer:
+      'You pay the farmer in cash (or however the farmer accepts) when you collect your order at the market.\n\nThere is no online payment and no card details are needed on MarketLink. The total shown in your basket is what you pay at the stall.',
+    questionUr: "ادائیگی کیسے کروں؟",
+    answerUr:
+      "آرڈر مارکیٹ سے وصول کرتے وقت آپ کسان کو نقد (یا کسان کے قبول کردہ کسی اور طریقے سے) ادائیگی کرتے ہیں۔\n\nMarketLink پر نہ آن لائن ادائیگی ہے اور نہ کارڈ کی تفصیل درکار ہے۔ آپ کی ٹوکری میں جو کل رقم دکھائی گئی ہے، وہی آپ اسٹال پر ادا کرتے ہیں۔",
+  },
+  {
+    group: 'pickup',
+    showOnHome: true,
+    question: 'Where and when do I pick up my order?',
+    answer:
+      'At the farmers market and time slot you chose at checkout.\n\nYour order page and confirmation e-mail show the market address, the day and the time window. Show your order number at the farmer’s stall. You get a notification when the farmer marks your order as ready.',
+    questionUr: "آرڈر کہاں اور کب وصول کروں؟",
+    answerUr:
+      "اسی کسان منڈی اور اسی وقت پر جو آپ نے آرڈر مکمل کرتے وقت چنا تھا۔\n\nآپ کے آرڈر کے صفحے اور تصدیقی ای میل میں مارکیٹ کا پتا، دن اور وقت درج ہوتا ہے۔ کسان کے اسٹال پر اپنا آرڈر نمبر دکھائیں۔ جب کسان آپ کا آرڈر تیار کر دے گا تو آپ کو اطلاع مل جائے گی۔",
+  },
+  {
+    group: 'pickup',
+    question: 'What if I cannot make it to my pickup slot?',
+    answer:
+      'Change the pickup slot, or cancel the order, before the farmer’s cut-off time.\n\nAfter the cut-off please contact the farmer using the phone number on their page, so the food does not go to waste.',
+    questionUr: "اگر میں وصولی کے وقت نہ پہنچ سکوں تو کیا کروں؟",
+    answerUr:
+      "کسان کے آخری وقت سے پہلے وصولی کا وقت بدل دیں یا آرڈر منسوخ کر دیں۔\n\nآخری وقت گزرنے کے بعد براہِ کرم کسان کے صفحے پر دیے گئے فون نمبر پر رابطہ کریں تاکہ کھانا ضائع نہ ہو۔",
+  },
+  {
+    group: 'pickup',
+    question: 'Which markets and cities are on MarketLink?',
+    answer:
+      'MarketLink lists weekly farmers markets in Karachi, Lahore and Islamabad, and new markets are added regularly.\n\nOpen Markets or the Market map to see every market with its address, opening days and times, and the farmers who sell there.',
+    questionUr: "MarketLink پر کون سی مارکیٹیں اور شہر شامل ہیں؟",
+    answerUr:
+      "MarketLink پر کراچی، لاہور اور اسلام آباد کی ہفتہ وار کسان منڈیاں موجود ہیں، اور نئی مارکیٹیں باقاعدگی سے شامل ہوتی رہتی ہیں۔\n\n“مارکیٹیں” یا “مارکیٹوں کا نقشہ” کھولیں اور ہر مارکیٹ کا پتا، کھلنے کے دن اور اوقات، اور وہاں بیچنے والے کسان دیکھیں۔",
+  },
+  // ---------------------------------------------------------------- farmers
+  {
+    group: 'farmers',
+    showOnHome: true,
+    question: 'How can I sell my produce on MarketLink?',
+    answer:
+      'Register as a farmer, and after an administrator approves your stall you can list your products.\n\nThe sign-up form asks for your stall name, farm details, the markets you sell at and your pickup times. Joining is free. After approval you add products with a photo, price and weekly stock, and customers can pre-order straight away.',
+    questionUr: "MarketLink پر اپنی پیداوار کیسے بیچیں؟",
+    answerUr:
+      "کسان کے طور پر رجسٹر کریں؛ ایڈمن کے آپ کا اسٹال منظور کرنے کے بعد آپ اپنی اشیاء درج کر سکتے ہیں۔\n\nرجسٹریشن فارم میں آپ کے اسٹال کا نام، فارم کی تفصیل، وہ مارکیٹیں جہاں آپ بیچتے ہیں اور وصولی کے اوقات پوچھے جاتے ہیں۔ شمولیت مفت ہے۔ منظوری کے بعد آپ تصویر، قیمت اور ہفتہ وار اسٹاک کے ساتھ اشیاء شامل کرتے ہیں، اور گاہک فوراً پیشگی آرڈر دے سکتے ہیں۔",
+  },
+  {
+    group: 'farmers',
+    question: 'Does MarketLink charge farmers a fee?',
+    answer:
+      'No. Listing products and receiving pre-orders on MarketLink is free.\n\nCustomers pay you directly at your stall, so the full amount goes to you.',
+    questionUr: "کیا MarketLink کسانوں سے کوئی فیس لیتا ہے؟",
+    answerUr:
+      "نہیں۔ MarketLink پر اشیاء درج کرنا اور پیشگی آرڈر لینا مفت ہے۔\n\nگاہک آپ کو براہِ راست آپ کے اسٹال پر ادائیگی کرتے ہیں، اس لیے پوری رقم آپ کو ملتی ہے۔",
+  },
+  {
+    group: 'farmers',
+    question: 'How do I manage my orders and stock?',
+    answer:
+      'Everything is in the farmer dashboard: orders, stock, pickup windows and sales reports.\n\nAccept or decline each new order, mark it ready and then completed at pickup. Stock goes down when an order is placed and back up when it is cancelled or declined, and you get an alert when a product is running low.',
+    questionUr: "آرڈر اور اسٹاک کیسے سنبھالیں؟",
+    answerUr:
+      "سب کچھ کسان ڈیش بورڈ میں ہے: آرڈر، اسٹاک، وصولی کے اوقات اور فروخت کی رپورٹیں۔\n\nہر نیا آرڈر قبول یا مسترد کریں، اسے تیار کریں اور وصولی پر مکمل کریں۔ آرڈر آنے پر اسٹاک کم ہو جاتا ہے اور منسوخ یا مسترد ہونے پر واپس بڑھ جاتا ہے، اور کسی چیز کا اسٹاک کم ہونے پر آپ کو اطلاع ملتی ہے۔",
+  },
+  // ---------------------------------------------------------------- account & privacy
+  {
+    group: 'account',
+    question: 'How do reviews work?',
+    answer:
+      'Customers can rate a product or a farmer from 1 to 5 stars and write a short review.\n\nReviews from customers who collected a completed order are marked "Verified purchase". Anyone can report a review that breaks the rules, and administrators check every report.',
+    questionUr: "جائزے کیسے کام کرتے ہیں؟",
+    answerUr:
+      "گاہک کسی چیز یا کسان کو 1 سے 5 ستارے دے سکتے ہیں اور مختصر جائزہ لکھ سکتے ہیں۔\n\nجن گاہکوں نے مکمل آرڈر وصول کیا ہو ان کے جائزوں پر “تصدیق شدہ خریداری” کا نشان لگتا ہے۔ اصولوں کی خلاف ورزی کرنے والے جائزے کی کوئی بھی رپورٹ کر سکتا ہے، اور ایڈمن ہر رپورٹ دیکھتے ہیں۔",
+  },
+  {
+    group: 'account',
+    question: 'I forgot my password. What do I do?',
+    answer:
+      'Press "Forgot password?" on the login page and enter your e-mail address.\n\nWe e-mail you a link to choose a new password. The link works for 30 minutes.',
+    questionUr: "پاس ورڈ بھول گئے؟ اب کیا کریں؟",
+    answerUr:
+      "لاگ اِن کے صفحے پر “پاس ورڈ بھول گئے؟” دبائیں اور اپنا ای میل ایڈریس درج کریں۔\n\nہم آپ کو نیا پاس ورڈ بنانے کا لنک ای میل کریں گے۔ یہ لنک 30 منٹ تک کام کرتا ہے۔",
+  },
+  {
+    group: 'account',
+    question: 'What do you do with my personal data?',
+    answer:
+      'MarketLink only uses your details to run your orders and your account, and never sells them.\n\nThe farmer you order from sees your name and phone number so they can reach you about the pickup. The Terms & Conditions page explains the details, and you can unsubscribe from e-mails with one click.',
+    questionUr: "آپ میرے ذاتی ڈیٹا کا کیا کرتے ہیں؟",
+    answerUr:
+      "MarketLink آپ کی تفصیلات صرف آپ کے آرڈر اور اکاؤنٹ چلانے کے لیے استعمال کرتا ہے، اور انہیں کبھی فروخت نہیں کرتا۔\n\nجس کسان سے آپ آرڈر کرتے ہیں وہ آپ کا نام اور فون نمبر دیکھتا ہے تاکہ وصولی کے بارے میں آپ سے رابطہ کر سکے۔ تفصیل “شرائط و ضوابط” کے صفحے پر موجود ہے، اور آپ ایک کلک سے ای میلز کی رکنیت ختم کر سکتے ہیں۔",
+  },
+];

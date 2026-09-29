@@ -1,0 +1,280 @@
+/* rtl:begin:ignore */
+
+$urdu-ui: 'Plus Jakarta Sans Variable', 'Noto Naskh Arabic Variable', 'Segoe UI', Tahoma, sans-serif;
+$urdu-text: 'Plus Jakarta Sans Variable', 'Noto Nastaliq Urdu Variable', 'Noto Naskh Arabic Variable', serif;
+
+html[lang='ur'] {
+
+  body {
+    font-family: $urdu-ui;
+    line-height: 1.75;
+  }
+
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .h1,
+  .h2,
+  .h3,
+  .h4,
+  .h5,
+  .h6,
+  .display-font,
+  .section-title,
+  .fh-title,
+  .page-hero h1,
+  .lead,
+  blockquote,
+  .tm-quote blockquote p,
+  .faq-answer,
+  .terms-body p {
+    font-family: $urdu-text;
+    line-height: 1.95;
+    letter-spacing: 0;
+  }
+
+  h1,
+  .h1 {
+    line-height: 1.75;
+  }
+
+  .fh-title {
+    line-height: 1.6;
+  }
+
+  p {
+    line-height: 1.9;
+  }
+
+
+  *,
+  *::before,
+  *::after {
+    letter-spacing: 0 !important;
+  }
+
+  em,
+  i:not(.bi),
+  .italic-accent,
+  blockquote {
+    font-style: normal;
+  }
+
+  .text-uppercase,
+  .eyebrow {
+    text-transform: none;
+  }
+
+  .eyebrow {
+    font-size: 0.85rem;
+  }
+
+
+  .btn,
+  .chip,
+  .badge,
+  .form-control,
+  .form-select,
+  .nav-link,
+  .app-link,
+  .filter-chip {
+    line-height: 1.6;
+  }
+
+  .text-truncate {
+    padding-block: 0.12em;
+  }
+
+
+  input[type='email'],
+  input[type='tel'],
+  input[type='number'],
+  input[type='password'],
+  input[type='url'] {
+    direction: ltr;
+    text-align: right;
+  }
+}
+
+[dir='rtl'] {
+
+
+  .bi-arrow-right::before,
+  .bi-arrow-left::before,
+  .bi-chevron-right::before,
+  .bi-chevron-left::before,
+  .bi-chevron-double-right::before,
+  .bi-chevron-double-left::before,
+  .bi-caret-right-fill::before,
+  .bi-caret-left-fill::before,
+  .bi-arrow-up-right::before,
+  .bi-box-arrow-up-right::before,
+  .bi-box-arrow-right::before,
+  .bi-box-arrow-in-right::before,
+  .bi-sign-turn-right::before,
+  .bi-reply::before,
+  .bi-send::before,
+  .bi-send-fill::before,
+  .bi-quote::before,
+  .bi-list::before,
+  .bi-layout-sidebar::before,
+  .bi-layout-sidebar-inset::before {
+    display: inline-block;
+    transform: scaleX(-1);
+  }
+
+
+  .leaflet-container {
+    direction: ltr;
+  }
+
+  .leaflet-popup-content,
+  .leaflet-tooltip {
+    direction: rtl;
+    text-align: right;
+  }
+
+
+  .recharts-wrapper {
+    direction: ltr;
+  }
+}
+
+
+.lang-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  height: 40px;
+  padding: 0 0.85rem;
+  border: 1px solid var(--ml-border, #e3dccd);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--ml-forest, #1f4d36);
+  font-weight: 600;
+  font-size: 0.9rem;
+  white-space: nowrap;
+  transition:
+    background-color 0.2s ease,
+    border-color 0.2s ease;
+
+  span[lang='ur'],
+  &[lang='ur'] span:not(.visually-hidden) {
+    font-family: 'Noto Naskh Arabic Variable', sans-serif;
+    font-size: 1rem;
+  }
+
+  &:hover,
+  &:focus-visible {
+    background: #f3f7ee;
+    border-color: #b8cfa8;
+  }
+
+  .bi {
+    font-size: 1.05rem;
+  }
+}
+
+.lang-switch-block {
+  width: 100%;
+  justify-content: center;
+}
+
+
+
+@include media-breakpoint-between(lg, xl) {
+  .ml-navbar .nav-lang {
+    width: 40px;
+    padding: 0;
+    justify-content: center;
+
+    span:not(.visually-hidden) {
+      display: none;
+    }
+  }
+}
+
+.app-lang {
+  margin: 0.5rem 0.75rem 0;
+  width: auto;
+}
+
+/* rtl:end:ignore */
+
+/* rtl:begin:ignore */
+
+input[lang='ur'],
+textarea[lang='ur'] {
+  font-family: 'Noto Naskh Arabic Variable', 'Segoe UI', Tahoma, sans-serif;
+  line-height: 1.8;
+}
+
+/* rtl:end:ignore */
+
+/* rtl:begin:ignore */
+[dir='rtl'] {
+
+  @include media-breakpoint-up(lg) {
+
+    .market-hero .market-photo,
+    .cta-band .cta-photo {
+      -webkit-mask-image: linear-gradient(to left, transparent 0, #000 38%);
+      mask-image: linear-gradient(to left, transparent 0, #000 38%);
+    }
+  }
+}
+
+/* rtl:end:ignore */
+
+/* rtl:begin:ignore */
+
+
+[dir='rtl'] {
+  .quickview-btn {
+    translate: 50% 0.4rem;
+  }
+
+  .product-card:hover .quickview-btn,
+  .quickview-btn:focus-visible {
+    translate: 50% 0;
+  }
+
+  @media (hover: none) {
+    .quickview-btn {
+      translate: 50% 0;
+    }
+  }
+
+  .pd-count {
+    translate: 50% 0;
+  }
+}
+
+/* rtl:end:ignore */
+
+/* rtl:begin:ignore */
+
+html[lang='ur'] {
+  .deal-tag {
+    margin-bottom: 1.5rem;
+  }
+
+  .fh-title {
+    font-size: clamp(1.9rem, 3.6vw, 3.1rem);
+  }
+}
+
+/* rtl:end:ignore */
+
+
+
+@include media-breakpoint-between(md, xl) {
+  [dir='rtl'] .ml-navbar .nav-sell {
+    padding-inline: 0.65rem;
+    font-size: 0.86rem;
+  }
+}

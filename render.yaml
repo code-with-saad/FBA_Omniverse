@@ -1,0 +1,45 @@
+# Render.com blueprint: one web service that serves the API and the built React app.
+# The project lives in the MarketLink/ folder of this repository.
+# Create a free MongoDB Atlas cluster first and paste its connection string as MONGO_URI.
+# A free Render Key Value (Redis) instance caches the public pages and reports (optional; without it the
+# server caches in memory).
+services:
+  - type: keyvalue
+    name: marketlink-cache
+    plan: free
+    maxmemoryPolicy: allkeys-lru
+    ipAllowList: [] # only services in this Render account can connect
+  - type: web
+    name: marketlink
+    runtime: node
+    plan: free
+    rootDir: MarketLink
+    buildCommand: npm run install:all && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: TZ
+        value: Asia/Karachi
+      - key: JWT_SECRET
+        generateValue: true
+      - key: MONGO_URI
+        sync: false
+      - key: REDIS_URL
+        fromService:
+          type: keyvalue
+          name: marketlink-cache
+          property: connectionString
+      # E-mail (optional): Gmail SMTP with an App Password, see MarketLink/server/.env.example
+      - key: SMTP_HOST
+        sync: false
+      - key: SMTP_PORT
+        value: "587"
+      - key: SMTP_USER
+        sync: false
+      - key: SMTP_PASS
+        sync: false
+      # Public address of the site, used for the buttons in e-mails (e.g. https://marketlink.onrender.com)
+      - key: APP_URL
+        sync: false

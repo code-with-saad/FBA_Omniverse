@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "6ab81d4e532629ea684fbc6c",
+    "name": "Mariam Siddiqui",
+    "email": "mariam@example.com",
+    "subject": "Market in Hyderabad?",
+    "message": "Do you plan to add a farmers market in Hyderabad? Would love to join as a customer.",
+    "status": "new",
+    "__v": 0,
+    "createdAt": "2026-09-26T19:30:22.313Z",
+    "updatedAt": "2026-09-26T19:30:22.313Z"
+  },
+  {
+    "_id": "6ab81d4e532629ea684fbc6d",
+    "name": "Tariq Jamil",
+    "email": "tariq@example.com",
+    "subject": "Joining as a farmer",
+    "message": "I grow citrus near Sargodha. How can I register my stall and which markets can I join?",
+    "status": "new",
+    "__v": 0,
+    "createdAt": "2026-09-26T19:30:22.313Z",
+    "updatedAt": "2026-09-26T19:30:22.313Z"
+  }
+]

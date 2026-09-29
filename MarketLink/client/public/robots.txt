@@ -1,0 +1,41 @@
+# MarketLink: local farmers markets online. Public pages may be crawled, indexed and quoted.
+# Summary for AI assistants: https://marketlink.onrender.com/llms.txt (full text: https://marketlink.onrender.com/llms-full.txt)
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /account
+Disallow: /farmer/
+Disallow: /farmer$
+Disallow: /admin
+Disallow: /checkout
+Disallow: /cart
+Disallow: /reset-password/
+Disallow: /unsubscribe
+
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: anthropic-ai
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: Bingbot
+User-agent: DuckAssistBot
+User-agent: CCBot
+Allow: /
+Disallow: /api/
+Disallow: /account
+Disallow: /farmer/
+Disallow: /farmer$
+Disallow: /admin
+Disallow: /checkout
+Disallow: /cart
+Disallow: /reset-password/
+Disallow: /unsubscribe
+
+Sitemap: https://marketlink.onrender.com/sitemap.xml

@@ -1,0 +1,80 @@
+{
+  "/images/hero/produce.webp": [
+    {
+      "author": "Eric BC Lim",
+      "source": "https://www.flickr.com/photos/ericlbc/3704845618"
+    },
+    {
+      "author": "Jonathan",
+      "source": "https://www.flickr.com/photos/jon_bedford/7615555650"
+    },
+    {
+      "author": "Mike Mozart",
+      "source": "https://www.flickr.com/photos/jeepersmedia/14948279090"
+    },
+    {
+      "author": "Steven Jackson",
+      "source": "https://www.flickr.com/photos/jackson3/3860359915"
+    },
+    {
+      "author": "Selma Broeder",
+      "source": "https://www.flickr.com/photos/selma90/3675162262"
+    },
+    {
+      "author": "kizzzbeth",
+      "source": "https://www.flickr.com/photos/31403417@N00/5533711650"
+    },
+    {
+      "author": "Milton Ramirez",
+      "source": "https://www.flickr.com/photos/tonmil/2635493222"
+    },
+    {
+      "author": "amrufm",
+      "source": "https://www.flickr.com/photos/amrufm/653669419"
+    },
+    {
+      "author": "Gaye Launder",
+      "source": "https://www.flickr.com/photos/28912254@N04/16480336605"
+    },
+    {
+      "author": "Kevan",
+      "source": "https://www.flickr.com/photos/kevandotorg/4799876694"
+    },
+    {
+      "author": "brownpau",
+      "source": "https://www.flickr.com/photos/brownpau/11757786526"
+    },
+    {
+      "author": "Anna B",
+      "source": "https://www.flickr.com/photos/annas_bananas/8039953648"
+    }
+  ],
+  "/images/hero/welcome.webp": {
+    "author": "SteFou!",
+    "source": "https://www.flickr.com/photos/stephen-oung/5332718999"
+  },
+  "/images/hero/summer.webp": {
+    "author": "Wicker Paradise",
+    "source": "https://www.flickr.com/photos/wicker-furniture/11475851684"
+  },
+  "/images/hero/pickup.webp": {
+    "author": "Aivar Ruukel",
+    "source": "https://www.flickr.com/photos/soomaa/11202779944"
+  },
+  "/images/hero/farmers.webp": {
+    "author": "U.S. Department of Agriculture",
+    "source": "https://www.flickr.com/photos/usdagov/10547052435"
+  },
+  "/images/hero/cta-farmer.webp": {
+    "author": "Alana King",
+    "source": "https://www.flickr.com/photos/buking2010/5082580472"
+  },
+  "/images/banners/deal-vegetables.webp": {
+    "author": "Mayda Sanchez-Shingler",
+    "source": "https://www.flickr.com/photos/maydaohio/8064217445"
+  },
+  "/images/banners/fruit-basket.webp": {
+    "author": "giorgio winklers",
+    "source": "https://www.flickr.com/photos/winklers68/3056578130/"
+  }
+}

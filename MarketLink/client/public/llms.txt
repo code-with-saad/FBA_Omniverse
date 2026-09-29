@@ -1,0 +1,62 @@
+# MarketLink
+
+> MarketLink is a website for weekly farmers markets in Pakistan (Karachi, Lahore and Islamabad). Customers see what each local farmer has in stock this week, pre-order online, collect the order at the market in a chosen time slot and pay the farmer in cash at the stall. There is no online payment. Farmers join for free.
+
+Key facts:
+- Payment: cash to the farmer at pickup. No online payment, no card details.
+- Ordering: add products to the basket, choose a market and a pickup time slot per farmer, confirm. Guests get a free account automatically.
+- Changes: orders can be changed or cancelled until the farmer’s cut-off time (usually 12 hours before the pickup slot).
+- Farmers: registration is free; an administrator approves each stall before it can sell.
+- Contact: hello@marketlink.pk, +92 21 3456 7890, Aptech Learning Centre, F.B. Area, Karachi. Contact form: https://marketlink.onrender.com/contact
+
+## Main pages
+- [Shop fresh produce](https://marketlink.onrender.com/products): this week’s products from every farmer, with prices and stock
+- [Farmers markets](https://marketlink.onrender.com/markets): markets with address, opening days and times
+- [Local farmers](https://marketlink.onrender.com/farmers): farmer profiles, farming practices and weekly stock
+- [FAQs](https://marketlink.onrender.com/faq): answers about ordering, pickup, payment and selling
+- [About](https://marketlink.onrender.com/about): how MarketLink works
+- [Sell with MarketLink](https://marketlink.onrender.com/register/farmer): farmer registration
+- [Terms & Conditions](https://marketlink.onrender.com/terms)
+
+## Categories
+- [Vegetables](https://marketlink.onrender.com/products?category=vegetables): Seasonal vegetables harvested for market day.
+- [Fruits](https://marketlink.onrender.com/products?category=fruits): Orchard-fresh and tree-ripened fruit.
+- [Dairy & Eggs](https://marketlink.onrender.com/products?category=dairy-eggs): Fresh milk, cheese, butter and free-range eggs.
+- [Baked Goods](https://marketlink.onrender.com/products?category=baked-goods): Breads and treats baked the morning of the market.
+- [Herbs & Greens](https://marketlink.onrender.com/products?category=herbs-greens): Leafy greens and fragrant herbs.
+- [Honey & Preserves](https://marketlink.onrender.com/products?category=honey-preserves): Raw honey, jams, chutneys and pickles.
+- [Grains & Pulses](https://marketlink.onrender.com/products?category=grains-pulses): Stone-ground flour, rice, lentils and nuts.
+- [Flowers & Plants](https://marketlink.onrender.com/products?category=flowers-plants): Cut flowers and potted plants.
+
+## Markets
+- [F-9 Park Weekend Market](https://marketlink.onrender.com/markets/f-9-park-weekend-market): Islamabad, Fatima Jinnah Park (F-9), Islamabad. Open Saturday, Sunday, 8:00 am to 2:00 pm.
+- [Bahadurabad Fresh Friday Market](https://marketlink.onrender.com/markets/bahadurabad-fresh-friday-market): Karachi, Bahadurabad Chowrangi, Bahadur Yar Jang Society, Karachi. Open Tuesday, Friday, 4:00 pm to 9:00 pm.
+- [Clifton Seaview Farmers Market](https://marketlink.onrender.com/markets/clifton-seaview-farmers-market): Karachi, Block 2, Clifton (near Boat Basin), Karachi. Open Saturday, Sunday, 7:00 am to 1:00 pm.
+- [DHA Phase 6 Weekend Market](https://marketlink.onrender.com/markets/dha-phase-6-weekend-market): Karachi, Bukhari Commercial, DHA Phase 6, Karachi. Open Friday, Sunday, 8:00 am to 2:00 pm.
+- [Gulshan Sunday Kisan Bazaar](https://marketlink.onrender.com/markets/gulshan-sunday-kisan-bazaar): Karachi, Block 13-D, Gulshan-e-Iqbal (near Maskan Chowrangi), Karachi. Open Sunday, Wednesday, 7:00 am to 3:00 pm.
+- [North Nazimabad Evening Green Market](https://marketlink.onrender.com/markets/north-nazimabad-evening-green-market): Karachi, Block H, North Nazimabad (Hyderi), Karachi. Open Wednesday, Saturday, 4:00 pm to 9:00 pm.
+- [Saddar Heritage Farmers Market](https://marketlink.onrender.com/markets/saddar-heritage-farmers-market): Karachi, Near Empress Market, Saddar, Karachi. Open Monday, Thursday, Saturday, 6:00 am to 12:00 pm.
+- [Model Town Kisan Market](https://marketlink.onrender.com/markets/model-town-kisan-market): Lahore, Model Town Link Road, Lahore. Open Sunday, Thursday, 7:00 am to 1:00 pm.
+
+## FAQs
+- [What is MarketLink?](https://marketlink.onrender.com/faq): MarketLink is a website where you pre-order fresh food from local farmers and collect it at your weekly farmers market.
+- [How do I pre-order from a farmer?](https://marketlink.onrender.com/faq): Add products to your basket, pick a market and a pickup time for each farmer, then confirm the order.
+- [Do I need an account to order?](https://marketlink.onrender.com/faq): No. You can check out as a guest with your name, phone number and e-mail, and MarketLink creates a free account for you.
+- [Can I order from more than one farmer at once?](https://marketlink.onrender.com/faq): Yes. One basket can hold products from several farmers.
+- [Can I change or cancel my order?](https://marketlink.onrender.com/faq): Yes, until the farmer’s order cut-off time, which is usually 12 hours before your pickup slot.
+- [What happens if a product sells out?](https://marketlink.onrender.com/faq): A sold-out product cannot be added to the basket, and the farmer’s stock is reserved the moment you place your order.
+- [Are the products organic?](https://marketlink.onrender.com/faq): Some are. Every farmer lists their own farming practices, such as organic, pesticide-free or free-range.
+- [How do I pay?](https://marketlink.onrender.com/faq): You pay the farmer in cash (or however the farmer accepts) when you collect your order at the market.
+- [Where and when do I pick up my order?](https://marketlink.onrender.com/faq): At the farmers market and time slot you chose at checkout.
+- [What if I cannot make it to my pickup slot?](https://marketlink.onrender.com/faq): Change the pickup slot, or cancel the order, before the farmer’s cut-off time.
+- [Which markets and cities are on MarketLink?](https://marketlink.onrender.com/faq): MarketLink lists weekly farmers markets in Karachi, Lahore and Islamabad, and new markets are added regularly.
+- [How can I sell my produce on MarketLink?](https://marketlink.onrender.com/faq): Register as a farmer, and after an administrator approves your stall you can list your products.
+- [Does MarketLink charge farmers a fee?](https://marketlink.onrender.com/faq): No. Listing products and receiving pre-orders on MarketLink is free.
+- [How do I manage my orders and stock?](https://marketlink.onrender.com/faq): Everything is in the farmer dashboard: orders, stock, pickup windows and sales reports.
+- [How do reviews work?](https://marketlink.onrender.com/faq): Customers can rate a product or a farmer from 1 to 5 stars and write a short review.
+- [I forgot my password. What do I do?](https://marketlink.onrender.com/faq): Press "Forgot password?" on the login page and enter your e-mail address.
+- [What do you do with my personal data?](https://marketlink.onrender.com/faq): MarketLink only uses your details to run your orders and your account, and never sells them.
+
+## Optional
+- [Full text for AI assistants](https://marketlink.onrender.com/llms-full.txt): every FAQ answer, market, farmer and product with prices
+- [Sitemap](https://marketlink.onrender.com/sitemap.xml)

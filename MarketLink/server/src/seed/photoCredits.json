@@ -1,0 +1,374 @@
+{
+  "Vine Tomatoes": {
+    "file": "vine-tomatoes.webp",
+    "author": "OakleyOriginals",
+    "source": "https://www.flickr.com/photos/oakleyoriginals/3782406876",
+    "license": "CC BY 2.0"
+  },
+  "Sweet Carrots": {
+    "file": "sweet-carrots.webp",
+    "author": "David Amsler",
+    "source": "https://www.flickr.com/photos/amslerpix/10180357455/",
+    "license": "CC BY 2.0"
+  },
+  "Farm Potatoes": {
+    "file": "farm-potatoes.webp",
+    "author": "Tatsuo Yamashita",
+    "source": "https://www.flickr.com/photos/yto/18986066750",
+    "license": "CC BY 2.0"
+  },
+  "Red Onions": {
+    "file": "red-onions.webp",
+    "author": "Senado Federal",
+    "source": "https://www.flickr.com/photos/agenciasenado/15714731157",
+    "license": "CC BY 2.0"
+  },
+  "Desi Cucumbers": {
+    "file": "desi-cucumbers.webp",
+    "author": "Peter Oelschlaeger",
+    "source": "https://www.flickr.com/photos/thunderpete/6063337466",
+    "license": "CC BY 2.0"
+  },
+  "Purple Brinjal": {
+    "file": "purple-brinjal.webp",
+    "author": "Mike Mozart",
+    "source": "https://www.flickr.com/photos/jeepersmedia/14948233400",
+    "license": "CC BY 2.0"
+  },
+  "Capsicum Mix": {
+    "file": "capsicum-mix.webp",
+    "author": "erfan a. setiawan",
+    "source": "https://www.flickr.com/photos/postflowersyndroms/10382304176",
+    "license": "CC BY 2.0"
+  },
+  "Green Chillies": {
+    "file": "green-chillies.webp",
+    "author": "brownpau",
+    "source": "https://www.flickr.com/photos/brownpau/11757786526",
+    "license": "CC BY 2.0"
+  },
+  "Sindhri Mangoes": {
+    "file": "sindhri-mangoes.webp",
+    "author": "Martin Howard",
+    "source": "https://www.flickr.com/photos/martinhoward/5397244901",
+    "license": "CC BY 2.0"
+  },
+  "Chaunsa Mangoes": {
+    "file": "chaunsa-mangoes.webp",
+    "author": "Milton Ramirez",
+    "source": "https://www.flickr.com/photos/tonmil/2635493222",
+    "license": "CC BY 2.0"
+  },
+  "Bananas": {
+    "file": "bananas.webp",
+    "author": "Brendan C",
+    "source": "https://www.flickr.com/photos/brendan-c/5242022634",
+    "license": "CC BY 2.0"
+  },
+  "Watermelon": {
+    "file": "watermelon.webp",
+    "author": "bharat ram",
+    "source": "https://www.flickr.com/photos/12x/6748243111",
+    "license": "CC BY 2.0"
+  },
+  "Cantaloupe Melon": {
+    "file": "cantaloupe-melon.webp",
+    "author": "yoppy",
+    "source": "https://www.flickr.com/photos/spilt-milk/964681042",
+    "license": "CC BY 2.0"
+  },
+  "Tender Coconuts": {
+    "file": "tender-coconuts.webp",
+    "author": "Simon_sees",
+    "source": "https://www.flickr.com/photos/39551170@N02/11267574635",
+    "license": "CC BY 2.0"
+  },
+  "Lemons": {
+    "file": "lemons.webp",
+    "author": "Kevan",
+    "source": "https://www.flickr.com/photos/kevandotorg/4799876694",
+    "license": "CC BY 2.0"
+  },
+  "Fresh Buffalo Milk": {
+    "file": "fresh-buffalo-milk.webp",
+    "author": "~Pawsitive~Candie_N",
+    "source": "https://www.flickr.com/photos/scjn/3533592997",
+    "license": "CC BY 2.0"
+  },
+  "Farm Paneer": {
+    "file": "farm-paneer.webp",
+    "author": "Bordecia34",
+    "source": "https://www.flickr.com/photos/habesha/389922635",
+    "license": "CC BY 2.0"
+  },
+  "Desi Eggs": {
+    "file": "desi-eggs.webp",
+    "author": "Gregg Tavares",
+    "source": "https://www.flickr.com/photos/greggman/12189654656",
+    "license": "CC BY 2.0"
+  },
+  "Hand-churned Butter": {
+    "file": "hand-churned-butter.webp",
+    "author": "jibunkaiwai",
+    "source": "https://www.flickr.com/photos/97493971@N04/14903536851",
+    "license": "CC BY 2.0"
+  },
+  "Natural Yogurt": {
+    "file": "natural-yogurt.webp",
+    "author": "Benjamin Vander Steen",
+    "source": "https://www.flickr.com/photos/bjvs/4289648711",
+    "license": "CC BY 2.0"
+  },
+  "Country Sourdough Loaf": {
+    "file": "country-sourdough-loaf.webp",
+    "author": "winestem",
+    "source": "https://www.flickr.com/photos/winestem/11711682844",
+    "license": "CC BY 2.0"
+  },
+  "Classic Baguette": {
+    "file": "classic-baguette.webp",
+    "author": "Jon Chan",
+    "source": "https://www.flickr.com/photos/130756145@N06/16929685187",
+    "license": "CC BY 2.0"
+  },
+  "Butter Croissants": {
+    "file": "butter-croissants.webp",
+    "author": "Yukiko Matsuoka",
+    "source": "https://www.flickr.com/photos/yukikomatsuoka/12139089216",
+    "license": "CC BY 2.0"
+  },
+  "Whole Wheat Naan": {
+    "file": "whole-wheat-naan.webp",
+    "author": "Denise Krebs",
+    "source": "https://www.flickr.com/photos/mrsdkrebs/10636042286",
+    "license": "CC BY 2.0"
+  },
+  "Sesame Bagels": {
+    "file": "sesame-bagels.webp",
+    "author": "brett jordan",
+    "source": "https://www.flickr.com/photos/x1brett/21198630385",
+    "license": "CC BY 2.0"
+  },
+  "Seasonal Fruit Pie": {
+    "file": "seasonal-fruit-pie.webp",
+    "author": "6SN7",
+    "source": "https://www.flickr.com/photos/47800690@N03/4643208764",
+    "license": "CC BY 2.0"
+  },
+  "Oat Chocolate Cookies": {
+    "file": "oat-chocolate-cookies.webp",
+    "author": "rusvaplauke",
+    "source": "https://www.flickr.com/photos/rusvaplauke/863804402",
+    "license": "CC BY 2.0"
+  },
+  "Fresh Mint (Podina)": {
+    "file": "fresh-mint-podina.webp",
+    "author": "Jonathan",
+    "source": "https://www.flickr.com/photos/jon_bedford/7615555650",
+    "license": "CC BY 2.0"
+  },
+  "Coriander (Dhania)": {
+    "file": "coriander-dhania.webp",
+    "author": "Qfamily",
+    "source": "https://www.flickr.com/photos/dasqfamily/2648343226",
+    "license": "CC BY 2.0"
+  },
+  "Baby Spinach": {
+    "file": "baby-spinach.webp",
+    "author": "Anna B",
+    "source": "https://www.flickr.com/photos/annas_bananas/8039953648",
+    "license": "CC BY 2.0"
+  },
+  "Iceberg Lettuce": {
+    "file": "iceberg-lettuce.webp",
+    "author": "Eric BC Lim",
+    "source": "https://www.flickr.com/photos/ericlbc/3704845618",
+    "license": "CC BY 2.0"
+  },
+  "Broccoli": {
+    "file": "broccoli.webp",
+    "author": "Mike Mozart",
+    "source": "https://www.flickr.com/photos/jeepersmedia/14948279090",
+    "license": "CC BY 2.0"
+  },
+  "Button Mushrooms": {
+    "file": "button-mushrooms.webp",
+    "author": "Steven Depolo",
+    "source": "https://www.flickr.com/photos/stevendepolo/9490470178",
+    "license": "CC BY 2.0"
+  },
+  "Wild Sidr Honey": {
+    "file": "wild-sidr-honey.webp",
+    "author": "Annabelle Orozco",
+    "source": "https://www.flickr.com/photos/annabelleorozco/7915650268",
+    "license": "CC BY 2.0"
+  },
+  "Acacia Honey": {
+    "file": "acacia-honey.webp",
+    "author": "J.H. Fearless",
+    "source": "https://www.flickr.com/photos/jessicareeder/3881377113",
+    "license": "CC BY 2.0"
+  },
+  "Strawberry Jam": {
+    "file": "strawberry-jam.webp",
+    "author": "John S. Quarterman",
+    "source": "https://www.flickr.com/photos/98706376@N00/5208302127",
+    "license": "CC BY 2.0"
+  },
+  "Mango Chutney": {
+    "file": "mango-chutney.webp",
+    "author": "Alex \"Skud\" Bayley",
+    "source": "https://www.flickr.com/photos/alexsbayley/8325484858",
+    "license": "CC BY 2.0"
+  },
+  "Green Olives in Brine": {
+    "file": "green-olives-in-brine.webp",
+    "author": "jules",
+    "source": "https://www.flickr.com/photos/stone-soup/5186237797",
+    "license": "CC BY 2.0"
+  },
+  "Chakki Atta (5 kg)": {
+    "file": "chakki-atta-5-kg.webp",
+    "author": "a200/a77Wells",
+    "source": "https://www.flickr.com/photos/aiwells/4408137370/",
+    "license": "CC BY 2.0"
+  },
+  "Aged Basmati Rice": {
+    "file": "aged-basmati-rice.webp",
+    "author": "Vanessa Pike-Russell",
+    "source": "https://www.flickr.com/photos/lilcrabbygal/372888145",
+    "license": "CC BY 2.0"
+  },
+  "Red Kidney Beans": {
+    "file": "red-kidney-beans.webp",
+    "author": "Alice Seba",
+    "source": "https://www.flickr.com/photos/vegetarianlost/8271866292",
+    "license": "CC BY 2.0"
+  },
+  "Roasted Peanuts": {
+    "file": "roasted-peanuts.webp",
+    "author": "Marvin Lee",
+    "source": "https://www.flickr.com/photos/marvin_lee/5265470301",
+    "license": "CC BY 2.0"
+  },
+  "Green Peas (Matar)": {
+    "file": "green-peas-matar.webp",
+    "author": "brett jordan",
+    "source": "https://www.flickr.com/photos/x1brett/6387887797",
+    "license": "CC BY 2.0"
+  },
+  "Sunflower Bunch": {
+    "file": "sunflower-bunch.webp",
+    "author": "Delaware Cooperative Extension",
+    "source": "https://www.flickr.com/photos/udextension/14452588297",
+    "license": "CC BY 2.0"
+  },
+  "Desi Rose Bouquet": {
+    "file": "desi-rose-bouquet.webp",
+    "author": "Ling Manh Nguyen Tran",
+    "source": "https://www.flickr.com/photos/lingdezign/3738049394",
+    "license": "CC BY 2.0"
+  },
+  "Tulip Bunch": {
+    "file": "tulip-bunch.webp",
+    "author": "Thanh-Tung Nguyen",
+    "source": "https://www.flickr.com/photos/markryan1990/5409500700",
+    "license": "CC BY 2.0"
+  },
+  "Money Plant (Potted)": {
+    "file": "money-plant-potted.webp",
+    "author": "Ross Elliott",
+    "source": "https://www.flickr.com/photos/ross_elliott/4574608372/",
+    "license": "CC BY 2.0"
+  },
+  "Mini Cactus": {
+    "file": "mini-cactus.webp",
+    "author": "Scott Wylie",
+    "source": "https://www.flickr.com/photos/scotbot/16576852608",
+    "license": "CC BY 2.0"
+  },
+  "Hibiscus Plant": {
+    "file": "hibiscus-plant.webp",
+    "author": "Thomas Tolkien",
+    "source": "https://www.flickr.com/photos/tomtolkien/4080875237",
+    "license": "CC BY 2.0"
+  },
+  "Strawberries": {
+    "file": "strawberries.webp",
+    "author": "amrufm",
+    "source": "https://www.flickr.com/photos/amrufm/653669419",
+    "license": "CC BY 2.0"
+  },
+  "Kinnow Oranges": {
+    "file": "kinnow-oranges.webp",
+    "author": "kizzzbeth",
+    "source": "https://www.flickr.com/photos/31403417@N00/5533711650",
+    "license": "CC BY 2.0"
+  },
+  "Sweet Potatoes": {
+    "file": "sweet-potatoes.webp",
+    "author": "Mike Licht",
+    "source": "https://www.flickr.com/photos/notionscapital/10894990276",
+    "license": "CC BY 2.0"
+  },
+  "Sweet Corn": {
+    "file": "sweet-corn.webp",
+    "author": "Rosana Prada",
+    "source": "https://www.flickr.com/photos/zanastardust/1303616796",
+    "license": "CC BY 2.0"
+  },
+  "Garlic": {
+    "file": "garlic.webp",
+    "author": "David, Bergin, Emmett and Elliott",
+    "source": "https://www.flickr.com/photos/beglen/151174701",
+    "license": "CC BY 2.0"
+  },
+  "Fresh Ginger": {
+    "file": "fresh-ginger.webp",
+    "author": "Thomas Won",
+    "source": "https://www.flickr.com/photos/thomaswon9121/2836510402",
+    "license": "CC BY 2.0"
+  },
+  "Red Apples": {
+    "file": "red-apples.webp",
+    "author": "Clyde Robinson",
+    "source": "https://www.flickr.com/photos/crobj/3074550049",
+    "license": "CC BY 2.0"
+  },
+  "Green Apples": {
+    "file": "green-apples.webp",
+    "author": "Selma Broeder",
+    "source": "https://www.flickr.com/photos/selma90/3675162262",
+    "license": "CC BY 2.0"
+  },
+  "Peaches": {
+    "file": "peaches.webp",
+    "author": "Kurman Communications, Inc.",
+    "source": "https://www.flickr.com/photos/kurmanphotos/14844000216",
+    "license": "CC BY 2.0"
+  },
+  "Cherries": {
+    "file": "cherries.webp",
+    "author": "Pat (Cletch) Williams",
+    "source": "https://www.flickr.com/photos/cletch/19471553051",
+    "license": "CC BY 2.0"
+  },
+  "Kiwi": {
+    "file": "kiwi.webp",
+    "author": "Gaye Launder",
+    "source": "https://www.flickr.com/photos/28912254@N04/16480336605",
+    "license": "CC BY 2.0"
+  },
+  "Pears": {
+    "file": "pears.webp",
+    "author": "Steven Jackson",
+    "source": "https://www.flickr.com/photos/jackson3/3860359915",
+    "license": "CC BY 2.0"
+  },
+  "Goat Milk": {
+    "file": "goat-milk.webp",
+    "author": "Rebecca Siegel",
+    "source": "https://www.flickr.com/photos/grongar/5529448988",
+    "license": "CC BY 2.0"
+  }
+}

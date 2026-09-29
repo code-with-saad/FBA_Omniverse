@@ -1,0 +1,4577 @@
+[
+  {
+    "_id": "6ab81d4b532629ea684fb87f",
+    "farmer": "6ab81d4b532629ea684fb87b",
+    "name": "Vine Tomatoes",
+    "nameUr": "بیل کے ٹماٹر",
+    "slug": "vine-tomatoes",
+    "category": "6ab81d4b532629ea684fb861",
+    "price": 180,
+    "compareAtPrice": 220,
+    "unit": "kg",
+    "quantityAvailable": 57,
+    "templateQuantity": 60,
+    "lowStockThreshold": 5,
+    "description": "Juicy red tomatoes ripened on the vine. Perfect for salads, karahi and chutneys.",
+    "descriptionUr": "بیل پر پکے ہوئے رس بھرے لال ٹماٹر۔ سلاد، کڑاہی اور چٹنی کے لیے بہترین۔",
+    "keywords": [
+      "vine tomatoes",
+      "fresh vine tomatoes",
+      "vegetables karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Vine Tomatoes from Malir Green Fields in Karachi (pesticide-free, family farm): deep red and full of flavour, picked ripe from the vine, sold per kg for Rs 180. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Keep out of the fridge so they stay fragrant.",
+      "uses": "Salads, salan, chutney and home-made ketchup",
+      "usesUr": "سلاد، سالن، چٹنی اور گھر کے بنے کیچپ کے لیے",
+      "storageUr": "فریج سے باہر رکھیں تاکہ ان کی خوشبو برقرار رہے۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.747Z"
+    },
+    "image": "/uploads/photos/vine-tomatoes.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/vine-tomatoes-2.webp",
+        "credit": {
+          "author": "Tony Austin",
+          "source": "https://www.flickr.com/photos/tonyaustin/5145408816",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb880"
+      },
+      {
+        "url": "/uploads/photos/gallery/vine-tomatoes-3.webp",
+        "credit": {
+          "author": "Scot Nelson",
+          "source": "https://www.flickr.com/photos/scotnelson/16602689331",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb881"
+      }
+    ],
+    "imageCredit": {
+      "author": "OakleyOriginals",
+      "source": "https://www.flickr.com/photos/oakleyoriginals/3782406876",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb873"
+    ],
+    "days": [
+      0,
+      5,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 3.5,
+    "ratingCount": 2,
+    "totalSold": 35,
+    "createdAt": "2026-09-26T19:30:19.750Z",
+    "updatedAt": "2026-09-26T19:30:22.131Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb882",
+    "farmer": "6ab81d4b532629ea684fb87b",
+    "name": "Sweet Carrots",
+    "nameUr": "میٹھی گاجریں",
+    "slug": "sweet-carrots",
+    "category": "6ab81d4b532629ea684fb861",
+    "price": 120,
+    "unit": "kg",
+    "quantityAvailable": 42,
+    "templateQuantity": 45,
+    "lowStockThreshold": 5,
+    "description": "Crunchy winter carrots, great for gajar ka halwa or fresh juice.",
+    "descriptionUr": "سردیوں کی کرکری گاجریں، گاجر کے حلوے یا تازہ جوس کے لیے بہترین۔",
+    "keywords": [
+      "sweet carrots",
+      "fresh sweet carrots",
+      "vegetables karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Sweet Carrots from Malir Green Fields in Karachi (pesticide-free, family farm): crunchy and naturally sweet, sold per kg for Rs 120. Pre-order on MarketLink and collect it at the market.",
+      "season": "November to February",
+      "storage": "Remove the tops and keep in the fridge crisper.",
+      "uses": "Gajar ka halwa, salads, juices and pickles",
+      "usesUr": "گاجر کے حلوے، سلاد، جوس اور اچار کے لیے",
+      "storageUr": "اوپر کے پتے ہٹا کر فریج کے سبزی والے خانے میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.754Z"
+    },
+    "image": "/uploads/photos/sweet-carrots.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/sweet-carrots-2.webp",
+        "credit": {
+          "author": "Ecotrust",
+          "source": "https://www.flickr.com/photos/ecotrust/9498702654",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb883"
+      },
+      {
+        "url": "/uploads/photos/gallery/sweet-carrots-3.webp",
+        "credit": {
+          "author": "Laura",
+          "source": "https://www.flickr.com/photos/tigergirl/6774215356",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb884"
+      }
+    ],
+    "imageCredit": {
+      "author": "David Amsler",
+      "source": "https://www.flickr.com/photos/amslerpix/10180357455/",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb873"
+    ],
+    "days": [
+      0,
+      5,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.33,
+    "ratingCount": 3,
+    "totalSold": 34,
+    "createdAt": "2026-09-26T19:30:19.755Z",
+    "updatedAt": "2026-09-26T19:30:22.136Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb885",
+    "farmer": "6ab81d4b532629ea684fb87b",
+    "name": "Farm Potatoes",
+    "nameUr": "فارم کے آلو",
+    "slug": "farm-potatoes",
+    "category": "6ab81d4b532629ea684fb861",
+    "price": 90,
+    "compareAtPrice": 125,
+    "unit": "kg",
+    "quantityAvailable": 87,
+    "templateQuantity": 80,
+    "lowStockThreshold": 5,
+    "description": "Versatile all-purpose potatoes, washed and sorted.",
+    "descriptionUr": "ہر کام کے آلو، دھلے ہوئے اور چھانٹے ہوئے۔",
+    "keywords": [
+      "farm potatoes",
+      "fresh farm potatoes",
+      "vegetables karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Farm Potatoes from Malir Green Fields in Karachi (pesticide-free, family farm): firm and creamy, freshly dug with the skin on, sold per kg for Rs 90. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Store in a cool, dark place away from onions.",
+      "uses": "Aloo bhujia, fries, curries and parathas",
+      "usesUr": "آلو بھجیا، فرائز، سالن اور پراٹھوں کے لیے",
+      "storageUr": "ٹھنڈی اور اندھیری جگہ پر، پیاز سے دور رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.758Z"
+    },
+    "image": "/uploads/photos/farm-potatoes.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/farm-potatoes-2.webp",
+        "credit": {
+          "author": "taylorandayumi",
+          "source": "https://www.flickr.com/photos/taylorandayumi/2722398528",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb886"
+      },
+      {
+        "url": "/uploads/photos/gallery/farm-potatoes-3.webp",
+        "credit": {
+          "author": "Bratislavská župa",
+          "source": "https://www.flickr.com/photos/fotopavolfreso/6179259000",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb887"
+      }
+    ],
+    "imageCredit": {
+      "author": "Tatsuo Yamashita",
+      "source": "https://www.flickr.com/photos/yto/18986066750",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb873"
+    ],
+    "days": [
+      0,
+      5,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 5,
+    "ratingCount": 1,
+    "totalSold": 24,
+    "createdAt": "2026-09-26T19:30:19.759Z",
+    "updatedAt": "2026-09-26T19:30:22.333Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb888",
+    "farmer": "6ab81d4b532629ea684fb87b",
+    "name": "Red Onions",
+    "nameUr": "لال پیاز",
+    "slug": "red-onions",
+    "category": "6ab81d4b532629ea684fb861",
+    "price": 140,
+    "unit": "kg",
+    "quantityAvailable": 65,
+    "templateQuantity": 70,
+    "lowStockThreshold": 5,
+    "description": "Sharp, flavourful red onions from our dry fields.",
+    "descriptionUr": "ہمارے خشک کھیتوں کے تیز اور ذائقہ دار لال پیاز۔",
+    "keywords": [
+      "red onions",
+      "fresh red onions",
+      "vegetables karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Red Onions from Malir Green Fields in Karachi (pesticide-free, family farm): crisp with a clean, sharp bite, sold per kg for Rs 140. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Keep dry and airy; they last for weeks.",
+      "uses": "Tarka, salads and every everyday curry",
+      "usesUr": "تڑکے، سلاد اور روزمرہ کے ہر سالن کے لیے",
+      "storageUr": "خشک اور ہوادار جگہ پر رکھیں؛ یہ کئی ہفتے چلتے ہیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.762Z"
+    },
+    "image": "/uploads/photos/red-onions.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/red-onions-2.webp",
+        "credit": {
+          "author": "Johan Bichel Lindegaard",
+          "source": "https://www.flickr.com/photos/accidentdesigns/5560910594",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb889"
+      },
+      {
+        "url": "/uploads/photos/gallery/red-onions-3.webp",
+        "credit": {
+          "author": "macinate",
+          "source": "https://www.flickr.com/photos/macinate/2103215408",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb88a"
+      }
+    ],
+    "imageCredit": {
+      "author": "Senado Federal",
+      "source": "https://www.flickr.com/photos/agenciasenado/15714731157",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb873"
+    ],
+    "days": [
+      0,
+      5,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.5,
+    "ratingCount": 2,
+    "totalSold": 27,
+    "createdAt": "2026-09-26T19:30:19.764Z",
+    "updatedAt": "2026-09-26T19:30:22.341Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb88b",
+    "farmer": "6ab81d4b532629ea684fb87b",
+    "name": "Desi Cucumbers",
+    "nameUr": "دیسی کھیرے",
+    "slug": "desi-cucumbers",
+    "category": "6ab81d4b532629ea684fb861",
+    "price": 100,
+    "unit": "kg",
+    "quantityAvailable": 28,
+    "templateQuantity": 30,
+    "lowStockThreshold": 5,
+    "description": "Small, crisp cucumbers with thin skin. Great for raita.",
+    "descriptionUr": "پتلے چھلکے والے چھوٹے کرکرے کھیرے۔ رائتے کے لیے بہترین۔",
+    "keywords": [
+      "desi cucumbers",
+      "fresh desi cucumbers",
+      "vegetables karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Desi Cucumbers from Malir Green Fields in Karachi (pesticide-free, family farm): cool, crisp and refreshing with thin skin, sold per kg for Rs 100. Pre-order on MarketLink and collect it at the market.",
+      "season": "April to September",
+      "storage": "Refrigerate and use within a week.",
+      "uses": "Raita, salads and summer drinks",
+      "usesUr": "رائتے، سلاد اور گرمیوں کے مشروبات کے لیے",
+      "storageUr": "فریج میں رکھیں اور ایک ہفتے کے اندر استعمال کریں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.766Z"
+    },
+    "image": "/uploads/photos/desi-cucumbers.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/desi-cucumbers-2.webp",
+        "credit": {
+          "author": "Annie Mole",
+          "source": "https://www.flickr.com/photos/anniemole/2792318110",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb88c"
+      },
+      {
+        "url": "/uploads/photos/gallery/desi-cucumbers-3.webp",
+        "credit": {
+          "author": "His Sad Shadow",
+          "source": "https://www.flickr.com/photos/54571512@N07/18832838753",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb88d"
+      }
+    ],
+    "imageCredit": {
+      "author": "Peter Oelschlaeger",
+      "source": "https://www.flickr.com/photos/thunderpete/6063337466",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb873"
+    ],
+    "days": [
+      0,
+      5,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.5,
+    "ratingCount": 4,
+    "totalSold": 28,
+    "createdAt": "2026-09-26T19:30:19.768Z",
+    "updatedAt": "2026-09-26T19:30:22.144Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb88e",
+    "farmer": "6ab81d4b532629ea684fb87b",
+    "name": "Purple Brinjal",
+    "nameUr": "جامنی بینگن",
+    "slug": "purple-brinjal",
+    "category": "6ab81d4b532629ea684fb861",
+    "price": 110,
+    "unit": "kg",
+    "quantityAvailable": 22,
+    "templateQuantity": 25,
+    "lowStockThreshold": 5,
+    "description": "Glossy round brinjals ideal for bharta and baingan fry.",
+    "descriptionUr": "چمکدار گول بینگن، بھرتے اور تلے ہوئے بینگن کے لیے بہترین۔",
+    "keywords": [
+      "purple brinjal",
+      "fresh purple brinjal",
+      "vegetables karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Purple Brinjal from Malir Green Fields in Karachi (pesticide-free, family farm): glossy, firm and freshly picked, sold per kg for Rs 110. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Keep in a cool place and cook within a few days.",
+      "uses": "Baingan bharta, salan and crispy pakoras",
+      "usesUr": "بینگن کے بھرتے، سالن اور کرکرے پکوڑوں کے لیے",
+      "storageUr": "ٹھنڈی جگہ پر رکھیں اور چند دن میں پکا لیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.770Z"
+    },
+    "image": "/uploads/photos/purple-brinjal.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/purple-brinjal-2.webp",
+        "credit": {
+          "author": "Counse",
+          "source": "https://www.flickr.com/photos/cbroders/5968689301",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb88f"
+      },
+      {
+        "url": "/uploads/photos/gallery/purple-brinjal-3.webp",
+        "credit": {
+          "author": "Håvar og Solveig",
+          "source": "https://www.flickr.com/photos/seenful/3826712768",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb890"
+      }
+    ],
+    "imageCredit": {
+      "author": "Mike Mozart",
+      "source": "https://www.flickr.com/photos/jeepersmedia/14948233400",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb873"
+    ],
+    "days": [
+      0,
+      5,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.71,
+    "ratingCount": 7,
+    "totalSold": 33,
+    "createdAt": "2026-09-26T19:30:19.772Z",
+    "updatedAt": "2026-09-26T19:30:22.338Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb891",
+    "farmer": "6ab81d4b532629ea684fb87b",
+    "name": "Capsicum Mix",
+    "nameUr": "رنگ برنگی شملہ مرچ",
+    "slug": "capsicum-mix",
+    "category": "6ab81d4b532629ea684fb861",
+    "price": 320,
+    "unit": "kg",
+    "quantityAvailable": 0,
+    "templateQuantity": 20,
+    "lowStockThreshold": 5,
+    "description": "Green and red bell peppers. Sold out this week, back next harvest.",
+    "descriptionUr": "ہری اور لال شملہ مرچ۔ اس ہفتے ختم ہے، اگلی فصل میں دوبارہ آئے گی۔",
+    "keywords": [
+      "capsicum mix",
+      "fresh capsicum mix",
+      "vegetables karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Capsicum Mix from Malir Green Fields in Karachi (pesticide-free, family farm): glossy, crunchy and mildly sweet, sold per kg for Rs 320. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Keep dry in the fridge.",
+      "uses": "Stir-fries, pizza, salads and stuffed shimla mirch",
+      "usesUr": "فرائی، پیزا، سلاد اور بھری ہوئی شملہ مرچ کے لیے",
+      "storageUr": "فریج میں خشک رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.774Z"
+    },
+    "image": "/uploads/photos/capsicum-mix.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/capsicum-mix-2.webp",
+        "credit": {
+          "author": "Eric Rosenbaum",
+          "source": "https://www.flickr.com/photos/ericrosenbaum/8534574527",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb892"
+      },
+      {
+        "url": "/uploads/photos/gallery/capsicum-mix-3.webp",
+        "credit": {
+          "author": "joe beasley",
+          "source": "https://www.flickr.com/photos/23563996@N06/2356155117",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb893"
+      }
+    ],
+    "imageCredit": {
+      "author": "erfan a. setiawan",
+      "source": "https://www.flickr.com/photos/postflowersyndroms/10382304176",
+      "license": "CC BY 2.0"
+    },
+    "status": "sold_out",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb873"
+    ],
+    "days": [
+      0,
+      5,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.83,
+    "ratingCount": 6,
+    "totalSold": 24,
+    "createdAt": "2026-09-26T19:30:19.775Z",
+    "updatedAt": "2026-09-26T19:30:22.381Z",
+    "__v": 0,
+    "lowStockAlertedAt": "2026-09-26T19:30:22.380Z",
+    "soldOutAlertedAt": "2026-09-26T19:30:22.381Z"
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb894",
+    "farmer": "6ab81d4b532629ea684fb87b",
+    "name": "Green Chillies",
+    "nameUr": "ہری مرچیں",
+    "slug": "green-chillies",
+    "category": "6ab81d4b532629ea684fb861",
+    "price": 240,
+    "unit": "kg",
+    "quantityAvailable": 11,
+    "templateQuantity": 12,
+    "lowStockThreshold": 5,
+    "description": "Fiery green chillies, freshly picked.",
+    "descriptionUr": "تازہ توڑی ہوئی تیز ہری مرچیں۔",
+    "keywords": [
+      "green chillies",
+      "fresh green chillies",
+      "vegetables karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Green Chillies from Malir Green Fields in Karachi (pesticide-free, family farm): crisp, bright green and pleasantly hot, sold per kg for Rs 240. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Keep dry in the fridge; removing the stems helps them last longer.",
+      "uses": "Salan, chutneys, raita and pickles",
+      "usesUr": "سالن، چٹنی، رائتے اور اچار کے لیے",
+      "storageUr": "فریج میں خشک رکھیں؛ ڈنٹھل ہٹانے سے دیر تک چلتی ہیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.779Z"
+    },
+    "image": "/uploads/photos/green-chillies.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/green-chillies-2.webp",
+        "credit": {
+          "author": "Danielle Walquist  Lynch",
+          "source": "https://www.flickr.com/photos/25195310@N02/3853486272",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb895"
+      },
+      {
+        "url": "/uploads/photos/gallery/green-chillies-3.webp",
+        "credit": {
+          "author": "jakerome",
+          "source": "https://www.flickr.com/photos/jakerome/4745134128",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb896"
+      }
+    ],
+    "imageCredit": {
+      "author": "brownpau",
+      "source": "https://www.flickr.com/photos/brownpau/11757786526",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb873"
+    ],
+    "days": [
+      0,
+      5,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4,
+    "ratingCount": 5,
+    "totalSold": 30,
+    "createdAt": "2026-09-26T19:30:19.780Z",
+    "updatedAt": "2026-09-26T19:30:22.151Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb89c",
+    "farmer": "6ab81d4b532629ea684fb898",
+    "name": "Sindhri Mangoes",
+    "nameUr": "سندھڑی آم",
+    "slug": "sindhri-mangoes",
+    "category": "6ab81d4b532629ea684fb862",
+    "price": 350,
+    "unit": "kg",
+    "quantityAvailable": 87,
+    "templateQuantity": 90,
+    "lowStockThreshold": 5,
+    "description": "The king of fruits. Sweet, fibre-less Sindhri mangoes.",
+    "descriptionUr": "پھلوں کا بادشاہ۔ میٹھے، بغیر ریشے کے سندھڑی آم۔",
+    "keywords": [
+      "sindhri mangoes",
+      "fresh sindhri mangoes",
+      "fruits karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Sindhri Mangoes from Gadap Orchard Co. in Karachi (tree-ripened, orchard): sweet, fragrant and juicy, with smooth fibre-free flesh, sold per kg for Rs 350. Pre-order on MarketLink and collect it at the market.",
+      "season": "May to August",
+      "storage": "Leave at room temperature until they give slightly when pressed, then chill.",
+      "uses": "Eating fresh, milkshakes, lassi or a summer fruit chaat",
+      "usesUr": "تازہ کھانے، ملک شیک، لسی یا گرمیوں کی فروٹ چاٹ کے لیے",
+      "storageUr": "کمرے کے درجۂ حرارت پر رکھیں، دبانے پر ہلکے نرم ہو جائیں تو فریج میں رکھ دیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.872Z"
+    },
+    "image": "/uploads/photos/sindhri-mangoes.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/sindhri-mangoes-2.webp",
+        "credit": {
+          "author": "instinctify",
+          "source": "https://www.flickr.com/photos/instinctify/3992572489",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb89d"
+      },
+      {
+        "url": "/uploads/photos/gallery/sindhri-mangoes-3.webp",
+        "credit": {
+          "author": "Ana Rodríguez  Carrington",
+          "source": "https://www.flickr.com/photos/ana_carrington/4093571989",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb89e"
+      }
+    ],
+    "imageCredit": {
+      "author": "Martin Howard",
+      "source": "https://www.flickr.com/photos/martinhoward/5397244901",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb874",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      3,
+      5
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4,
+    "ratingCount": 1,
+    "totalSold": 24,
+    "createdAt": "2026-09-26T19:30:19.873Z",
+    "updatedAt": "2026-09-26T19:30:22.153Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb89f",
+    "farmer": "6ab81d4b532629ea684fb898",
+    "name": "Chaunsa Mangoes",
+    "nameUr": "چونسا آم",
+    "slug": "chaunsa-mangoes",
+    "category": "6ab81d4b532629ea684fb862",
+    "price": 400,
+    "unit": "kg",
+    "quantityAvailable": 40,
+    "templateQuantity": 40,
+    "lowStockThreshold": 5,
+    "description": "Late-season Chaunsa with rich, honey-like sweetness.",
+    "descriptionUr": "موسم کے آخر کا چونسا، شہد جیسی بھرپور مٹھاس کے ساتھ۔",
+    "keywords": [
+      "chaunsa mangoes",
+      "fresh chaunsa mangoes",
+      "fruits karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Chaunsa Mangoes from Gadap Orchard Co. in Karachi (tree-ripened, orchard): sweet, fragrant and juicy, with smooth fibre-free flesh, sold per kg for Rs 400. Pre-order on MarketLink and collect it at the market.",
+      "season": "May to August",
+      "storage": "Leave at room temperature until they give slightly when pressed, then chill.",
+      "uses": "Eating fresh, milkshakes, lassi or a summer fruit chaat",
+      "usesUr": "تازہ کھانے، ملک شیک، لسی یا گرمیوں کی فروٹ چاٹ کے لیے",
+      "storageUr": "کمرے کے درجۂ حرارت پر رکھیں، دبانے پر ہلکے نرم ہو جائیں تو فریج میں رکھ دیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.876Z"
+    },
+    "image": "/uploads/photos/chaunsa-mangoes.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/chaunsa-mangoes-2.webp",
+        "credit": {
+          "author": "Fernanda Ramalho",
+          "source": "https://www.flickr.com/photos/nanda_ac/2904757195",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb8a0"
+      },
+      {
+        "url": "/uploads/photos/gallery/chaunsa-mangoes-3.webp",
+        "credit": {
+          "author": "Yvette  Tan",
+          "source": "https://www.flickr.com/photos/glossmania/8741301104",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb8a1"
+      }
+    ],
+    "imageCredit": {
+      "author": "Milton Ramirez",
+      "source": "https://www.flickr.com/photos/tonmil/2635493222",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb874",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      3,
+      5
+    ],
+    "farmerActive": true,
+    "ratingAvg": 3.5,
+    "ratingCount": 2,
+    "totalSold": 25,
+    "createdAt": "2026-09-26T19:30:19.878Z",
+    "updatedAt": "2026-09-26T19:30:22.155Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb8a2",
+    "farmer": "6ab81d4b532629ea684fb898",
+    "name": "Bananas",
+    "nameUr": "کیلے",
+    "slug": "bananas",
+    "category": "6ab81d4b532629ea684fb862",
+    "price": 180,
+    "unit": "dozen",
+    "quantityAvailable": 49,
+    "templateQuantity": 50,
+    "lowStockThreshold": 5,
+    "description": "Naturally ripened bananas from our riverside plots.",
+    "descriptionUr": "دریا کنارے ہمارے کھیتوں کے قدرتی طور پر پکے کیلے۔",
+    "keywords": [
+      "bananas",
+      "fresh bananas",
+      "fruits karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Bananas from Gadap Orchard Co. in Karachi (tree-ripened, orchard): creamy and naturally sweet, sold per dozen for Rs 180. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Keep at room temperature, away from other fruit.",
+      "uses": "Breakfast, milkshakes and banana bread",
+      "usesUr": "ناشتے، ملک شیک اور بنانا بریڈ کے لیے",
+      "storageUr": "کمرے کے درجۂ حرارت پر، دوسرے پھلوں سے الگ رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.881Z"
+    },
+    "image": "/uploads/photos/bananas.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/bananas-2.webp",
+        "credit": {
+          "author": "Yuya Tamai",
+          "source": "https://www.flickr.com/photos/tamaiyuya/6024251426",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb8a3"
+      },
+      {
+        "url": "/uploads/photos/gallery/bananas-3.webp",
+        "credit": {
+          "author": "Kai Chan Vong",
+          "source": "https://www.flickr.com/photos/kaichanvong/3323447663",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb8a4"
+      }
+    ],
+    "imageCredit": {
+      "author": "Brendan C",
+      "source": "https://www.flickr.com/photos/brendan-c/5242022634",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb874",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      3,
+      5
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.67,
+    "ratingCount": 3,
+    "totalSold": 13,
+    "createdAt": "2026-09-26T19:30:19.882Z",
+    "updatedAt": "2026-09-26T19:30:22.157Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb8a5",
+    "farmer": "6ab81d4b532629ea684fb898",
+    "name": "Watermelon",
+    "nameUr": "تربوز",
+    "slug": "watermelon",
+    "category": "6ab81d4b532629ea684fb862",
+    "price": 70,
+    "compareAtPrice": 90,
+    "unit": "kg",
+    "quantityAvailable": 35,
+    "templateQuantity": 35,
+    "lowStockThreshold": 5,
+    "description": "Crisp and sweet summer watermelons.",
+    "descriptionUr": "گرمیوں کے کرکرے اور میٹھے تربوز۔",
+    "keywords": [
+      "watermelon",
+      "fresh watermelon",
+      "fruits karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Watermelon from Gadap Orchard Co. in Karachi (tree-ripened, orchard): sweet, cool and very juicy, sold per kg for Rs 70. Pre-order on MarketLink and collect it at the market.",
+      "season": "May to July",
+      "storage": "Keep whole at room temperature; chill once cut.",
+      "uses": "Summer snacks and fresh juice",
+      "usesUr": "گرمیوں کے ہلکے ناشتے اور تازہ جوس کے لیے",
+      "storageUr": "پورا کمرے کے درجۂ حرارت پر رکھیں؛ کاٹنے کے بعد ٹھنڈا کریں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.885Z"
+    },
+    "image": "/uploads/photos/watermelon.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/watermelon-2.webp",
+        "credit": {
+          "author": "zeevveez",
+          "source": "https://www.flickr.com/photos/zeevveez/19769689843",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb8a6"
+      },
+      {
+        "url": "/uploads/photos/gallery/watermelon-3.webp",
+        "credit": {
+          "author": "liz west",
+          "source": "https://www.flickr.com/photos/calliope/30594833",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb8a7"
+      }
+    ],
+    "imageCredit": {
+      "author": "bharat ram",
+      "source": "https://www.flickr.com/photos/12x/6748243111",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb874",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      3,
+      5
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.67,
+    "ratingCount": 3,
+    "totalSold": 22,
+    "createdAt": "2026-09-26T19:30:19.886Z",
+    "updatedAt": "2026-09-26T19:30:22.159Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb8a8",
+    "farmer": "6ab81d4b532629ea684fb898",
+    "name": "Cantaloupe Melon",
+    "nameUr": "خربوزہ",
+    "slug": "cantaloupe-melon",
+    "category": "6ab81d4b532629ea684fb862",
+    "price": 150,
+    "unit": "piece",
+    "quantityAvailable": 20,
+    "templateQuantity": 20,
+    "lowStockThreshold": 5,
+    "description": "Fragrant melons, perfect for breakfast.",
+    "descriptionUr": "خوشبودار خربوزے، ناشتے کے لیے بہترین۔",
+    "keywords": [
+      "cantaloupe melon",
+      "fresh cantaloupe melon",
+      "fruits karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Cantaloupe Melon from Gadap Orchard Co. in Karachi (tree-ripened, orchard): sweet, cool and very juicy, sold per piece for Rs 150. Pre-order on MarketLink and collect it at the market.",
+      "season": "May to July",
+      "storage": "Keep whole at room temperature; chill once cut.",
+      "uses": "Summer snacks and fresh juice",
+      "usesUr": "گرمیوں کے ہلکے ناشتے اور تازہ جوس کے لیے",
+      "storageUr": "پورا کمرے کے درجۂ حرارت پر رکھیں؛ کاٹنے کے بعد ٹھنڈا کریں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.888Z"
+    },
+    "image": "/uploads/photos/cantaloupe-melon.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/cantaloupe-melon-2.webp",
+        "credit": {
+          "author": "Jessica Fiess-Hill",
+          "source": "https://www.flickr.com/photos/gesika22/6177041324",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb8a9"
+      },
+      {
+        "url": "/uploads/photos/gallery/cantaloupe-melon-3.webp",
+        "credit": {
+          "author": "Reynosa Blogs",
+          "source": "https://www.flickr.com/photos/bloggers/2619500957",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb8aa"
+      }
+    ],
+    "imageCredit": {
+      "author": "yoppy",
+      "source": "https://www.flickr.com/photos/spilt-milk/964681042",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb874",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      3,
+      5
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.4,
+    "ratingCount": 5,
+    "totalSold": 39,
+    "createdAt": "2026-09-26T19:30:19.890Z",
+    "updatedAt": "2026-09-26T19:30:22.162Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb8ab",
+    "farmer": "6ab81d4b532629ea684fb898",
+    "name": "Tender Coconuts",
+    "nameUr": "کچے ناریل",
+    "slug": "tender-coconuts",
+    "category": "6ab81d4b532629ea684fb862",
+    "price": 200,
+    "unit": "piece",
+    "quantityAvailable": 15,
+    "templateQuantity": 15,
+    "lowStockThreshold": 5,
+    "description": "Fresh coconuts full of sweet water.",
+    "descriptionUr": "میٹھے پانی سے بھرے تازہ ناریل۔",
+    "keywords": [
+      "tender coconuts",
+      "fresh tender coconuts",
+      "fruits karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Tender Coconuts from Gadap Orchard Co. in Karachi (tree-ripened, orchard): young green coconuts full of sweet, cool coconut water, sold per piece for Rs 200. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Keep in a cool place and open within a few days.",
+      "uses": "A refreshing drink and the soft malai inside",
+      "usesUr": "تازگی بخش مشروب اور اندر کی نرم ملائی کے لیے",
+      "storageUr": "ٹھنڈی جگہ پر رکھیں اور چند دن میں کھول لیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.893Z"
+    },
+    "image": "/uploads/photos/tender-coconuts.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/tender-coconuts-2.webp",
+        "credit": {
+          "author": "Venetia Joubert Sarah Oosterveld",
+          "source": "https://www.flickr.com/photos/venetiajoubert/3330129785",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb8ac"
+      },
+      {
+        "url": "/uploads/photos/gallery/tender-coconuts-3.webp",
+        "credit": {
+          "author": "SteveR-",
+          "source": "https://www.flickr.com/photos/git/159872559",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb8ad"
+      }
+    ],
+    "imageCredit": {
+      "author": "Simon_sees",
+      "source": "https://www.flickr.com/photos/39551170@N02/11267574635",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb874",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      3,
+      5
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4,
+    "ratingCount": 1,
+    "totalSold": 12,
+    "createdAt": "2026-09-26T19:30:19.894Z",
+    "updatedAt": "2026-09-26T19:30:22.164Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb8ae",
+    "farmer": "6ab81d4b532629ea684fb898",
+    "name": "Lemons",
+    "nameUr": "لیموں",
+    "slug": "lemons",
+    "category": "6ab81d4b532629ea684fb862",
+    "price": 260,
+    "unit": "kg",
+    "quantityAvailable": 18,
+    "templateQuantity": 18,
+    "lowStockThreshold": 5,
+    "description": "Juicy desi lemons for sikanjabeen.",
+    "descriptionUr": "سکنجبین کے لیے رس بھرے دیسی لیموں۔",
+    "keywords": [
+      "lemons",
+      "fresh lemons",
+      "fruits karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Lemons from Gadap Orchard Co. in Karachi (tree-ripened, orchard): thin-skinned and bursting with juice, sold per kg for Rs 260. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Store at room temperature or chill for longer life.",
+      "uses": "Nimbu pani, salads, marinades and pickles",
+      "usesUr": "لیموں پانی، سلاد، میرینیڈ اور اچار کے لیے",
+      "storageUr": "کمرے کے درجۂ حرارت پر رکھیں، زیادہ دیر کے لیے فریج میں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.897Z"
+    },
+    "image": "/uploads/photos/lemons.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/lemons-2.webp",
+        "credit": {
+          "author": "Leslie Seaton",
+          "source": "https://www.flickr.com/photos/lacatholique/8449071333",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb8af"
+      },
+      {
+        "url": "/uploads/photos/gallery/lemons-3.webp",
+        "credit": {
+          "author": "6SN7",
+          "source": "https://www.flickr.com/photos/47800690@N03/11421505934",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb8b0"
+      }
+    ],
+    "imageCredit": {
+      "author": "Kevan",
+      "source": "https://www.flickr.com/photos/kevandotorg/4799876694",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb874",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      3,
+      5
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.67,
+    "ratingCount": 3,
+    "totalSold": 17,
+    "createdAt": "2026-09-26T19:30:19.898Z",
+    "updatedAt": "2026-09-26T19:30:22.166Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb8b6",
+    "farmer": "6ab81d4b532629ea684fb8b2",
+    "name": "Fresh Buffalo Milk",
+    "nameUr": "بھینس کا تازہ دودھ",
+    "slug": "fresh-buffalo-milk",
+    "category": "6ab81d4b532629ea684fb863",
+    "price": 240,
+    "unit": "litre",
+    "quantityAvailable": 58,
+    "templateQuantity": 60,
+    "lowStockThreshold": 5,
+    "description": "Creamy, unhomogenised buffalo milk, chilled at milking.",
+    "descriptionUr": "بھینس کا گاڑھا خالص دودھ، دوہتے ہی ٹھنڈا کیا گیا۔",
+    "keywords": [
+      "fresh buffalo milk",
+      "fresh fresh buffalo milk",
+      "dairy & eggs karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Fresh Buffalo Milk from Thatta Dairy Collective in Karachi (cooperative, grass-fed): fresh, creamy and collected the same morning, sold per litre for Rs 240. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Boil and refrigerate; use within two days.",
+      "uses": "Chai, kheer and breakfast",
+      "usesUr": "چائے، کھیر اور ناشتے کے لیے",
+      "storageUr": "ابال کر فریج میں رکھیں؛ دو دن کے اندر استعمال کریں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.971Z"
+    },
+    "image": "/uploads/photos/fresh-buffalo-milk.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/fresh-buffalo-milk-2.webp",
+        "credit": {
+          "author": "Tony Bowall Photography",
+          "source": "https://www.flickr.com/photos/tonybphotos/6923706605/",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb8b7"
+      }
+    ],
+    "imageCredit": {
+      "author": "~Pawsitive~Candie_N",
+      "source": "https://www.flickr.com/photos/scjn/3533592997",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb873",
+      "6ab81d4b532629ea684fb872"
+    ],
+    "days": [
+      0,
+      5,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 3.5,
+    "ratingCount": 2,
+    "totalSold": 23,
+    "createdAt": "2026-09-26T19:30:19.972Z",
+    "updatedAt": "2026-09-26T19:30:22.168Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb8b8",
+    "farmer": "6ab81d4b532629ea684fb8b2",
+    "name": "Farm Paneer",
+    "nameUr": "فارم کا پنیر",
+    "slug": "farm-paneer",
+    "category": "6ab81d4b532629ea684fb863",
+    "price": 1400,
+    "unit": "kg",
+    "quantityAvailable": 10,
+    "templateQuantity": 10,
+    "lowStockThreshold": 5,
+    "description": "Soft paneer made the same morning. Perfect for palak paneer.",
+    "descriptionUr": "اسی صبح بنا نرم پنیر۔ پالک پنیر کے لیے بہترین۔",
+    "keywords": [
+      "farm paneer",
+      "fresh farm paneer",
+      "dairy & eggs karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Farm Paneer from Thatta Dairy Collective in Karachi (cooperative, grass-fed): soft, fresh and milky, sold per kg for Rs 1,400. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Keep in water in the fridge and use within three days.",
+      "uses": "Palak paneer, tikka and bhurji",
+      "usesUr": "پالک پنیر، تکے اور بھرجی کے لیے",
+      "storageUr": "فریج میں پانی میں ڈبو کر رکھیں اور تین دن میں استعمال کریں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.975Z"
+    },
+    "image": "/uploads/photos/farm-paneer.webp",
+    "gallery": [],
+    "imageCredit": {
+      "author": "Bordecia34",
+      "source": "https://www.flickr.com/photos/habesha/389922635",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb873",
+      "6ab81d4b532629ea684fb872"
+    ],
+    "days": [
+      0,
+      5,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4,
+    "ratingCount": 5,
+    "totalSold": 24,
+    "createdAt": "2026-09-26T19:30:19.976Z",
+    "updatedAt": "2026-09-26T19:30:22.171Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb8b9",
+    "farmer": "6ab81d4b532629ea684fb8b2",
+    "name": "Desi Eggs",
+    "nameUr": "دیسی انڈے",
+    "slug": "desi-eggs",
+    "category": "6ab81d4b532629ea684fb863",
+    "price": 450,
+    "unit": "dozen",
+    "quantityAvailable": 39,
+    "templateQuantity": 40,
+    "lowStockThreshold": 5,
+    "description": "Free-range desi eggs with deep orange yolks.",
+    "descriptionUr": "کھلے میں پلی مرغیوں کے دیسی انڈے، گہری نارنجی زردی کے ساتھ۔",
+    "keywords": [
+      "desi eggs",
+      "fresh desi eggs",
+      "dairy & eggs karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Desi Eggs from Thatta Dairy Collective in Karachi (cooperative, grass-fed): fresh eggs with deep orange yolks, sold per dozen for Rs 450. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Refrigerate, pointed end down.",
+      "uses": "Breakfast, halwa and baking",
+      "usesUr": "ناشتے، حلوے اور بیکنگ کے لیے",
+      "storageUr": "نوکیلا سرا نیچے کر کے فریج میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.979Z"
+    },
+    "image": "/uploads/photos/desi-eggs.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/desi-eggs-2.webp",
+        "credit": {
+          "author": "James Bowe",
+          "source": "https://www.flickr.com/photos/jamesrbowe/7177637421",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb8ba"
+      },
+      {
+        "url": "/uploads/photos/gallery/desi-eggs-3.webp",
+        "credit": {
+          "author": "Victoria Rachitzky Hoch",
+          "source": "https://www.flickr.com/photos/viclic/272759452",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb8bb"
+      }
+    ],
+    "imageCredit": {
+      "author": "Gregg Tavares",
+      "source": "https://www.flickr.com/photos/greggman/12189654656",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb873",
+      "6ab81d4b532629ea684fb872"
+    ],
+    "days": [
+      0,
+      5,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.5,
+    "ratingCount": 2,
+    "totalSold": 26,
+    "createdAt": "2026-09-26T19:30:19.980Z",
+    "updatedAt": "2026-09-26T19:30:22.173Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb8bc",
+    "farmer": "6ab81d4b532629ea684fb8b2",
+    "name": "Hand-churned Butter",
+    "nameUr": "ہاتھ سے بلویا ہوا مکھن",
+    "slug": "hand-churned-butter",
+    "category": "6ab81d4b532629ea684fb863",
+    "price": 900,
+    "unit": "pack",
+    "quantityAvailable": 15,
+    "templateQuantity": 15,
+    "lowStockThreshold": 5,
+    "description": "Traditional makhan, lightly salted, 250 g pack.",
+    "descriptionUr": "روایتی مکھن، ہلکا نمکین، 250 گرام کا پیکٹ۔",
+    "keywords": [
+      "hand-churned butter",
+      "fresh hand-churned butter",
+      "dairy & eggs karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Hand-churned Butter from Thatta Dairy Collective in Karachi (cooperative, grass-fed): rich and golden, churned in small batches, sold per pack for Rs 900. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Keep in a cool place or the fridge.",
+      "uses": "Parathas, daal tarka and baking",
+      "usesUr": "پراٹھوں، دال کے تڑکے اور بیکنگ کے لیے",
+      "storageUr": "ٹھنڈی جگہ یا فریج میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.983Z"
+    },
+    "image": "/uploads/photos/hand-churned-butter.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/hand-churned-butter-2.webp",
+        "credit": {
+          "author": "Jessica Merz",
+          "source": "https://www.flickr.com/photos/jessicafm/71922825",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb8bd"
+      }
+    ],
+    "imageCredit": {
+      "author": "jibunkaiwai",
+      "source": "https://www.flickr.com/photos/97493971@N04/14903536851",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb873",
+      "6ab81d4b532629ea684fb872"
+    ],
+    "days": [
+      0,
+      5,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 3.67,
+    "ratingCount": 3,
+    "totalSold": 20,
+    "createdAt": "2026-09-26T19:30:19.984Z",
+    "updatedAt": "2026-09-26T19:30:22.175Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb8be",
+    "farmer": "6ab81d4b532629ea684fb8b2",
+    "name": "Natural Yogurt",
+    "nameUr": "خالص دہی",
+    "slug": "natural-yogurt",
+    "category": "6ab81d4b532629ea684fb863",
+    "price": 280,
+    "unit": "kg",
+    "quantityAvailable": 25,
+    "templateQuantity": 25,
+    "lowStockThreshold": 5,
+    "description": "Thick set dahi cultured overnight in clay pots.",
+    "descriptionUr": "مٹی کے برتنوں میں رات بھر جمایا گیا گاڑھا دہی۔",
+    "keywords": [
+      "natural yogurt",
+      "fresh natural yogurt",
+      "dairy & eggs karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Natural Yogurt from Thatta Dairy Collective in Karachi (cooperative, grass-fed): thick, set naturally and mildly tangy, sold per kg for Rs 280. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Keep chilled.",
+      "uses": "Raita, lassi and marinades",
+      "usesUr": "رائتے، لسی اور میرینیڈ کے لیے",
+      "storageUr": "ٹھنڈا رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:19.986Z"
+    },
+    "image": "/uploads/photos/natural-yogurt.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/natural-yogurt-2.webp",
+        "credit": {
+          "author": "Karen Lee",
+          "source": "https://www.flickr.com/photos/ecokaren/6554283227",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4b532629ea684fb8bf"
+      }
+    ],
+    "imageCredit": {
+      "author": "Benjamin Vander Steen",
+      "source": "https://www.flickr.com/photos/bjvs/4289648711",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb873",
+      "6ab81d4b532629ea684fb872"
+    ],
+    "days": [
+      0,
+      5,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 5,
+    "ratingCount": 1,
+    "totalSold": 31,
+    "createdAt": "2026-09-26T19:30:19.988Z",
+    "updatedAt": "2026-09-26T19:30:22.177Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8c5",
+    "farmer": "6ab81d4c532629ea684fb8c1",
+    "name": "Country Sourdough Loaf",
+    "nameUr": "ساؤر ڈو ڈبل روٹی",
+    "slug": "country-sourdough-loaf",
+    "category": "6ab81d4b532629ea684fb864",
+    "price": 950,
+    "unit": "loaf",
+    "quantityAvailable": 19,
+    "templateQuantity": 20,
+    "lowStockThreshold": 5,
+    "description": "36-hour fermented sourdough with a crackly crust.",
+    "descriptionUr": "36 گھنٹے خمیر کی ہوئی ساؤر ڈو روٹی، کرکری پرت کے ساتھ۔",
+    "keywords": [
+      "country sourdough loaf",
+      "fresh country sourdough loaf",
+      "baked goods karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Country Sourdough Loaf from Karachi Artisan Bakehouse in Karachi (sourdough, small batch): baked the morning of the market with a golden crust, sold per loaf for Rs 950. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Keep in a paper bag; toast on day two.",
+      "uses": "Breakfast, sandwiches and with soups",
+      "usesUr": "ناشتے، سینڈوچ اور سوپ کے ساتھ",
+      "storageUr": "کاغذ کے لفافے میں رکھیں؛ دوسرے دن ٹوسٹ کر لیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.076Z"
+    },
+    "image": "/uploads/photos/country-sourdough-loaf.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/country-sourdough-loaf-2.webp",
+        "credit": {
+          "author": "niki georgiev",
+          "source": "https://www.flickr.com/photos/85189931@N00/21958421901",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8c6"
+      },
+      {
+        "url": "/uploads/photos/gallery/country-sourdough-loaf-3.webp",
+        "credit": {
+          "author": "with wind",
+          "source": "https://www.flickr.com/photos/withwind/13405942925",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8c7"
+      }
+    ],
+    "imageCredit": {
+      "author": "winestem",
+      "source": "https://www.flickr.com/photos/winestem/11711682844",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      2,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 5,
+    "ratingCount": 1,
+    "totalSold": 26,
+    "createdAt": "2026-09-26T19:30:20.077Z",
+    "updatedAt": "2026-09-26T19:30:22.180Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8c8",
+    "farmer": "6ab81d4c532629ea684fb8c1",
+    "name": "Classic Baguette",
+    "nameUr": "کلاسک باگیٹ",
+    "slug": "classic-baguette",
+    "category": "6ab81d4b532629ea684fb864",
+    "price": 450,
+    "unit": "piece",
+    "quantityAvailable": 25,
+    "templateQuantity": 25,
+    "lowStockThreshold": 5,
+    "description": "Crisp, airy French baguette.",
+    "descriptionUr": "کرکرا اور ہلکا پھلکا فرانسیسی باگیٹ۔",
+    "keywords": [
+      "classic baguette",
+      "fresh classic baguette",
+      "baked goods karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Classic Baguette from Karachi Artisan Bakehouse in Karachi (sourdough, small batch): baked the morning of the market with a golden crust, sold per piece for Rs 450. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Keep in a paper bag; toast on day two.",
+      "uses": "Breakfast, sandwiches and with soups",
+      "usesUr": "ناشتے، سینڈوچ اور سوپ کے ساتھ",
+      "storageUr": "کاغذ کے لفافے میں رکھیں؛ دوسرے دن ٹوسٹ کر لیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.080Z"
+    },
+    "image": "/uploads/photos/classic-baguette.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/classic-baguette-2.webp",
+        "credit": {
+          "author": "N i c o l a",
+          "source": "https://www.flickr.com/photos/15216811@N06/7304112900",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8c9"
+      },
+      {
+        "url": "/uploads/photos/gallery/classic-baguette-3.webp",
+        "credit": {
+          "author": "ken tam",
+          "source": "https://www.flickr.com/photos/kanuck/311463043",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8ca"
+      }
+    ],
+    "imageCredit": {
+      "author": "Jon Chan",
+      "source": "https://www.flickr.com/photos/130756145@N06/16929685187",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      2,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.2,
+    "ratingCount": 5,
+    "totalSold": 27,
+    "createdAt": "2026-09-26T19:30:20.081Z",
+    "updatedAt": "2026-09-26T19:30:22.182Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8cb",
+    "farmer": "6ab81d4c532629ea684fb8c1",
+    "name": "Butter Croissants",
+    "nameUr": "مکھن والے کروسان",
+    "slug": "butter-croissants",
+    "category": "6ab81d4b532629ea684fb864",
+    "price": 1200,
+    "unit": "box",
+    "quantityAvailable": 11,
+    "templateQuantity": 12,
+    "lowStockThreshold": 5,
+    "description": "Box of 4 flaky, all-butter croissants.",
+    "descriptionUr": "خالص مکھن والے 4 خستہ کروسان کا ڈبہ۔",
+    "keywords": [
+      "butter croissants",
+      "fresh butter croissants",
+      "baked goods karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Butter Croissants from Karachi Artisan Bakehouse in Karachi (sourdough, small batch): freshly baked, buttery and golden, sold per box for Rs 1,200. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Best on the day; keep in an airtight box.",
+      "uses": "Tea time, breakfast and gifting",
+      "usesUr": "چائے کے وقت، ناشتے اور تحفے کے لیے",
+      "storageUr": "اسی دن سب سے اچھا؛ ہوا بند ڈبے میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.084Z"
+    },
+    "image": "/uploads/photos/butter-croissants.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/butter-croissants-2.webp",
+        "credit": {
+          "author": "mpellegr",
+          "source": "https://www.flickr.com/photos/niputaidea/4089407990",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8cc"
+      },
+      {
+        "url": "/uploads/photos/gallery/butter-croissants-3.webp",
+        "credit": {
+          "author": "Andrew Malone",
+          "source": "https://www.flickr.com/photos/andrewmalone/5408824268",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8cd"
+      }
+    ],
+    "imageCredit": {
+      "author": "Yukiko Matsuoka",
+      "source": "https://www.flickr.com/photos/yukikomatsuoka/12139089216",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      2,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "totalSold": 14,
+    "createdAt": "2026-09-26T19:30:20.085Z",
+    "updatedAt": "2026-09-26T19:30:22.184Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8ce",
+    "farmer": "6ab81d4c532629ea684fb8c1",
+    "name": "Whole Wheat Naan",
+    "nameUr": "گندم کے نان",
+    "slug": "whole-wheat-naan",
+    "category": "6ab81d4b532629ea684fb864",
+    "price": 300,
+    "unit": "pack",
+    "quantityAvailable": 30,
+    "templateQuantity": 30,
+    "lowStockThreshold": 5,
+    "description": "Pack of 6 soft whole-wheat naans.",
+    "descriptionUr": "گندم کے 6 نرم نان کا پیکٹ۔",
+    "keywords": [
+      "whole wheat naan",
+      "fresh whole wheat naan",
+      "baked goods karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Whole Wheat Naan from Karachi Artisan Bakehouse in Karachi (sourdough, small batch): baked the morning of the market with a golden crust, sold per pack for Rs 300. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Keep in a paper bag; toast on day two.",
+      "uses": "Breakfast, sandwiches and with soups",
+      "usesUr": "ناشتے، سینڈوچ اور سوپ کے ساتھ",
+      "storageUr": "کاغذ کے لفافے میں رکھیں؛ دوسرے دن ٹوسٹ کر لیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.088Z"
+    },
+    "image": "/uploads/photos/whole-wheat-naan.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/whole-wheat-naan-2.webp",
+        "credit": {
+          "author": "Chris",
+          "source": "https://www.flickr.com/photos/chrisfp/9562738059",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8cf"
+      },
+      {
+        "url": "/uploads/photos/gallery/whole-wheat-naan-3.webp",
+        "credit": {
+          "author": "Jun Seita",
+          "source": "https://www.flickr.com/photos/jseita/6211005002",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8d0"
+      }
+    ],
+    "imageCredit": {
+      "author": "Denise Krebs",
+      "source": "https://www.flickr.com/photos/mrsdkrebs/10636042286",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      2,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.5,
+    "ratingCount": 2,
+    "totalSold": 22,
+    "createdAt": "2026-09-26T19:30:20.090Z",
+    "updatedAt": "2026-09-26T19:30:22.186Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8d1",
+    "farmer": "6ab81d4c532629ea684fb8c1",
+    "name": "Sesame Bagels",
+    "nameUr": "تل والے بیگل",
+    "slug": "sesame-bagels",
+    "category": "6ab81d4b532629ea684fb864",
+    "price": 800,
+    "unit": "pack",
+    "quantityAvailable": 10,
+    "templateQuantity": 10,
+    "lowStockThreshold": 5,
+    "description": "Pack of 4 chewy sesame bagels.",
+    "descriptionUr": "تل والے 4 نرم بیگل کا پیکٹ۔",
+    "keywords": [
+      "sesame bagels",
+      "fresh sesame bagels",
+      "baked goods karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Sesame Bagels from Karachi Artisan Bakehouse in Karachi (sourdough, small batch): baked the morning of the market with a golden crust, sold per pack for Rs 800. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Keep in a paper bag; toast on day two.",
+      "uses": "Breakfast, sandwiches and with soups",
+      "usesUr": "ناشتے، سینڈوچ اور سوپ کے ساتھ",
+      "storageUr": "کاغذ کے لفافے میں رکھیں؛ دوسرے دن ٹوسٹ کر لیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.092Z"
+    },
+    "image": "/uploads/photos/sesame-bagels.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/sesame-bagels-2.webp",
+        "credit": {
+          "author": "Lwp Kommunikáció",
+          "source": "https://www.flickr.com/photos/lwpkommunikacio/15571964118",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8d2"
+      },
+      {
+        "url": "/uploads/photos/gallery/sesame-bagels-3.webp",
+        "credit": {
+          "author": "PentaxLimited",
+          "source": "https://www.flickr.com/photos/pentaxlimited/3893854916",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8d3"
+      }
+    ],
+    "imageCredit": {
+      "author": "brett jordan",
+      "source": "https://www.flickr.com/photos/x1brett/21198630385",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      2,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 5,
+    "ratingCount": 1,
+    "totalSold": 15,
+    "createdAt": "2026-09-26T19:30:20.094Z",
+    "updatedAt": "2026-09-26T19:30:22.189Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8d4",
+    "farmer": "6ab81d4c532629ea684fb8c1",
+    "name": "Seasonal Fruit Pie",
+    "nameUr": "موسمی پھلوں کی پائی",
+    "slug": "seasonal-fruit-pie",
+    "category": "6ab81d4b532629ea684fb864",
+    "price": 1800,
+    "unit": "piece",
+    "quantityAvailable": 6,
+    "templateQuantity": 6,
+    "lowStockThreshold": 5,
+    "description": "Buttery pie filled with fruit of the week.",
+    "descriptionUr": "مکھن والی پائی، اس ہفتے کے پھلوں سے بھری ہوئی۔",
+    "keywords": [
+      "seasonal fruit pie",
+      "fresh seasonal fruit pie",
+      "baked goods karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Seasonal Fruit Pie from Karachi Artisan Bakehouse in Karachi (sourdough, small batch): freshly baked, buttery and golden, sold per piece for Rs 1,800. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Best on the day; keep in an airtight box.",
+      "uses": "Tea time, breakfast and gifting",
+      "usesUr": "چائے کے وقت، ناشتے اور تحفے کے لیے",
+      "storageUr": "اسی دن سب سے اچھا؛ ہوا بند ڈبے میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.096Z"
+    },
+    "image": "/uploads/photos/seasonal-fruit-pie.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/seasonal-fruit-pie-2.webp",
+        "credit": {
+          "author": "Natalie HG",
+          "source": "https://www.flickr.com/photos/nataliehg/4110416268",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8d5"
+      },
+      {
+        "url": "/uploads/photos/gallery/seasonal-fruit-pie-3.webp",
+        "credit": {
+          "author": "dann toliver",
+          "source": "https://www.flickr.com/photos/00dann/421599024",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8d6"
+      }
+    ],
+    "imageCredit": {
+      "author": "6SN7",
+      "source": "https://www.flickr.com/photos/47800690@N03/4643208764",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      2,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "totalSold": 11,
+    "createdAt": "2026-09-26T19:30:20.097Z",
+    "updatedAt": "2026-09-26T19:30:22.191Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8d7",
+    "farmer": "6ab81d4c532629ea684fb8c1",
+    "name": "Oat Chocolate Cookies",
+    "nameUr": "جئی اور چاکلیٹ کی کوکیز",
+    "slug": "oat-chocolate-cookies",
+    "category": "6ab81d4b532629ea684fb864",
+    "price": 650,
+    "unit": "box",
+    "quantityAvailable": 15,
+    "templateQuantity": 15,
+    "lowStockThreshold": 5,
+    "description": "Box of 6 chewy oat and dark chocolate cookies.",
+    "descriptionUr": "جئی اور ڈارک چاکلیٹ کی 6 کوکیز کا ڈبہ۔",
+    "keywords": [
+      "oat chocolate cookies",
+      "fresh oat chocolate cookies",
+      "baked goods karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Oat Chocolate Cookies from Karachi Artisan Bakehouse in Karachi (sourdough, small batch): freshly baked, buttery and golden, sold per box for Rs 650. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Best on the day; keep in an airtight box.",
+      "uses": "Tea time, breakfast and gifting",
+      "usesUr": "چائے کے وقت، ناشتے اور تحفے کے لیے",
+      "storageUr": "اسی دن سب سے اچھا؛ ہوا بند ڈبے میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.102Z"
+    },
+    "image": "/uploads/photos/oat-chocolate-cookies.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/oat-chocolate-cookies-2.webp",
+        "credit": {
+          "author": "Basheer Tome",
+          "source": "https://www.flickr.com/photos/basheertome/2126251562",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8d8"
+      },
+      {
+        "url": "/uploads/photos/gallery/oat-chocolate-cookies-3.webp",
+        "credit": {
+          "author": "mazaletel",
+          "source": "https://www.flickr.com/photos/meg-z/7799802164",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8d9"
+      }
+    ],
+    "imageCredit": {
+      "author": "rusvaplauke",
+      "source": "https://www.flickr.com/photos/rusvaplauke/863804402",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      2,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4,
+    "ratingCount": 2,
+    "totalSold": 15,
+    "createdAt": "2026-09-26T19:30:20.103Z",
+    "updatedAt": "2026-09-26T19:30:22.194Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8df",
+    "farmer": "6ab81d4c532629ea684fb8db",
+    "name": "Fresh Mint (Podina)",
+    "nameUr": "تازہ پودینہ",
+    "slug": "fresh-mint-podina",
+    "category": "6ab81d4b532629ea684fb865",
+    "price": 60,
+    "unit": "bunch",
+    "quantityAvailable": 80,
+    "templateQuantity": 80,
+    "lowStockThreshold": 5,
+    "description": "Fragrant mint for chutney, raita and mint lemonade.",
+    "descriptionUr": "چٹنی، رائتے اور پودینے والے لیموں پانی کے لیے خوشبودار پودینہ۔",
+    "keywords": [
+      "fresh mint",
+      "fresh fresh mint",
+      "herbs & greens karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Fresh Mint (Podina) from Hyderabad Herb Garden in Karachi (same-day harvest, hydro-greens): fragrant and freshly cut, sold per bunch for Rs 60. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Stand the stems in water or wrap in a damp cloth in the fridge.",
+      "uses": "Chutneys, garnishing, raita and teas",
+      "usesUr": "چٹنی، سجاوٹ، رائتے اور قہوے کے لیے",
+      "storageUr": "ڈنٹھل پانی میں رکھیں یا گیلے کپڑے میں لپیٹ کر فریج میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.185Z"
+    },
+    "image": "/uploads/photos/fresh-mint-podina.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/fresh-mint-podina-2.webp",
+        "credit": {
+          "author": "Darya Pino",
+          "source": "https://www.flickr.com/photos/summertomato/3570433046",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8e0"
+      },
+      {
+        "url": "/uploads/photos/gallery/fresh-mint-podina-3.webp",
+        "credit": {
+          "author": "Alden Chadwick",
+          "source": "https://www.flickr.com/photos/aldenchadwick/9191735191",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8e1"
+      }
+    ],
+    "imageCredit": {
+      "author": "Jonathan",
+      "source": "https://www.flickr.com/photos/jon_bedford/7615555650",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb875",
+      "6ab81d4b532629ea684fb877"
+    ],
+    "days": [
+      3,
+      4,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.75,
+    "ratingCount": 4,
+    "totalSold": 25,
+    "createdAt": "2026-09-26T19:30:20.187Z",
+    "updatedAt": "2026-09-26T19:30:22.196Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8e2",
+    "farmer": "6ab81d4c532629ea684fb8db",
+    "name": "Coriander (Dhania)",
+    "nameUr": "ہرا دھنیا",
+    "slug": "coriander-dhania",
+    "category": "6ab81d4b532629ea684fb865",
+    "price": 50,
+    "unit": "bunch",
+    "quantityAvailable": 90,
+    "templateQuantity": 90,
+    "lowStockThreshold": 5,
+    "description": "Tender coriander with roots on for longer freshness.",
+    "descriptionUr": "جڑوں سمیت نرم ہرا دھنیا، تاکہ دیر تک تازہ رہے۔",
+    "keywords": [
+      "coriander",
+      "fresh coriander",
+      "herbs & greens karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Coriander (Dhania) from Hyderabad Herb Garden in Karachi (same-day harvest, hydro-greens): fragrant and freshly cut, sold per bunch for Rs 50. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Stand the stems in water or wrap in a damp cloth in the fridge.",
+      "uses": "Chutneys, garnishing, raita and teas",
+      "usesUr": "چٹنی، سجاوٹ، رائتے اور قہوے کے لیے",
+      "storageUr": "ڈنٹھل پانی میں رکھیں یا گیلے کپڑے میں لپیٹ کر فریج میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.190Z"
+    },
+    "image": "/uploads/photos/coriander-dhania.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/coriander-dhania-2.webp",
+        "credit": {
+          "author": "Amber DeGrace",
+          "source": "https://www.flickr.com/photos/ink_mama/6635482571",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8e3"
+      },
+      {
+        "url": "/uploads/photos/gallery/coriander-dhania-3.webp",
+        "credit": {
+          "author": "Karen",
+          "source": "https://www.flickr.com/photos/karent/4697152537",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8e4"
+      }
+    ],
+    "imageCredit": {
+      "author": "Qfamily",
+      "source": "https://www.flickr.com/photos/dasqfamily/2648343226",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb875",
+      "6ab81d4b532629ea684fb877"
+    ],
+    "days": [
+      3,
+      4,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4,
+    "ratingCount": 4,
+    "totalSold": 18,
+    "createdAt": "2026-09-26T19:30:20.191Z",
+    "updatedAt": "2026-09-26T19:30:22.199Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8e5",
+    "farmer": "6ab81d4c532629ea684fb8db",
+    "name": "Baby Spinach",
+    "nameUr": "نرم پتوں والی پالک",
+    "slug": "baby-spinach",
+    "category": "6ab81d4b532629ea684fb865",
+    "price": 160,
+    "compareAtPrice": 200,
+    "unit": "bunch",
+    "quantityAvailable": 40,
+    "templateQuantity": 40,
+    "lowStockThreshold": 5,
+    "description": "Young spinach leaves, washed and bunched.",
+    "descriptionUr": "پالک کے نرم پتے، دھلے ہوئے اور گٹھیوں میں بندھے ہوئے۔",
+    "keywords": [
+      "baby spinach",
+      "fresh baby spinach",
+      "herbs & greens karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Baby Spinach from Hyderabad Herb Garden in Karachi (same-day harvest, hydro-greens): tender, dark-green leaves harvested young, sold per bunch for Rs 160. Pre-order on MarketLink and collect it at the market.",
+      "season": "November to March",
+      "storage": "Wrap loosely in a damp cloth and refrigerate; best within three days.",
+      "uses": "Palak paneer, saag, soups and smoothies",
+      "usesUr": "پالک پنیر، ساگ، سوپ اور اسموتھی کے لیے",
+      "storageUr": "گیلے کپڑے میں ہلکا سا لپیٹ کر فریج میں رکھیں؛ تین دن کے اندر استعمال بہتر ہے۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.193Z"
+    },
+    "image": "/uploads/photos/baby-spinach.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/baby-spinach-2.webp",
+        "credit": {
+          "author": "Amy Selleck",
+          "source": "https://www.flickr.com/photos/amyselleck/17717088786",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8e6"
+      },
+      {
+        "url": "/uploads/photos/gallery/baby-spinach-3.webp",
+        "credit": {
+          "author": "Vegan Feast Catering",
+          "source": "https://www.flickr.com/photos/veganfeast/4631088290",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8e7"
+      }
+    ],
+    "imageCredit": {
+      "author": "Anna B",
+      "source": "https://www.flickr.com/photos/annas_bananas/8039953648",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb875",
+      "6ab81d4b532629ea684fb877"
+    ],
+    "days": [
+      3,
+      4,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 5,
+    "ratingCount": 1,
+    "totalSold": 15,
+    "createdAt": "2026-09-26T19:30:20.194Z",
+    "updatedAt": "2026-09-26T19:30:22.203Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8e8",
+    "farmer": "6ab81d4c532629ea684fb8db",
+    "name": "Iceberg Lettuce",
+    "nameUr": "آئس برگ سلاد",
+    "slug": "iceberg-lettuce",
+    "category": "6ab81d4b532629ea684fb865",
+    "price": 220,
+    "unit": "piece",
+    "quantityAvailable": 20,
+    "templateQuantity": 20,
+    "lowStockThreshold": 5,
+    "description": "Crisp lettuce heads for salads and burgers.",
+    "descriptionUr": "سلاد اور برگر کے لیے کرکری سلاد پتا۔",
+    "keywords": [
+      "iceberg lettuce",
+      "fresh iceberg lettuce",
+      "herbs & greens karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Iceberg Lettuce from Hyderabad Herb Garden in Karachi (same-day harvest, hydro-greens): crisp, tender leaves, sold per piece for Rs 220. Pre-order on MarketLink and collect it at the market.",
+      "season": "November to March",
+      "storage": "Keep chilled in a bag with a paper towel.",
+      "uses": "Salads, wraps and burgers",
+      "usesUr": "سلاد، رول اور برگر کے لیے",
+      "storageUr": "کاغذی تولیے کے ساتھ تھیلی میں ڈال کر ٹھنڈا رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.197Z"
+    },
+    "image": "/uploads/photos/iceberg-lettuce.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/iceberg-lettuce-2.webp",
+        "credit": {
+          "author": "Eric BC Lim",
+          "source": "https://www.flickr.com/photos/ericlbc/3704847104",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8e9"
+      },
+      {
+        "url": "/uploads/photos/gallery/iceberg-lettuce-3.webp",
+        "credit": {
+          "author": "Bob Doran",
+          "source": "https://www.flickr.com/photos/humblog/4936086275/",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8ea"
+      }
+    ],
+    "imageCredit": {
+      "author": "Eric BC Lim",
+      "source": "https://www.flickr.com/photos/ericlbc/3704845618",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb875",
+      "6ab81d4b532629ea684fb877"
+    ],
+    "days": [
+      3,
+      4,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 5,
+    "ratingCount": 1,
+    "totalSold": 19,
+    "createdAt": "2026-09-26T19:30:20.198Z",
+    "updatedAt": "2026-09-26T19:30:22.205Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8eb",
+    "farmer": "6ab81d4c532629ea684fb8db",
+    "name": "Broccoli",
+    "nameUr": "بروکلی",
+    "slug": "broccoli",
+    "category": "6ab81d4b532629ea684fb861",
+    "price": 450,
+    "compareAtPrice": 640,
+    "unit": "kg",
+    "quantityAvailable": 15,
+    "templateQuantity": 15,
+    "lowStockThreshold": 5,
+    "description": "Dense green broccoli crowns.",
+    "descriptionUr": "گھنی اور ہری بروکلی۔",
+    "keywords": [
+      "broccoli",
+      "fresh broccoli",
+      "vegetables karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Broccoli from Hyderabad Herb Garden in Karachi (same-day harvest, hydro-greens): tight, dark-green florets with tender stems, sold per kg for Rs 450. Pre-order on MarketLink and collect it at the market.",
+      "season": "November to February",
+      "storage": "Keep chilled and use within four days.",
+      "uses": "Stir-fries, soups and quick steamed sides",
+      "usesUr": "فرائی، سوپ اور جلدی تیار ہونے والی بھاپ کی ڈش کے لیے",
+      "storageUr": "ٹھنڈا رکھیں اور چار دن کے اندر استعمال کریں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.200Z"
+    },
+    "image": "/uploads/photos/broccoli.webp",
+    "gallery": [],
+    "imageCredit": {
+      "author": "Mike Mozart",
+      "source": "https://www.flickr.com/photos/jeepersmedia/14948279090",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb875",
+      "6ab81d4b532629ea684fb877"
+    ],
+    "days": [
+      3,
+      4,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4,
+    "ratingCount": 1,
+    "totalSold": 21,
+    "createdAt": "2026-09-26T19:30:20.201Z",
+    "updatedAt": "2026-09-26T19:30:22.207Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8ec",
+    "farmer": "6ab81d4c532629ea684fb8db",
+    "name": "Button Mushrooms",
+    "nameUr": "بٹن مشروم",
+    "slug": "button-mushrooms",
+    "category": "6ab81d4b532629ea684fb861",
+    "price": 700,
+    "unit": "pack",
+    "quantityAvailable": 0,
+    "templateQuantity": 15,
+    "lowStockThreshold": 5,
+    "description": "400 g pack of white button mushrooms. Sold out this week.",
+    "descriptionUr": "سفید بٹن مشروم کا 400 گرام پیکٹ۔ اس ہفتے ختم ہے۔",
+    "keywords": [
+      "button mushrooms",
+      "fresh button mushrooms",
+      "vegetables karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Button Mushrooms from Hyderabad Herb Garden in Karachi (same-day harvest, hydro-greens): firm, white and pleasantly earthy, sold per pack for Rs 700. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Keep in a paper bag in the fridge.",
+      "uses": "Stir-fries, soups, pasta and omelettes",
+      "usesUr": "فرائی، سوپ، پاستا اور آملیٹ کے لیے",
+      "storageUr": "کاغذ کے لفافے میں ڈال کر فریج میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.203Z"
+    },
+    "image": "/uploads/photos/button-mushrooms.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/button-mushrooms-2.webp",
+        "credit": {
+          "author": "hermanturnip",
+          "source": "https://www.flickr.com/photos/hermanturnip/3377515936",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8ed"
+      }
+    ],
+    "imageCredit": {
+      "author": "Steven Depolo",
+      "source": "https://www.flickr.com/photos/stevendepolo/9490470178",
+      "license": "CC BY 2.0"
+    },
+    "status": "sold_out",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb875",
+      "6ab81d4b532629ea684fb877"
+    ],
+    "days": [
+      3,
+      4,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.67,
+    "ratingCount": 3,
+    "totalSold": 23,
+    "createdAt": "2026-09-26T19:30:20.204Z",
+    "updatedAt": "2026-09-26T19:30:22.383Z",
+    "__v": 0,
+    "lowStockAlertedAt": "2026-09-26T19:30:22.383Z",
+    "soldOutAlertedAt": "2026-09-26T19:30:22.383Z"
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8f2",
+    "farmer": "6ab81d4c532629ea684fb8ef",
+    "name": "Wild Sidr Honey",
+    "nameUr": "بیری کا جنگلی شہد",
+    "slug": "wild-sidr-honey",
+    "category": "6ab81d4b532629ea684fb866",
+    "price": 3200,
+    "unit": "jar",
+    "quantityAvailable": 19,
+    "templateQuantity": 20,
+    "lowStockThreshold": 5,
+    "description": "500 g of raw, unfiltered Sidr (beri) honey.",
+    "descriptionUr": "500 گرام خالص، بغیر چھانا بیری کا شہد۔",
+    "keywords": [
+      "wild sidr honey",
+      "fresh wild sidr honey",
+      "honey & preserves karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Wild Sidr Honey from Kirthar Honey & Preserves in Karachi (raw honey, zero waste): raw, unfiltered and full of floral flavour, sold per jar for Rs 3,200. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Store at room temperature; it may crystallise naturally.",
+      "uses": "Breakfast, tea, baking and a spoonful on its own",
+      "usesUr": "ناشتے، چائے، بیکنگ اور ویسے ایک چمچ کھانے کے لیے",
+      "storageUr": "کمرے کے درجۂ حرارت پر رکھیں؛ قدرتی طور پر جم بھی سکتا ہے۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.288Z"
+    },
+    "image": "/uploads/photos/wild-sidr-honey.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/wild-sidr-honey-2.webp",
+        "credit": {
+          "author": "Chris Gardiner",
+          "source": "https://www.flickr.com/photos/cgardinerphoto/21188797484",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8f3"
+      },
+      {
+        "url": "/uploads/photos/gallery/wild-sidr-honey-3.webp",
+        "credit": {
+          "author": "Mike Lee",
+          "source": "https://www.flickr.com/photos/curiouslee/3226737739",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8f4"
+      }
+    ],
+    "imageCredit": {
+      "author": "Annabelle Orozco",
+      "source": "https://www.flickr.com/photos/annabelleorozco/7915650268",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb873",
+      "6ab81d4b532629ea684fb874"
+    ],
+    "days": [
+      0,
+      5
+    ],
+    "farmerActive": true,
+    "ratingAvg": 5,
+    "ratingCount": 2,
+    "totalSold": 14,
+    "createdAt": "2026-09-26T19:30:20.289Z",
+    "updatedAt": "2026-09-26T19:30:22.212Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8f5",
+    "farmer": "6ab81d4c532629ea684fb8ef",
+    "name": "Acacia Honey",
+    "nameUr": "پھلاہی کا شہد",
+    "slug": "acacia-honey",
+    "category": "6ab81d4b532629ea684fb866",
+    "price": 2200,
+    "unit": "jar",
+    "quantityAvailable": 25,
+    "templateQuantity": 25,
+    "lowStockThreshold": 5,
+    "description": "500 g light, floral acacia honey.",
+    "descriptionUr": "500 گرام ہلکا اور پھولوں کی خوشبو والا پھلاہی کا شہد۔",
+    "keywords": [
+      "acacia honey",
+      "fresh acacia honey",
+      "honey & preserves karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Acacia Honey from Kirthar Honey & Preserves in Karachi (raw honey, zero waste): raw, unfiltered and full of floral flavour, sold per jar for Rs 2,200. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Store at room temperature; it may crystallise naturally.",
+      "uses": "Breakfast, tea, baking and a spoonful on its own",
+      "usesUr": "ناشتے، چائے، بیکنگ اور ویسے ایک چمچ کھانے کے لیے",
+      "storageUr": "کمرے کے درجۂ حرارت پر رکھیں؛ قدرتی طور پر جم بھی سکتا ہے۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.292Z"
+    },
+    "image": "/uploads/photos/acacia-honey.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/acacia-honey-2.webp",
+        "credit": {
+          "author": "Annabelle Orozco",
+          "source": "https://www.flickr.com/photos/annabelleorozco/7915650268",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8f6"
+      },
+      {
+        "url": "/uploads/photos/gallery/acacia-honey-3.webp",
+        "credit": {
+          "author": "Col Ford and Natasha de Vere",
+          "source": "https://www.flickr.com/photos/col_and_tasha/21487273820",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8f7"
+      }
+    ],
+    "imageCredit": {
+      "author": "J.H. Fearless",
+      "source": "https://www.flickr.com/photos/jessicareeder/3881377113",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb873",
+      "6ab81d4b532629ea684fb874"
+    ],
+    "days": [
+      0,
+      5
+    ],
+    "farmerActive": true,
+    "ratingAvg": 5,
+    "ratingCount": 1,
+    "totalSold": 22,
+    "createdAt": "2026-09-26T19:30:20.293Z",
+    "updatedAt": "2026-09-26T19:30:22.214Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8f8",
+    "farmer": "6ab81d4c532629ea684fb8ef",
+    "name": "Strawberry Jam",
+    "nameUr": "اسٹرابیری جام",
+    "slug": "strawberry-jam",
+    "category": "6ab81d4b532629ea684fb866",
+    "price": 750,
+    "unit": "jar",
+    "quantityAvailable": 18,
+    "templateQuantity": 18,
+    "lowStockThreshold": 5,
+    "description": "Small-batch jam with 70% fruit.",
+    "descriptionUr": "تھوڑی مقدار میں بنا جام، 70% پھل کے ساتھ۔",
+    "keywords": [
+      "strawberry jam",
+      "fresh strawberry jam",
+      "honey & preserves karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Strawberry Jam from Kirthar Honey & Preserves in Karachi (raw honey, zero waste): made in small batches with plenty of fruit, sold per jar for Rs 750. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Refrigerate after opening.",
+      "uses": "Toast, parathas and baking",
+      "usesUr": "ٹوسٹ، پراٹھوں اور بیکنگ کے لیے",
+      "storageUr": "کھولنے کے بعد فریج میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.296Z"
+    },
+    "image": "/uploads/photos/strawberry-jam.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/strawberry-jam-2.webp",
+        "credit": {
+          "author": "Personal Creations",
+          "source": "https://www.flickr.com/photos/personalcreations/15120095985",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8f9"
+      }
+    ],
+    "imageCredit": {
+      "author": "John S. Quarterman",
+      "source": "https://www.flickr.com/photos/98706376@N00/5208302127",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb873",
+      "6ab81d4b532629ea684fb874"
+    ],
+    "days": [
+      0,
+      5
+    ],
+    "farmerActive": true,
+    "ratingAvg": 5,
+    "ratingCount": 2,
+    "totalSold": 18,
+    "createdAt": "2026-09-26T19:30:20.297Z",
+    "updatedAt": "2026-09-26T19:30:22.217Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8fa",
+    "farmer": "6ab81d4c532629ea684fb8ef",
+    "name": "Mango Chutney",
+    "nameUr": "آم کی چٹنی",
+    "slug": "mango-chutney",
+    "category": "6ab81d4b532629ea684fb866",
+    "price": 650,
+    "unit": "jar",
+    "quantityAvailable": 14,
+    "templateQuantity": 14,
+    "lowStockThreshold": 5,
+    "description": "Sweet and tangy chutney made from raw mangoes.",
+    "descriptionUr": "کچے آموں سے بنی کھٹی میٹھی چٹنی۔",
+    "keywords": [
+      "mango chutney",
+      "fresh mango chutney",
+      "honey & preserves karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Mango Chutney from Kirthar Honey & Preserves in Karachi (raw honey, zero waste): tangy, spiced and made the traditional way, sold per jar for Rs 650. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Use a dry spoon and keep the lid closed.",
+      "uses": "Daal chawal, parathas and sandwiches",
+      "usesUr": "دال چاول، پراٹھوں اور سینڈوچ کے لیے",
+      "storageUr": "خشک چمچ استعمال کریں اور ڈھکن بند رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.299Z"
+    },
+    "image": "/uploads/photos/mango-chutney.webp",
+    "gallery": [],
+    "imageCredit": {
+      "author": "Alex \"Skud\" Bayley",
+      "source": "https://www.flickr.com/photos/alexsbayley/8325484858",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb873",
+      "6ab81d4b532629ea684fb874"
+    ],
+    "days": [
+      0,
+      5
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.8,
+    "ratingCount": 5,
+    "totalSold": 24,
+    "createdAt": "2026-09-26T19:30:20.300Z",
+    "updatedAt": "2026-09-26T19:30:22.219Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8fb",
+    "farmer": "6ab81d4c532629ea684fb8ef",
+    "name": "Green Olives in Brine",
+    "nameUr": "نمکین پانی میں ہرے زیتون",
+    "slug": "green-olives-in-brine",
+    "category": "6ab81d4b532629ea684fb866",
+    "price": 950,
+    "unit": "jar",
+    "quantityAvailable": 10,
+    "templateQuantity": 10,
+    "lowStockThreshold": 5,
+    "description": "Hand-picked olives cured in salt brine.",
+    "descriptionUr": "ہاتھ سے چنے ہوئے زیتون، نمکین پانی میں تیار کیے گئے۔",
+    "keywords": [
+      "green olives in brine",
+      "fresh green olives in brine",
+      "honey & preserves karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Green Olives in Brine from Kirthar Honey & Preserves in Karachi (raw honey, zero waste): firm and savoury, cured in brine, sold per jar for Rs 950. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Keep covered in brine and refrigerate after opening.",
+      "uses": "Salads, pizza and snack platters",
+      "usesUr": "سلاد، پیزا اور ہلکے ناشتے کے لیے",
+      "storageUr": "نمکین پانی میں ڈوبے رکھیں اور کھولنے کے بعد فریج میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.302Z"
+    },
+    "image": "/uploads/photos/green-olives-in-brine.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/green-olives-in-brine-2.webp",
+        "credit": {
+          "author": "iamNigelMorris",
+          "source": "https://www.flickr.com/photos/34639903@N03/3370154896",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8fc"
+      },
+      {
+        "url": "/uploads/photos/gallery/green-olives-in-brine-3.webp",
+        "credit": {
+          "author": "Itinerant Tightwad",
+          "source": "https://www.flickr.com/photos/itineranttightwad/3695519594",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb8fd"
+      }
+    ],
+    "imageCredit": {
+      "author": "jules",
+      "source": "https://www.flickr.com/photos/stone-soup/5186237797",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb873",
+      "6ab81d4b532629ea684fb874"
+    ],
+    "days": [
+      0,
+      5
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.8,
+    "ratingCount": 5,
+    "totalSold": 18,
+    "createdAt": "2026-09-26T19:30:20.303Z",
+    "updatedAt": "2026-09-26T19:30:22.222Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb903",
+    "farmer": "6ab81d4c532629ea684fb8ff",
+    "name": "Chakki Atta (5 kg)",
+    "nameUr": "چکی کا آٹا (5 کلو)",
+    "slug": "chakki-atta-5-kg",
+    "category": "6ab81d4b532629ea684fb867",
+    "price": 1100,
+    "unit": "pack",
+    "quantityAvailable": 40,
+    "templateQuantity": 40,
+    "lowStockThreshold": 5,
+    "description": "Stone-ground whole wheat flour in a 5 kg bag.",
+    "descriptionUr": "5 کلو کے تھیلے میں چکی کا پسا گندم کا آٹا۔",
+    "keywords": [
+      "chakki atta",
+      "fresh chakki atta",
+      "grains & pulses karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Chakki Atta (5 kg) from Indus Grains & Pulses in Karachi (stone-ground, bulk friendly): stone-ground and wholesome, sold per pack for Rs 1,100. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Store airtight in a cool, dry place.",
+      "uses": "Soft rotis, parathas and baking",
+      "usesUr": "نرم روٹیوں، پراٹھوں اور بیکنگ کے لیے",
+      "storageUr": "ٹھنڈی اور خشک جگہ پر ہوا بند رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.394Z"
+    },
+    "image": "/uploads/photos/chakki-atta-5-kg.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/chakki-atta-5-kg-2.webp",
+        "credit": {
+          "author": "M@ck",
+          "source": "https://www.flickr.com/photos/45141186@N00/2388136314",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb904"
+      },
+      {
+        "url": "/uploads/photos/gallery/chakki-atta-5-kg-3.webp",
+        "credit": {
+          "author": "thedabblist",
+          "source": "https://www.flickr.com/photos/64636759@N07/9669540222",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb905"
+      }
+    ],
+    "imageCredit": {
+      "author": "a200/a77Wells",
+      "source": "https://www.flickr.com/photos/aiwells/4408137370/",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb877",
+      "6ab81d4b532629ea684fb875"
+    ],
+    "days": [
+      1,
+      3,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 5,
+    "ratingCount": 3,
+    "totalSold": 28,
+    "createdAt": "2026-09-26T19:30:20.396Z",
+    "updatedAt": "2026-09-26T19:30:22.224Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb906",
+    "farmer": "6ab81d4c532629ea684fb8ff",
+    "name": "Aged Basmati Rice",
+    "nameUr": "پرانے باسمتی چاول",
+    "slug": "aged-basmati-rice",
+    "category": "6ab81d4b532629ea684fb867",
+    "price": 420,
+    "unit": "kg",
+    "quantityAvailable": 100,
+    "templateQuantity": 100,
+    "lowStockThreshold": 5,
+    "description": "Two-year aged basmati with long, fragrant grains.",
+    "descriptionUr": "دو سال پرانے باسمتی چاول، لمبے اور خوشبودار دانوں کے ساتھ۔",
+    "keywords": [
+      "aged basmati rice",
+      "fresh aged basmati rice",
+      "grains & pulses karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Aged Basmati Rice from Indus Grains & Pulses in Karachi (stone-ground, bulk friendly): long, fragrant grains that cook up fluffy, sold per kg for Rs 420. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Store dry in an airtight container.",
+      "uses": "Biryani, pulao and plain chawal",
+      "usesUr": "بریانی، پلاؤ اور سادہ چاول کے لیے",
+      "storageUr": "ہوا بند برتن میں خشک رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.399Z"
+    },
+    "image": "/uploads/photos/aged-basmati-rice.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/aged-basmati-rice-2.webp",
+        "credit": {
+          "author": "babbagecabbage",
+          "source": "https://www.flickr.com/photos/babbagecabbage/3277081873",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb907"
+      },
+      {
+        "url": "/uploads/photos/gallery/aged-basmati-rice-3.webp",
+        "credit": {
+          "author": "Cali4beach",
+          "source": "https://www.flickr.com/photos/cali4beach/6716158893",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb908"
+      }
+    ],
+    "imageCredit": {
+      "author": "Vanessa Pike-Russell",
+      "source": "https://www.flickr.com/photos/lilcrabbygal/372888145",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb877",
+      "6ab81d4b532629ea684fb875"
+    ],
+    "days": [
+      1,
+      3,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.8,
+    "ratingCount": 5,
+    "totalSold": 19,
+    "createdAt": "2026-09-26T19:30:20.400Z",
+    "updatedAt": "2026-09-26T19:30:22.226Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb909",
+    "farmer": "6ab81d4c532629ea684fb8ff",
+    "name": "Red Kidney Beans",
+    "nameUr": "لال لوبیا (راجما)",
+    "slug": "red-kidney-beans",
+    "category": "6ab81d4b532629ea684fb867",
+    "price": 480,
+    "unit": "kg",
+    "quantityAvailable": 30,
+    "templateQuantity": 30,
+    "lowStockThreshold": 5,
+    "description": "Cleaned rajma beans.",
+    "descriptionUr": "صاف کیا ہوا لال لوبیا (راجما)۔",
+    "keywords": [
+      "red kidney beans",
+      "fresh red kidney beans",
+      "grains & pulses karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Red Kidney Beans from Indus Grains & Pulses in Karachi (stone-ground, bulk friendly): clean, even grains that cook evenly, sold per kg for Rs 480. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Store airtight in a cool, dry place.",
+      "uses": "Daal, salan and salads",
+      "usesUr": "دال، سالن اور سلاد کے لیے",
+      "storageUr": "ٹھنڈی اور خشک جگہ پر ہوا بند رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.403Z"
+    },
+    "image": "/uploads/photos/red-kidney-beans.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/red-kidney-beans-2.webp",
+        "credit": {
+          "author": "tamba2010",
+          "source": "https://www.flickr.com/photos/53573914@N08/6068213855",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb90a"
+      },
+      {
+        "url": "/uploads/photos/gallery/red-kidney-beans-3.webp",
+        "credit": {
+          "author": "NatalieMaynor",
+          "source": "https://www.flickr.com/photos/nataliemaynor/7295912130",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb90b"
+      }
+    ],
+    "imageCredit": {
+      "author": "Alice Seba",
+      "source": "https://www.flickr.com/photos/vegetarianlost/8271866292",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb877",
+      "6ab81d4b532629ea684fb875"
+    ],
+    "days": [
+      1,
+      3,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4,
+    "ratingCount": 2,
+    "totalSold": 27,
+    "createdAt": "2026-09-26T19:30:20.404Z",
+    "updatedAt": "2026-09-26T19:30:22.228Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb90c",
+    "farmer": "6ab81d4c532629ea684fb8ff",
+    "name": "Roasted Peanuts",
+    "nameUr": "بھنی ہوئی مونگ پھلی",
+    "slug": "roasted-peanuts",
+    "category": "6ab81d4b532629ea684fb867",
+    "price": 600,
+    "unit": "kg",
+    "quantityAvailable": 25,
+    "templateQuantity": 25,
+    "lowStockThreshold": 5,
+    "description": "Sand-roasted peanuts, a winter favourite.",
+    "descriptionUr": "ریت میں بھنی ہوئی مونگ پھلی، سردیوں کی پسندیدہ۔",
+    "keywords": [
+      "roasted peanuts",
+      "fresh roasted peanuts",
+      "grains & pulses karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Roasted Peanuts from Indus Grains & Pulses in Karachi (stone-ground, bulk friendly): crunchy and freshly roasted, sold per kg for Rs 600. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Keep airtight to stay crunchy.",
+      "uses": "Snacking, desserts and garnishing",
+      "usesUr": "ویسے کھانے، میٹھے اور سجاوٹ کے لیے",
+      "storageUr": "کرکرا رکھنے کے لیے ہوا بند رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.407Z"
+    },
+    "image": "/uploads/photos/roasted-peanuts.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/roasted-peanuts-2.webp",
+        "credit": {
+          "author": "psyberartist",
+          "source": "https://www.flickr.com/photos/psyberartist/2369939495",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb90d"
+      },
+      {
+        "url": "/uploads/photos/gallery/roasted-peanuts-3.webp",
+        "credit": {
+          "author": "cbertel",
+          "source": "https://www.flickr.com/photos/cbertel/2811571854",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb90e"
+      }
+    ],
+    "imageCredit": {
+      "author": "Marvin Lee",
+      "source": "https://www.flickr.com/photos/marvin_lee/5265470301",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb877",
+      "6ab81d4b532629ea684fb875"
+    ],
+    "days": [
+      1,
+      3,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.6,
+    "ratingCount": 5,
+    "totalSold": 28,
+    "createdAt": "2026-09-26T19:30:20.409Z",
+    "updatedAt": "2026-09-26T19:30:22.231Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb90f",
+    "farmer": "6ab81d4c532629ea684fb8ff",
+    "name": "Green Peas (Matar)",
+    "nameUr": "ہرے مٹر",
+    "slug": "green-peas-matar",
+    "category": "6ab81d4b532629ea684fb861",
+    "price": 220,
+    "compareAtPrice": 260,
+    "unit": "kg",
+    "quantityAvailable": 35,
+    "templateQuantity": 35,
+    "lowStockThreshold": 5,
+    "description": "Sweet green peas in the pod.",
+    "descriptionUr": "پھلیوں میں میٹھے ہرے مٹر۔",
+    "keywords": [
+      "green peas",
+      "fresh green peas",
+      "vegetables karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Green Peas (Matar) from Indus Grains & Pulses in Karachi (stone-ground, bulk friendly): sweet, bright-green peas, sold per kg for Rs 220. Pre-order on MarketLink and collect it at the market.",
+      "season": "December to February",
+      "storage": "Keep chilled and shell just before cooking.",
+      "uses": "Matar pulao, aloo matar and keema",
+      "usesUr": "مٹر پلاؤ، آلو مٹر اور قیمے کے لیے",
+      "storageUr": "ٹھنڈا رکھیں اور پکانے سے ذرا پہلے چھیلیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.412Z"
+    },
+    "image": "/uploads/photos/green-peas-matar.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/green-peas-matar-2.webp",
+        "credit": {
+          "author": "Paul Wilkinson",
+          "source": "https://www.flickr.com/photos/eepaul/8042519481",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb910"
+      },
+      {
+        "url": "/uploads/photos/gallery/green-peas-matar-3.webp",
+        "credit": {
+          "author": "Caroline",
+          "source": "https://www.flickr.com/photos/hills_alive/4807243411",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb911"
+      }
+    ],
+    "imageCredit": {
+      "author": "brett jordan",
+      "source": "https://www.flickr.com/photos/x1brett/6387887797",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb877",
+      "6ab81d4b532629ea684fb875"
+    ],
+    "days": [
+      1,
+      3,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.5,
+    "ratingCount": 2,
+    "totalSold": 23,
+    "createdAt": "2026-09-26T19:30:20.414Z",
+    "updatedAt": "2026-09-26T19:30:22.233Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb916",
+    "farmer": "6ab81d4c532629ea684fb913",
+    "name": "Sunflower Bunch",
+    "nameUr": "سورج مکھی کے پھول",
+    "slug": "sunflower-bunch",
+    "category": "6ab81d4b532629ea684fb868",
+    "price": 900,
+    "unit": "bunch",
+    "quantityAvailable": 15,
+    "templateQuantity": 15,
+    "lowStockThreshold": 5,
+    "description": "Five bright sunflowers to light up any room.",
+    "descriptionUr": "سورج مکھی کے پانچ چمکدار پھول جو ہر کمرے کو روشن کر دیں۔",
+    "keywords": [
+      "sunflower bunch",
+      "fresh sunflower bunch",
+      "flowers & plants karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Sunflower Bunch from Bloom & Bough Nursery in Karachi (flowers, houseplants): cut fresh on market morning with long, strong stems, sold per bunch for Rs 900. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Trim the stems and change the water every two days.",
+      "uses": "Brightening your home or as a gift",
+      "usesUr": "گھر سجانے یا تحفے کے لیے",
+      "storageUr": "ڈنٹھل تھوڑے کاٹ دیں اور ہر دو دن بعد پانی بدلیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.498Z"
+    },
+    "image": "/uploads/photos/sunflower-bunch.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/sunflower-bunch-2.webp",
+        "credit": {
+          "author": "Navaneeth KN",
+          "source": "https://www.flickr.com/photos/navaneethkn/8512296909",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb917"
+      },
+      {
+        "url": "/uploads/photos/gallery/sunflower-bunch-3.webp",
+        "credit": {
+          "author": "Michele Frazier",
+          "source": "https://www.flickr.com/photos/michelecolettefrazier/10497617483",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb918"
+      }
+    ],
+    "imageCredit": {
+      "author": "Delaware Cooperative Extension",
+      "source": "https://www.flickr.com/photos/udextension/14452588297",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      5
+    ],
+    "farmerActive": true,
+    "ratingAvg": 2.33,
+    "ratingCount": 3,
+    "totalSold": 18,
+    "createdAt": "2026-09-26T19:30:20.500Z",
+    "updatedAt": "2026-09-26T19:30:22.235Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb919",
+    "farmer": "6ab81d4c532629ea684fb913",
+    "name": "Desi Rose Bouquet",
+    "nameUr": "دیسی گلاب کا گلدستہ",
+    "slug": "desi-rose-bouquet",
+    "category": "6ab81d4b532629ea684fb868",
+    "price": 700,
+    "unit": "bunch",
+    "quantityAvailable": 20,
+    "templateQuantity": 20,
+    "lowStockThreshold": 5,
+    "description": "A dozen fragrant desi gulab roses.",
+    "descriptionUr": "ایک درجن خوشبودار دیسی گلاب۔",
+    "keywords": [
+      "desi rose bouquet",
+      "fresh desi rose bouquet",
+      "flowers & plants karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Desi Rose Bouquet from Bloom & Bough Nursery in Karachi (flowers, houseplants): cut fresh on market morning with long, strong stems, sold per bunch for Rs 700. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Trim the stems and change the water every two days.",
+      "uses": "Brightening your home or as a gift",
+      "usesUr": "گھر سجانے یا تحفے کے لیے",
+      "storageUr": "ڈنٹھل تھوڑے کاٹ دیں اور ہر دو دن بعد پانی بدلیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.502Z"
+    },
+    "image": "/uploads/photos/desi-rose-bouquet.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/desi-rose-bouquet-2.webp",
+        "credit": {
+          "author": "Nik",
+          "source": "https://www.flickr.com/photos/nikboi/9620446080/",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb91a"
+      },
+      {
+        "url": "/uploads/photos/gallery/desi-rose-bouquet-3.webp",
+        "credit": {
+          "author": "Margaux-Marguerite Duquesnoy",
+          "source": "https://www.flickr.com/photos/124559226@N08/15611692510",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb91b"
+      }
+    ],
+    "imageCredit": {
+      "author": "Ling Manh Nguyen Tran",
+      "source": "https://www.flickr.com/photos/lingdezign/3738049394",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      5
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4,
+    "ratingCount": 1,
+    "totalSold": 27,
+    "createdAt": "2026-09-26T19:30:20.504Z",
+    "updatedAt": "2026-09-26T19:30:22.238Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb91c",
+    "farmer": "6ab81d4c532629ea684fb913",
+    "name": "Tulip Bunch",
+    "nameUr": "ٹیولپ کے پھول",
+    "slug": "tulip-bunch",
+    "category": "6ab81d4b532629ea684fb868",
+    "price": 1500,
+    "unit": "bunch",
+    "quantityAvailable": 8,
+    "templateQuantity": 8,
+    "lowStockThreshold": 5,
+    "description": "Ten greenhouse tulips in mixed colours.",
+    "descriptionUr": "ملے جلے رنگوں کے دس ٹیولپ، گرین ہاؤس میں اگائے گئے۔",
+    "keywords": [
+      "tulip bunch",
+      "fresh tulip bunch",
+      "flowers & plants karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Tulip Bunch from Bloom & Bough Nursery in Karachi (flowers, houseplants): cut fresh on market morning with long, strong stems, sold per bunch for Rs 1,500. Pre-order on MarketLink and collect it at the market.",
+      "season": "January to March",
+      "storage": "Trim the stems and change the water every two days.",
+      "uses": "Brightening your home or as a gift",
+      "usesUr": "گھر سجانے یا تحفے کے لیے",
+      "storageUr": "ڈنٹھل تھوڑے کاٹ دیں اور ہر دو دن بعد پانی بدلیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.507Z"
+    },
+    "image": "/uploads/photos/tulip-bunch.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/tulip-bunch-2.webp",
+        "credit": {
+          "author": "Pamela Kelly",
+          "source": "https://www.flickr.com/photos/76316120@N02/16276869707",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb91d"
+      },
+      {
+        "url": "/uploads/photos/gallery/tulip-bunch-3.webp",
+        "credit": {
+          "author": "Fort George G. Meade Public Affairs Office",
+          "source": "https://www.flickr.com/photos/ftmeade/17168095151",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb91e"
+      }
+    ],
+    "imageCredit": {
+      "author": "Thanh-Tung Nguyen",
+      "source": "https://www.flickr.com/photos/markryan1990/5409500700",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      5
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.5,
+    "ratingCount": 2,
+    "totalSold": 17,
+    "createdAt": "2026-09-26T19:30:20.508Z",
+    "updatedAt": "2026-09-26T19:30:22.240Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb91f",
+    "farmer": "6ab81d4c532629ea684fb913",
+    "name": "Money Plant (Potted)",
+    "nameUr": "منی پلانٹ (گملے میں)",
+    "slug": "money-plant-potted",
+    "category": "6ab81d4b532629ea684fb868",
+    "price": 850,
+    "unit": "piece",
+    "quantityAvailable": 12,
+    "templateQuantity": 12,
+    "lowStockThreshold": 5,
+    "description": "Easy-care pothos in a 6-inch pot.",
+    "descriptionUr": "6 انچ کے گملے میں آسانی سے پلنے والا منی پلانٹ۔",
+    "keywords": [
+      "money plant",
+      "fresh money plant",
+      "flowers & plants karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Money Plant (Potted) from Bloom & Bough Nursery in Karachi (flowers, houseplants): healthy, well-rooted and ready for a new home, sold per piece for Rs 850. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Water when the top of the soil feels dry and keep in bright, indirect light.",
+      "uses": "Balconies, windowsills and gifting",
+      "usesUr": "بالکونی، کھڑکی اور تحفے کے لیے",
+      "storageUr": "مٹی کی اوپری تہہ خشک لگے تو پانی دیں، اور تیز مگر بالواسطہ روشنی میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.511Z"
+    },
+    "image": "/uploads/photos/money-plant-potted.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/money-plant-potted-2.webp",
+        "credit": {
+          "author": "Jane Lenahan",
+          "source": "https://www.flickr.com/photos/83478713@N04/9517630535",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb920"
+      }
+    ],
+    "imageCredit": {
+      "author": "Ross Elliott",
+      "source": "https://www.flickr.com/photos/ross_elliott/4574608372/",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      5
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4,
+    "ratingCount": 2,
+    "totalSold": 21,
+    "createdAt": "2026-09-26T19:30:20.512Z",
+    "updatedAt": "2026-09-26T19:30:22.242Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb921",
+    "farmer": "6ab81d4c532629ea684fb913",
+    "name": "Mini Cactus",
+    "nameUr": "چھوٹا کیکٹس",
+    "slug": "mini-cactus",
+    "category": "6ab81d4b532629ea684fb868",
+    "price": 450,
+    "unit": "piece",
+    "quantityAvailable": 18,
+    "templateQuantity": 18,
+    "lowStockThreshold": 5,
+    "description": "Cute desk cactus in a clay pot.",
+    "descriptionUr": "مٹی کے گملے میں میز پر رکھنے والا پیارا سا کیکٹس۔",
+    "keywords": [
+      "mini cactus",
+      "fresh mini cactus",
+      "flowers & plants karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Mini Cactus from Bloom & Bough Nursery in Karachi (flowers, houseplants): healthy, well-rooted and ready for a new home, sold per piece for Rs 450. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Water when the top of the soil feels dry and keep in bright, indirect light.",
+      "uses": "Balconies, windowsills and gifting",
+      "usesUr": "بالکونی، کھڑکی اور تحفے کے لیے",
+      "storageUr": "مٹی کی اوپری تہہ خشک لگے تو پانی دیں، اور تیز مگر بالواسطہ روشنی میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.515Z"
+    },
+    "image": "/uploads/photos/mini-cactus.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/mini-cactus-2.webp",
+        "credit": {
+          "author": "Amante Darmanin",
+          "source": "https://www.flickr.com/photos/amantedar/5780158943/",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb922"
+      },
+      {
+        "url": "/uploads/photos/gallery/mini-cactus-3.webp",
+        "credit": {
+          "author": "tim",
+          "source": "https://www.flickr.com/photos/frumbert/6146570482",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb923"
+      }
+    ],
+    "imageCredit": {
+      "author": "Scott Wylie",
+      "source": "https://www.flickr.com/photos/scotbot/16576852608",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      5
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4,
+    "ratingCount": 1,
+    "totalSold": 13,
+    "createdAt": "2026-09-26T19:30:20.516Z",
+    "updatedAt": "2026-09-26T19:30:22.245Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb924",
+    "farmer": "6ab81d4c532629ea684fb913",
+    "name": "Hibiscus Plant",
+    "nameUr": "گڑہل کا پودا",
+    "slug": "hibiscus-plant",
+    "category": "6ab81d4b532629ea684fb868",
+    "price": 1100,
+    "unit": "piece",
+    "quantityAvailable": 6,
+    "templateQuantity": 6,
+    "lowStockThreshold": 5,
+    "description": "Flowering gurhal plant for your balcony.",
+    "descriptionUr": "آپ کی بالکونی کے لیے پھول دار گڑہل کا پودا۔",
+    "keywords": [
+      "hibiscus plant",
+      "fresh hibiscus plant",
+      "flowers & plants karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Hibiscus Plant from Bloom & Bough Nursery in Karachi (flowers, houseplants): healthy, well-rooted and ready for a new home, sold per piece for Rs 1,100. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Water when the top of the soil feels dry and keep in bright, indirect light.",
+      "uses": "Balconies, windowsills and gifting",
+      "usesUr": "بالکونی، کھڑکی اور تحفے کے لیے",
+      "storageUr": "مٹی کی اوپری تہہ خشک لگے تو پانی دیں، اور تیز مگر بالواسطہ روشنی میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.520Z"
+    },
+    "image": "/uploads/photos/hibiscus-plant.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/hibiscus-plant-2.webp",
+        "credit": {
+          "author": "dbgg1979",
+          "source": "https://www.flickr.com/photos/dbgg1979/3881173400",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb925"
+      },
+      {
+        "url": "/uploads/photos/gallery/hibiscus-plant-3.webp",
+        "credit": {
+          "author": "Selene Weijenberg",
+          "source": "https://www.flickr.com/photos/selene_w/2438707413",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb926"
+      }
+    ],
+    "imageCredit": {
+      "author": "Thomas Tolkien",
+      "source": "https://www.flickr.com/photos/tomtolkien/4080875237",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "days": [
+      0,
+      5
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4.5,
+    "ratingCount": 2,
+    "totalSold": 35,
+    "createdAt": "2026-09-26T19:30:20.521Z",
+    "updatedAt": "2026-09-26T19:30:22.247Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb92b",
+    "farmer": "6ab81d4c532629ea684fb928",
+    "name": "Strawberries",
+    "nameUr": "اسٹرابیری",
+    "slug": "strawberries",
+    "category": "6ab81d4b532629ea684fb862",
+    "price": 600,
+    "unit": "box",
+    "quantityAvailable": 30,
+    "templateQuantity": 30,
+    "lowStockThreshold": 5,
+    "description": "500 g box of sweet Lahore strawberries.",
+    "descriptionUr": "لاہور کی میٹھی اسٹرابیری کا 500 گرام ڈبہ۔",
+    "keywords": [
+      "strawberries",
+      "fresh strawberries",
+      "fruits lahore",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Strawberries from Ravi Organic Farm in Lahore (organic practices, winter crops): bright red, sweet and aromatic, sold per box for Rs 600. Pre-order on MarketLink and collect it at the market.",
+      "season": "January to March",
+      "storage": "Keep chilled and eat within two days.",
+      "uses": "Desserts, milkshakes and breakfast bowls",
+      "usesUr": "میٹھے، ملک شیک اور ناشتے کے لیے",
+      "storageUr": "ٹھنڈا رکھیں اور دو دن کے اندر کھا لیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.610Z"
+    },
+    "image": "/uploads/photos/strawberries.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/strawberries-2.webp",
+        "credit": {
+          "author": "Kabsik Park",
+          "source": "https://www.flickr.com/photos/royalty-free-images/139764664",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb92c"
+      },
+      {
+        "url": "/uploads/photos/gallery/strawberries-3.webp",
+        "credit": {
+          "author": "Milestoned",
+          "source": "https://www.flickr.com/photos/baccharus/4799105162",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb92d"
+      }
+    ],
+    "imageCredit": {
+      "author": "amrufm",
+      "source": "https://www.flickr.com/photos/amrufm/653669419",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb878"
+    ],
+    "days": [
+      0,
+      4
+    ],
+    "farmerActive": true,
+    "ratingAvg": 5,
+    "ratingCount": 1,
+    "totalSold": 23,
+    "createdAt": "2026-09-26T19:30:20.611Z",
+    "updatedAt": "2026-09-26T19:30:22.249Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb92e",
+    "farmer": "6ab81d4c532629ea684fb928",
+    "name": "Kinnow Oranges",
+    "nameUr": "کینو",
+    "slug": "kinnow-oranges",
+    "category": "6ab81d4b532629ea684fb862",
+    "price": 320,
+    "unit": "dozen",
+    "quantityAvailable": 40,
+    "templateQuantity": 40,
+    "lowStockThreshold": 5,
+    "description": "Juicy kinnow straight from Sargodha partners.",
+    "descriptionUr": "سرگودھا کے شراکت داروں سے سیدھے رس بھرے کینو۔",
+    "keywords": [
+      "kinnow oranges",
+      "fresh kinnow oranges",
+      "fruits lahore",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Kinnow Oranges from Ravi Organic Farm in Lahore (organic practices, winter crops): juicy and sweet-tart, easy to peel, sold per dozen for Rs 320. Pre-order on MarketLink and collect it at the market.",
+      "season": "December to February",
+      "storage": "Keep in a cool place or the fridge.",
+      "uses": "Fresh juice, snacks and desserts",
+      "usesUr": "تازہ جوس، ہلکے ناشتے اور میٹھے کے لیے",
+      "storageUr": "ٹھنڈی جگہ یا فریج میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.614Z"
+    },
+    "image": "/uploads/photos/kinnow-oranges.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/kinnow-oranges-2.webp",
+        "credit": {
+          "author": "microphylum",
+          "source": "https://www.flickr.com/photos/32258957@N06/3129670771",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb92f"
+      },
+      {
+        "url": "/uploads/photos/gallery/kinnow-oranges-3.webp",
+        "credit": {
+          "author": "Will Scullin",
+          "source": "https://www.flickr.com/photos/wscullin/5298175224",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb930"
+      }
+    ],
+    "imageCredit": {
+      "author": "kizzzbeth",
+      "source": "https://www.flickr.com/photos/31403417@N00/5533711650",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb878"
+    ],
+    "days": [
+      0,
+      4
+    ],
+    "farmerActive": true,
+    "ratingAvg": 3.33,
+    "ratingCount": 3,
+    "totalSold": 24,
+    "createdAt": "2026-09-26T19:30:20.615Z",
+    "updatedAt": "2026-09-26T19:30:22.252Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb931",
+    "farmer": "6ab81d4c532629ea684fb928",
+    "name": "Sweet Potatoes",
+    "nameUr": "شکر قندی",
+    "slug": "sweet-potatoes",
+    "category": "6ab81d4b532629ea684fb861",
+    "price": 160,
+    "unit": "kg",
+    "quantityAvailable": 35,
+    "templateQuantity": 35,
+    "lowStockThreshold": 5,
+    "description": "Roast them on coals for the perfect winter snack.",
+    "descriptionUr": "انہیں کوئلوں پر بھونیں، سردیوں کا بہترین ناشتہ۔",
+    "keywords": [
+      "sweet potatoes",
+      "fresh sweet potatoes",
+      "vegetables lahore",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Sweet Potatoes from Ravi Organic Farm in Lahore (organic practices, winter crops): firm and creamy, freshly dug with the skin on, sold per kg for Rs 160. Pre-order on MarketLink and collect it at the market.",
+      "season": "November to February",
+      "storage": "Store in a cool, dark place away from onions.",
+      "uses": "Aloo bhujia, fries, curries and parathas",
+      "usesUr": "آلو بھجیا، فرائز، سالن اور پراٹھوں کے لیے",
+      "storageUr": "ٹھنڈی اور اندھیری جگہ پر، پیاز سے دور رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.617Z"
+    },
+    "image": "/uploads/photos/sweet-potatoes.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/sweet-potatoes-2.webp",
+        "credit": {
+          "author": "nevena  kukoljac",
+          "source": "https://www.flickr.com/photos/misskukoljac/16680941695",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb932"
+      },
+      {
+        "url": "/uploads/photos/gallery/sweet-potatoes-3.webp",
+        "credit": {
+          "author": "One 1",
+          "source": "https://www.flickr.com/photos/128042092@N07/15943569406",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb933"
+      }
+    ],
+    "imageCredit": {
+      "author": "Mike Licht",
+      "source": "https://www.flickr.com/photos/notionscapital/10894990276",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb878"
+    ],
+    "days": [
+      0,
+      4
+    ],
+    "farmerActive": true,
+    "ratingAvg": 5,
+    "ratingCount": 1,
+    "totalSold": 29,
+    "createdAt": "2026-09-26T19:30:20.618Z",
+    "updatedAt": "2026-09-26T19:30:22.254Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb934",
+    "farmer": "6ab81d4c532629ea684fb928",
+    "name": "Sweet Corn",
+    "nameUr": "میٹھی مکئی",
+    "slug": "sweet-corn",
+    "category": "6ab81d4b532629ea684fb861",
+    "price": 80,
+    "compareAtPrice": 100,
+    "unit": "piece",
+    "quantityAvailable": 50,
+    "templateQuantity": 50,
+    "lowStockThreshold": 5,
+    "description": "Tender sweet corn cobs.",
+    "descriptionUr": "نرم اور میٹھی مکئی کے بھٹے۔",
+    "keywords": [
+      "sweet corn",
+      "fresh sweet corn",
+      "vegetables lahore",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Sweet Corn from Ravi Organic Farm in Lahore (organic practices, winter crops): sweet, milky kernels, sold per piece for Rs 80. Pre-order on MarketLink and collect it at the market.",
+      "season": "July to October",
+      "storage": "Cook soon after pickup for the sweetest taste.",
+      "uses": "Roasting on coals, corn chaat and soups",
+      "usesUr": "کوئلوں پر بھوننے، کارن چاٹ اور سوپ کے لیے",
+      "storageUr": "سب سے میٹھے ذائقے کے لیے وصولی کے فوراً بعد پکائیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.621Z"
+    },
+    "image": "/uploads/photos/sweet-corn.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/sweet-corn-2.webp",
+        "credit": {
+          "author": "Ninad Chaudhari",
+          "source": "https://www.flickr.com/photos/ninadchaudhari/4528805312",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb935"
+      },
+      {
+        "url": "/uploads/photos/gallery/sweet-corn-3.webp",
+        "credit": {
+          "author": "Ozzy Delaney",
+          "source": "https://www.flickr.com/photos/24931020@N02/15362528175",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb936"
+      }
+    ],
+    "imageCredit": {
+      "author": "Rosana Prada",
+      "source": "https://www.flickr.com/photos/zanastardust/1303616796",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb878"
+    ],
+    "days": [
+      0,
+      4
+    ],
+    "farmerActive": true,
+    "ratingAvg": 5,
+    "ratingCount": 3,
+    "totalSold": 34,
+    "createdAt": "2026-09-26T19:30:20.622Z",
+    "updatedAt": "2026-09-26T19:30:22.256Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb937",
+    "farmer": "6ab81d4c532629ea684fb928",
+    "name": "Garlic",
+    "nameUr": "لہسن",
+    "slug": "garlic",
+    "category": "6ab81d4b532629ea684fb861",
+    "price": 600,
+    "unit": "kg",
+    "quantityAvailable": 20,
+    "templateQuantity": 20,
+    "lowStockThreshold": 5,
+    "description": "Pungent desi garlic bulbs.",
+    "descriptionUr": "تیز خوشبو والا دیسی لہسن۔",
+    "keywords": [
+      "garlic",
+      "fresh garlic",
+      "vegetables lahore",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Garlic from Ravi Organic Farm in Lahore (organic practices, winter crops): plump, aromatic cloves with a strong, sweet heat, sold per kg for Rs 600. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Store whole bulbs in a dry, airy basket.",
+      "uses": "Tarka, marinades and chutneys",
+      "usesUr": "تڑکے، مسالے دار میرینیڈ اور چٹنیوں کے لیے",
+      "storageUr": "پوری گٹھیاں خشک اور ہوادار ٹوکری میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.625Z"
+    },
+    "image": "/uploads/photos/garlic.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/garlic-2.webp",
+        "credit": {
+          "author": "DaveBleasdale",
+          "source": "https://www.flickr.com/photos/sidelong/15625291855",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb938"
+      },
+      {
+        "url": "/uploads/photos/gallery/garlic-3.webp",
+        "credit": {
+          "author": "Sammy JayJay",
+          "source": "https://www.flickr.com/photos/sammyjayjay/14696971725",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb939"
+      }
+    ],
+    "imageCredit": {
+      "author": "David, Bergin, Emmett and Elliott",
+      "source": "https://www.flickr.com/photos/beglen/151174701",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb878"
+    ],
+    "days": [
+      0,
+      4
+    ],
+    "farmerActive": true,
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "totalSold": 8,
+    "createdAt": "2026-09-26T19:30:20.625Z",
+    "updatedAt": "2026-09-26T19:30:22.258Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb93a",
+    "farmer": "6ab81d4c532629ea684fb928",
+    "name": "Fresh Ginger",
+    "nameUr": "تازہ ادرک",
+    "slug": "fresh-ginger",
+    "category": "6ab81d4b532629ea684fb861",
+    "price": 700,
+    "unit": "kg",
+    "quantityAvailable": 15,
+    "templateQuantity": 15,
+    "lowStockThreshold": 5,
+    "description": "Aromatic ginger root.",
+    "descriptionUr": "خوشبودار تازہ ادرک۔",
+    "keywords": [
+      "fresh ginger",
+      "fresh fresh ginger",
+      "vegetables lahore",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Fresh Ginger from Ravi Organic Farm in Lahore (organic practices, winter crops): fresh, fibrous and pleasantly fiery, sold per kg for Rs 700. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Wrap and keep in the fridge for up to three weeks.",
+      "uses": "Chai, ginger-garlic paste and stir-fries",
+      "usesUr": "چائے، ادرک لہسن کے پیسٹ اور فرائی کے لیے",
+      "storageUr": "لپیٹ کر فریج میں رکھیں، تین ہفتے تک چلتی ہے۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.628Z"
+    },
+    "image": "/uploads/photos/fresh-ginger.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/fresh-ginger-2.webp",
+        "credit": {
+          "author": "Jungle Rebel",
+          "source": "https://www.flickr.com/photos/junglegarden/14465182136",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb93b"
+      },
+      {
+        "url": "/uploads/photos/gallery/fresh-ginger-3.webp",
+        "credit": {
+          "author": "Yvon",
+          "source": "https://www.flickr.com/photos/bellissima_italia/4142613361",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb93c"
+      }
+    ],
+    "imageCredit": {
+      "author": "Thomas Won",
+      "source": "https://www.flickr.com/photos/thomaswon9121/2836510402",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb878"
+    ],
+    "days": [
+      0,
+      4
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4,
+    "ratingCount": 2,
+    "totalSold": 18,
+    "createdAt": "2026-09-26T19:30:20.629Z",
+    "updatedAt": "2026-09-26T19:30:22.260Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb941",
+    "farmer": "6ab81d4c532629ea684fb93e",
+    "name": "Red Apples",
+    "nameUr": "لال سیب",
+    "slug": "red-apples",
+    "category": "6ab81d4b532629ea684fb862",
+    "price": 380,
+    "compareAtPrice": 450,
+    "unit": "kg",
+    "quantityAvailable": 60,
+    "templateQuantity": 60,
+    "lowStockThreshold": 5,
+    "description": "Crisp red apples from Swat.",
+    "descriptionUr": "سوات کے کرکرے لال سیب۔",
+    "keywords": [
+      "red apples",
+      "fresh red apples",
+      "fruits islamabad",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Red Apples from Margalla Hills Farm in Islamabad (hill fruit, orchard): crisp, juicy and naturally sweet, sold per kg for Rs 380. Pre-order on MarketLink and collect it at the market.",
+      "season": "August to November",
+      "storage": "Refrigerate to keep them crunchy.",
+      "uses": "Snacking, lunch boxes and baking",
+      "usesUr": "ویسے کھانے، بچوں کے لنچ باکس اور بیکنگ کے لیے",
+      "storageUr": "کرکرا رکھنے کے لیے فریج میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.720Z"
+    },
+    "image": "/uploads/photos/red-apples.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/red-apples-2.webp",
+        "credit": {
+          "author": "nerissa's ring",
+          "source": "https://www.flickr.com/photos/21524179@N08/3935707212",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb942"
+      },
+      {
+        "url": "/uploads/photos/gallery/red-apples-3.webp",
+        "credit": {
+          "author": "Gipuntoe / exesofblu",
+          "source": "https://www.flickr.com/76992199@N00/5078821670/",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb943"
+      }
+    ],
+    "imageCredit": {
+      "author": "Clyde Robinson",
+      "source": "https://www.flickr.com/photos/crobj/3074550049",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb879"
+    ],
+    "days": [
+      0,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 4,
+    "ratingCount": 4,
+    "totalSold": 26,
+    "createdAt": "2026-09-26T19:30:20.721Z",
+    "updatedAt": "2026-09-26T19:30:22.262Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb944",
+    "farmer": "6ab81d4c532629ea684fb93e",
+    "name": "Green Apples",
+    "nameUr": "ہرے سیب",
+    "slug": "green-apples",
+    "category": "6ab81d4b532629ea684fb862",
+    "price": 420,
+    "unit": "kg",
+    "quantityAvailable": 30,
+    "templateQuantity": 30,
+    "lowStockThreshold": 5,
+    "description": "Tart green apples for baking and snacking.",
+    "descriptionUr": "بیکنگ اور ویسے کھانے کے لیے کھٹے ہرے سیب۔",
+    "keywords": [
+      "green apples",
+      "fresh green apples",
+      "fruits islamabad",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Green Apples from Margalla Hills Farm in Islamabad (hill fruit, orchard): crisp, juicy and naturally sweet, sold per kg for Rs 420. Pre-order on MarketLink and collect it at the market.",
+      "season": "August to November",
+      "storage": "Refrigerate to keep them crunchy.",
+      "uses": "Snacking, lunch boxes and baking",
+      "usesUr": "ویسے کھانے، بچوں کے لنچ باکس اور بیکنگ کے لیے",
+      "storageUr": "کرکرا رکھنے کے لیے فریج میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.724Z"
+    },
+    "image": "/uploads/photos/green-apples.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/green-apples-2.webp",
+        "credit": {
+          "author": "Patrick Bombaert",
+          "source": "https://www.flickr.com/photos/capture-creation/20652804449",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb945"
+      },
+      {
+        "url": "/uploads/photos/gallery/green-apples-3.webp",
+        "credit": {
+          "author": "S.Su",
+          "source": "https://www.flickr.com/photos/24550592@N08/2448068898/",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb946"
+      }
+    ],
+    "imageCredit": {
+      "author": "Selma Broeder",
+      "source": "https://www.flickr.com/photos/selma90/3675162262",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb879"
+    ],
+    "days": [
+      0,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 3.75,
+    "ratingCount": 4,
+    "totalSold": 36,
+    "createdAt": "2026-09-26T19:30:20.725Z",
+    "updatedAt": "2026-09-26T19:30:22.264Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb947",
+    "farmer": "6ab81d4c532629ea684fb93e",
+    "name": "Peaches",
+    "nameUr": "آڑو",
+    "slug": "peaches",
+    "category": "6ab81d4b532629ea684fb862",
+    "price": 450,
+    "unit": "kg",
+    "quantityAvailable": 25,
+    "templateQuantity": 25,
+    "lowStockThreshold": 5,
+    "description": "Soft, fragrant hill peaches.",
+    "descriptionUr": "پہاڑوں کے نرم اور خوشبودار آڑو۔",
+    "keywords": [
+      "peaches",
+      "fresh peaches",
+      "fruits islamabad",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Peaches from Margalla Hills Farm in Islamabad (hill fruit, orchard): soft, fragrant and dripping with juice, sold per kg for Rs 450. Pre-order on MarketLink and collect it at the market.",
+      "season": "June to August",
+      "storage": "Ripen at room temperature, then chill.",
+      "uses": "Eating fresh, desserts and jams",
+      "usesUr": "تازہ کھانے، میٹھے اور جام کے لیے",
+      "storageUr": "کمرے کے درجۂ حرارت پر پکنے دیں، پھر ٹھنڈا کریں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.728Z"
+    },
+    "image": "/uploads/photos/peaches.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/peaches-2.webp",
+        "credit": {
+          "author": "@ferchos04 II",
+          "source": "https://www.flickr.com/photos/fernando680411/20271701656",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb948"
+      },
+      {
+        "url": "/uploads/photos/gallery/peaches-3.webp",
+        "credit": {
+          "author": "Ralph Daily",
+          "source": "https://www.flickr.com/photos/ralphandjenny/2826472468",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb949"
+      }
+    ],
+    "imageCredit": {
+      "author": "Kurman Communications, Inc.",
+      "source": "https://www.flickr.com/photos/kurmanphotos/14844000216",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb879"
+    ],
+    "days": [
+      0,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 5,
+    "ratingCount": 2,
+    "totalSold": 22,
+    "createdAt": "2026-09-26T19:30:20.729Z",
+    "updatedAt": "2026-09-26T19:30:22.266Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb94a",
+    "farmer": "6ab81d4c532629ea684fb93e",
+    "name": "Cherries",
+    "nameUr": "چیری",
+    "slug": "cherries",
+    "category": "6ab81d4b532629ea684fb862",
+    "price": 1200,
+    "unit": "kg",
+    "quantityAvailable": 10,
+    "templateQuantity": 10,
+    "lowStockThreshold": 5,
+    "description": "Dark sweet cherries, short season only.",
+    "descriptionUr": "گہری رنگت والی میٹھی چیری، صرف تھوڑے سے موسم کے لیے۔",
+    "keywords": [
+      "cherries",
+      "fresh cherries",
+      "fruits islamabad",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Cherries from Margalla Hills Farm in Islamabad (hill fruit, orchard): dark, glossy and sweet, sold per kg for Rs 1,200. Pre-order on MarketLink and collect it at the market.",
+      "season": "May to June",
+      "storage": "Keep chilled and unwashed until eating.",
+      "uses": "Snacking, desserts and baking",
+      "usesUr": "ویسے کھانے، میٹھے اور بیکنگ کے لیے",
+      "storageUr": "کھانے تک بغیر دھوئے ٹھنڈا رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.732Z"
+    },
+    "image": "/uploads/photos/cherries.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/cherries-2.webp",
+        "credit": {
+          "author": "KitAy",
+          "source": "https://www.flickr.com/photos/kitpfish/562254367",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb94b"
+      },
+      {
+        "url": "/uploads/photos/gallery/cherries-3.webp",
+        "credit": {
+          "author": "Paul Asman and Jill Lenoble",
+          "source": "https://www.flickr.com/photos/pauljill/4828845854",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb94c"
+      }
+    ],
+    "imageCredit": {
+      "author": "Pat (Cletch) Williams",
+      "source": "https://www.flickr.com/photos/cletch/19471553051",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb879"
+    ],
+    "days": [
+      0,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "totalSold": 20,
+    "createdAt": "2026-09-26T19:30:20.733Z",
+    "updatedAt": "2026-09-26T19:30:22.269Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb94d",
+    "farmer": "6ab81d4c532629ea684fb93e",
+    "name": "Kiwi",
+    "nameUr": "کیوی",
+    "slug": "kiwi",
+    "category": "6ab81d4b532629ea684fb862",
+    "price": 900,
+    "unit": "kg",
+    "quantityAvailable": 12,
+    "templateQuantity": 12,
+    "lowStockThreshold": 5,
+    "description": "Tangy kiwis from Swat valley.",
+    "descriptionUr": "وادیٔ سوات کی کھٹی میٹھی کیوی۔",
+    "keywords": [
+      "kiwi",
+      "fresh kiwi",
+      "fruits islamabad",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Kiwi from Margalla Hills Farm in Islamabad (hill fruit, orchard): tangy-sweet with bright green flesh, sold per kg for Rs 900. Pre-order on MarketLink and collect it at the market.",
+      "season": "October to December",
+      "storage": "Ripen at room temperature; chill once soft.",
+      "uses": "Breakfast, smoothies and fruit salads",
+      "usesUr": "ناشتے، اسموتھی اور فروٹ سلاد کے لیے",
+      "storageUr": "کمرے کے درجۂ حرارت پر پکنے دیں؛ نرم ہو جائے تو ٹھنڈا کریں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.735Z"
+    },
+    "image": "/uploads/photos/kiwi.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/kiwi-2.webp",
+        "credit": {
+          "author": "Tatsuo Yamashita",
+          "source": "https://www.flickr.com/photos/yto/19173747105",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb94e"
+      },
+      {
+        "url": "/uploads/photos/gallery/kiwi-3.webp",
+        "credit": {
+          "author": "Cmo Mtl",
+          "source": "https://www.flickr.com/photos/cmo_ptgr/6802343934",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb94f"
+      }
+    ],
+    "imageCredit": {
+      "author": "Gaye Launder",
+      "source": "https://www.flickr.com/photos/28912254@N04/16480336605",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb879"
+    ],
+    "days": [
+      0,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "totalSold": 20,
+    "createdAt": "2026-09-26T19:30:20.736Z",
+    "updatedAt": "2026-09-26T19:30:22.271Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb950",
+    "farmer": "6ab81d4c532629ea684fb93e",
+    "name": "Pears",
+    "nameUr": "ناشپاتی",
+    "slug": "pears",
+    "category": "6ab81d4b532629ea684fb862",
+    "price": 350,
+    "unit": "kg",
+    "quantityAvailable": 20,
+    "templateQuantity": 20,
+    "lowStockThreshold": 5,
+    "description": "Juicy nashpati pears.",
+    "descriptionUr": "رس بھری ناشپاتیاں۔",
+    "keywords": [
+      "pears",
+      "fresh pears",
+      "fruits islamabad",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Pears from Margalla Hills Farm in Islamabad (hill fruit, orchard): juicy with a delicate sweetness, sold per kg for Rs 350. Pre-order on MarketLink and collect it at the market.",
+      "season": "August to October",
+      "storage": "Ripen on the counter, then refrigerate.",
+      "uses": "Snacking, salads and poaching",
+      "usesUr": "ویسے کھانے، سلاد اور ہلکا پکانے کے لیے",
+      "storageUr": "باہر رکھ کر پکنے دیں، پھر فریج میں رکھیں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.739Z"
+    },
+    "image": "/uploads/photos/pears.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/pears-2.webp",
+        "credit": {
+          "author": "Rennett Stowe",
+          "source": "https://www.flickr.com/photos/tomsaint/6080932705",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb951"
+      },
+      {
+        "url": "/uploads/photos/gallery/pears-3.webp",
+        "credit": {
+          "author": "Stefan",
+          "source": "https://www.flickr.com/photos/92703742@N04/8426126549",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb952"
+      }
+    ],
+    "imageCredit": {
+      "author": "Steven Jackson",
+      "source": "https://www.flickr.com/photos/jackson3/3860359915",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb879"
+    ],
+    "days": [
+      0,
+      6
+    ],
+    "farmerActive": true,
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "totalSold": 13,
+    "createdAt": "2026-09-26T19:30:20.740Z",
+    "updatedAt": "2026-09-26T19:30:22.273Z",
+    "__v": 0
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb959",
+    "farmer": "6ab81d4c532629ea684fb957",
+    "name": "Goat Milk",
+    "nameUr": "بکری کا دودھ",
+    "slug": "goat-milk",
+    "category": "6ab81d4b532629ea684fb863",
+    "price": 300,
+    "unit": "litre",
+    "quantityAvailable": 10,
+    "templateQuantity": 10,
+    "lowStockThreshold": 5,
+    "description": "Fresh goat milk.",
+    "descriptionUr": "بکری کا تازہ دودھ۔",
+    "keywords": [
+      "goat milk",
+      "fresh goat milk",
+      "dairy & eggs karachi",
+      "farm fresh"
+    ],
+    "aiSchema": {
+      "summary": "Goat Milk from Old Town Goat Dairy in Karachi (goat milk): fresh, creamy and collected the same morning, sold per litre for Rs 300. Pre-order on MarketLink and collect it at the market.",
+      "season": "All year",
+      "storage": "Boil and refrigerate; use within two days.",
+      "uses": "Chai, kheer and breakfast",
+      "usesUr": "چائے، کھیر اور ناشتے کے لیے",
+      "storageUr": "ابال کر فریج میں رکھیں؛ دو دن کے اندر استعمال کریں۔",
+      "source": "builtin",
+      "generatedAt": "2026-09-26T19:30:20.915Z"
+    },
+    "image": "/uploads/photos/goat-milk.webp",
+    "gallery": [
+      {
+        "url": "/uploads/photos/gallery/goat-milk-2.webp",
+        "credit": {
+          "author": "Helga Birna Jónasdóttir",
+          "source": "https://www.flickr.com/photos/helgabj/2629361722/",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb95a"
+      },
+      {
+        "url": "/uploads/photos/gallery/goat-milk-3.webp",
+        "credit": {
+          "author": "Mark Morgan",
+          "source": "https://www.flickr.com/photos/markmorgantrinidad/16559405934",
+          "license": "CC BY 2.0"
+        },
+        "_id": "6ab81d4c532629ea684fb95b"
+      }
+    ],
+    "imageCredit": {
+      "author": "Rebecca Siegel",
+      "source": "https://www.flickr.com/photos/grongar/5529448988",
+      "license": "CC BY 2.0"
+    },
+    "status": "available",
+    "isRemoved": false,
+    "deletedByFarmer": false,
+    "markets": [
+      "6ab81d4b532629ea684fb877"
+    ],
+    "days": [
+      1
+    ],
+    "farmerActive": false,
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "totalSold": 0,
+    "createdAt": "2026-09-26T19:30:20.917Z",
+    "updatedAt": "2026-09-26T19:30:22.275Z",
+    "__v": 0
+  }
+]

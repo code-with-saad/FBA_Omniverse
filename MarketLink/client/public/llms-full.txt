@@ -1,0 +1,224 @@
+# MarketLink
+
+> MarketLink is a website for weekly farmers markets in Pakistan (Karachi, Lahore and Islamabad). Customers see what each local farmer has in stock this week, pre-order online, collect the order at the market in a chosen time slot and pay the farmer in cash at the stall. There is no online payment. Farmers join for free.
+
+Key facts:
+- Payment: cash to the farmer at pickup. No online payment, no card details.
+- Ordering: add products to the basket, choose a market and a pickup time slot per farmer, confirm. Guests get a free account automatically.
+- Changes: orders can be changed or cancelled until the farmer’s cut-off time (usually 12 hours before the pickup slot).
+- Farmers: registration is free; an administrator approves each stall before it can sell.
+- Contact: hello@marketlink.pk, +92 21 3456 7890, Aptech Learning Centre, F.B. Area, Karachi. Contact form: https://marketlink.onrender.com/contact
+
+## How it works
+1. **Find fresh produce.** Browse this week’s stock by category, market, farmer or pickup day.
+2. **Add to your basket.** Press Add on a product, choose how many and add it to the basket. One basket can hold several farmers.
+3. **Pick a pickup slot.** At checkout choose the market, day and time window for each farmer. No account is needed: guests get one automatically.
+4. **Collect and pay at the stall.** Show your order number at the stall on market day and pay the farmer in cash.
+
+## Frequently asked questions
+### What is MarketLink?
+
+MarketLink is a website where you pre-order fresh food from local farmers and collect it at your weekly farmers market.
+
+You can see what every farmer has in stock this week, reserve it online and pay the farmer in cash when you pick it up. Farmers see their orders before market day, so they bring the right amount and waste less.
+
+### How do I pre-order from a farmer?
+
+Add products to your basket, pick a market and a pickup time for each farmer, then confirm the order.
+
+1. Open Shop (or a farmer or market page) and press Add on a product.
+2. Choose how many you want and press Add to basket.
+3. Open the basket and press Checkout.
+4. Pick the market, day and time slot for each farmer.
+5. Confirm. You get an order number and an e-mail, and the farmer is notified straight away.
+
+### Do I need an account to order?
+
+No. You can check out as a guest with your name, phone number and e-mail, and MarketLink creates a free account for you.
+
+The account lets you follow your orders, change or cancel them, save favourite farmers and leave reviews. You can set a password later from the e-mail we send.
+
+### Can I order from more than one farmer at once?
+
+Yes. One basket can hold products from several farmers.
+
+At checkout the basket is split per farmer, and you choose a pickup slot for each of them. Every farmer receives only their own part of the order.
+
+### Can I change or cancel my order?
+
+Yes, until the farmer’s order cut-off time, which is usually 12 hours before your pickup slot.
+
+Open Account > My orders, choose the order and change the quantities or the pickup slot, or cancel it. The stock goes back to the farmer automatically. After the cut-off, or once the order is ready, please contact the farmer directly.
+
+### What happens if a product sells out?
+
+A sold-out product cannot be added to the basket, and the farmer’s stock is reserved the moment you place your order.
+
+Add a sold-out product to your favourites and you get a notification as soon as the farmer restocks it.
+
+### Are the products organic?
+
+Some are. Every farmer lists their own farming practices, such as organic, pesticide-free or free-range.
+
+You can see the practices on the farmer’s page and filter the shop by them. MarketLink does not certify farms itself, so ask the farmer at the market if you have questions.
+
+### How do I pay?
+
+You pay the farmer in cash (or however the farmer accepts) when you collect your order at the market.
+
+There is no online payment and no card details are needed on MarketLink. The total shown in your basket is what you pay at the stall.
+
+### Where and when do I pick up my order?
+
+At the farmers market and time slot you chose at checkout.
+
+Your order page and confirmation e-mail show the market address, the day and the time window. Show your order number at the farmer’s stall. You get a notification when the farmer marks your order as ready.
+
+### What if I cannot make it to my pickup slot?
+
+Change the pickup slot, or cancel the order, before the farmer’s cut-off time.
+
+After the cut-off please contact the farmer using the phone number on their page, so the food does not go to waste.
+
+### Which markets and cities are on MarketLink?
+
+MarketLink lists weekly farmers markets in Karachi, Lahore and Islamabad, and new markets are added regularly.
+
+Open Markets or the Market map to see every market with its address, opening days and times, and the farmers who sell there.
+
+### How can I sell my produce on MarketLink?
+
+Register as a farmer, and after an administrator approves your stall you can list your products.
+
+The sign-up form asks for your stall name, farm details, the markets you sell at and your pickup times. Joining is free. After approval you add products with a photo, price and weekly stock, and customers can pre-order straight away.
+
+### Does MarketLink charge farmers a fee?
+
+No. Listing products and receiving pre-orders on MarketLink is free.
+
+Customers pay you directly at your stall, so the full amount goes to you.
+
+### How do I manage my orders and stock?
+
+Everything is in the farmer dashboard: orders, stock, pickup windows and sales reports.
+
+Accept or decline each new order, mark it ready and then completed at pickup. Stock goes down when an order is placed and back up when it is cancelled or declined, and you get an alert when a product is running low.
+
+### How do reviews work?
+
+Customers can rate a product or a farmer from 1 to 5 stars and write a short review.
+
+Reviews from customers who collected a completed order are marked "Verified purchase". Anyone can report a review that breaks the rules, and administrators check every report.
+
+### I forgot my password. What do I do?
+
+Press "Forgot password?" on the login page and enter your e-mail address.
+
+We e-mail you a link to choose a new password. The link works for 30 minutes.
+
+### What do you do with my personal data?
+
+MarketLink only uses your details to run your orders and your account, and never sells them.
+
+The farmer you order from sees your name and phone number so they can reach you about the pickup. The Terms & Conditions page explains the details, and you can unsubscribe from e-mails with one click.
+
+## Markets
+- [F-9 Park Weekend Market](https://marketlink.onrender.com/markets/f-9-park-weekend-market): Islamabad, Fatima Jinnah Park (F-9), Islamabad. Open Saturday, Sunday, 8:00 am to 2:00 pm.
+- [Bahadurabad Fresh Friday Market](https://marketlink.onrender.com/markets/bahadurabad-fresh-friday-market): Karachi, Bahadurabad Chowrangi, Bahadur Yar Jang Society, Karachi. Open Tuesday, Friday, 4:00 pm to 9:00 pm.
+- [Clifton Seaview Farmers Market](https://marketlink.onrender.com/markets/clifton-seaview-farmers-market): Karachi, Block 2, Clifton (near Boat Basin), Karachi. Open Saturday, Sunday, 7:00 am to 1:00 pm.
+- [DHA Phase 6 Weekend Market](https://marketlink.onrender.com/markets/dha-phase-6-weekend-market): Karachi, Bukhari Commercial, DHA Phase 6, Karachi. Open Friday, Sunday, 8:00 am to 2:00 pm.
+- [Gulshan Sunday Kisan Bazaar](https://marketlink.onrender.com/markets/gulshan-sunday-kisan-bazaar): Karachi, Block 13-D, Gulshan-e-Iqbal (near Maskan Chowrangi), Karachi. Open Sunday, Wednesday, 7:00 am to 3:00 pm.
+- [North Nazimabad Evening Green Market](https://marketlink.onrender.com/markets/north-nazimabad-evening-green-market): Karachi, Block H, North Nazimabad (Hyderi), Karachi. Open Wednesday, Saturday, 4:00 pm to 9:00 pm.
+- [Saddar Heritage Farmers Market](https://marketlink.onrender.com/markets/saddar-heritage-farmers-market): Karachi, Near Empress Market, Saddar, Karachi. Open Monday, Thursday, Saturday, 6:00 am to 12:00 pm.
+- [Model Town Kisan Market](https://marketlink.onrender.com/markets/model-town-kisan-market): Lahore, Model Town Link Road, Lahore. Open Sunday, Thursday, 7:00 am to 1:00 pm.
+
+## Farmers
+- [Bloom & Bough Nursery](https://marketlink.onrender.com/farmers/bloom-bough-nursery) (Karachi) [Flowers, Houseplants]: Cut flowers and easy-care houseplants grown in our shade houses along the Faisal nursery belt.
+- [Gadap Orchard Co.](https://marketlink.onrender.com/farmers/gadap-orchard-co) (Karachi) [Tree-ripened, Orchard]: Mango, banana and melon orchards in the Gadap valley.
+- [Hyderabad Herb Garden](https://marketlink.onrender.com/farmers/hyderabad-herb-garden) (Karachi) [Same-day harvest, Hydro-greens]: Leafy greens and fragrant herbs grown in raised beds and harvested the same afternoon for the evening markets.
+- [Indus Grains & Pulses](https://marketlink.onrender.com/farmers/indus-grains-pulses) (Karachi) [Stone-ground, Bulk friendly]: Stone-ground atta, aged basmati and home-cleaned pulses from farms along the Indus.
+- [Karachi Artisan Bakehouse](https://marketlink.onrender.com/farmers/karachi-artisan-bakehouse) (Karachi) [Sourdough, Small batch]: Slow-fermented sourdough and French-style pastries baked in small batches before sunrise.
+- [Kirthar Honey & Preserves](https://marketlink.onrender.com/farmers/kirthar-honey-preserves) (Karachi) [Raw honey, Zero waste]: Wild Sidr and acacia honey from our hives in the Kirthar foothills, plus small-batch jams and chutneys made from market surplus.
+- [Malir Green Fields](https://marketlink.onrender.com/farmers/malir-green-fields) (Karachi) [Pesticide-free, Family farm, Picked daily]: Three generations of vegetable growers from Malir.
+- [Margalla Hills Farm](https://marketlink.onrender.com/farmers/margalla-hills-farm) (Islamabad) [Hill fruit, Orchard]: Hillside orchards above Islamabad with apples, peaches, cherries and kiwi from our partner farms in Swat.
+- [Ravi Organic Farm](https://marketlink.onrender.com/farmers/ravi-organic-farm) (Lahore) [Organic practices, Winter crops]: A family farm near Raiwind that follows organic practices, growing strawberries, kinnow and winter vegetables for Lahore families.
+- [Thatta Dairy Collective](https://marketlink.onrender.com/farmers/thatta-dairy-collective) (Karachi) [Cooperative, Grass-fed, Free-range]: A cooperative of twelve small dairy families.
+
+## Products this week (prices in Pakistani rupees, updated 2026-09-26)
+
+### Vegetables
+- [Broccoli](https://marketlink.onrender.com/products/broccoli): Rs 450 per kg, from Hyderabad Herb Garden
+- [Button Mushrooms](https://marketlink.onrender.com/products/button-mushrooms): Rs 700 per pack, from Hyderabad Herb Garden (sold out)
+- [Capsicum Mix](https://marketlink.onrender.com/products/capsicum-mix): Rs 320 per kg, from Malir Green Fields (sold out)
+- [Desi Cucumbers](https://marketlink.onrender.com/products/desi-cucumbers): Rs 100 per kg, from Malir Green Fields
+- [Farm Potatoes](https://marketlink.onrender.com/products/farm-potatoes): Rs 90 per kg, from Malir Green Fields
+- [Fresh Ginger](https://marketlink.onrender.com/products/fresh-ginger): Rs 700 per kg, from Ravi Organic Farm
+- [Garlic](https://marketlink.onrender.com/products/garlic): Rs 600 per kg, from Ravi Organic Farm
+- [Green Chillies](https://marketlink.onrender.com/products/green-chillies): Rs 240 per kg, from Malir Green Fields
+- [Green Peas (Matar)](https://marketlink.onrender.com/products/green-peas-matar): Rs 220 per kg, from Indus Grains & Pulses
+- [Purple Brinjal](https://marketlink.onrender.com/products/purple-brinjal): Rs 110 per kg, from Malir Green Fields
+- [Red Onions](https://marketlink.onrender.com/products/red-onions): Rs 140 per kg, from Malir Green Fields
+- [Sweet Carrots](https://marketlink.onrender.com/products/sweet-carrots): Rs 120 per kg, from Malir Green Fields
+- [Sweet Corn](https://marketlink.onrender.com/products/sweet-corn): Rs 80 per piece, from Ravi Organic Farm
+- [Sweet Potatoes](https://marketlink.onrender.com/products/sweet-potatoes): Rs 160 per kg, from Ravi Organic Farm
+- [Vine Tomatoes](https://marketlink.onrender.com/products/vine-tomatoes): Rs 180 per kg, from Malir Green Fields
+
+### Fruits
+- [Bananas](https://marketlink.onrender.com/products/bananas): Rs 180 per dozen, from Gadap Orchard Co.
+- [Cantaloupe Melon](https://marketlink.onrender.com/products/cantaloupe-melon): Rs 150 per piece, from Gadap Orchard Co.
+- [Chaunsa Mangoes](https://marketlink.onrender.com/products/chaunsa-mangoes): Rs 400 per kg, from Gadap Orchard Co.
+- [Cherries](https://marketlink.onrender.com/products/cherries): Rs 1200 per kg, from Margalla Hills Farm
+- [Green Apples](https://marketlink.onrender.com/products/green-apples): Rs 420 per kg, from Margalla Hills Farm
+- [Kinnow Oranges](https://marketlink.onrender.com/products/kinnow-oranges): Rs 320 per dozen, from Ravi Organic Farm
+- [Kiwi](https://marketlink.onrender.com/products/kiwi): Rs 900 per kg, from Margalla Hills Farm
+- [Lemons](https://marketlink.onrender.com/products/lemons): Rs 260 per kg, from Gadap Orchard Co.
+- [Peaches](https://marketlink.onrender.com/products/peaches): Rs 450 per kg, from Margalla Hills Farm
+- [Pears](https://marketlink.onrender.com/products/pears): Rs 350 per kg, from Margalla Hills Farm
+- [Red Apples](https://marketlink.onrender.com/products/red-apples): Rs 380 per kg, from Margalla Hills Farm
+- [Sindhri Mangoes](https://marketlink.onrender.com/products/sindhri-mangoes): Rs 350 per kg, from Gadap Orchard Co.
+- [Strawberries](https://marketlink.onrender.com/products/strawberries): Rs 600 per box, from Ravi Organic Farm
+- [Tender Coconuts](https://marketlink.onrender.com/products/tender-coconuts): Rs 200 per piece, from Gadap Orchard Co.
+- [Watermelon](https://marketlink.onrender.com/products/watermelon): Rs 70 per kg, from Gadap Orchard Co.
+
+### Dairy & Eggs
+- [Desi Eggs](https://marketlink.onrender.com/products/desi-eggs): Rs 450 per dozen, from Thatta Dairy Collective
+- [Farm Paneer](https://marketlink.onrender.com/products/farm-paneer): Rs 1400 per kg, from Thatta Dairy Collective
+- [Fresh Buffalo Milk](https://marketlink.onrender.com/products/fresh-buffalo-milk): Rs 240 per litre, from Thatta Dairy Collective
+- [Hand-churned Butter](https://marketlink.onrender.com/products/hand-churned-butter): Rs 900 per pack, from Thatta Dairy Collective
+- [Natural Yogurt](https://marketlink.onrender.com/products/natural-yogurt): Rs 280 per kg, from Thatta Dairy Collective
+
+### Baked Goods
+- [Butter Croissants](https://marketlink.onrender.com/products/butter-croissants): Rs 1200 per box, from Karachi Artisan Bakehouse
+- [Classic Baguette](https://marketlink.onrender.com/products/classic-baguette): Rs 450 per piece, from Karachi Artisan Bakehouse
+- [Country Sourdough Loaf](https://marketlink.onrender.com/products/country-sourdough-loaf): Rs 950 per loaf, from Karachi Artisan Bakehouse
+- [Oat Chocolate Cookies](https://marketlink.onrender.com/products/oat-chocolate-cookies): Rs 650 per box, from Karachi Artisan Bakehouse
+- [Seasonal Fruit Pie](https://marketlink.onrender.com/products/seasonal-fruit-pie): Rs 1800 per piece, from Karachi Artisan Bakehouse
+- [Sesame Bagels](https://marketlink.onrender.com/products/sesame-bagels): Rs 800 per pack, from Karachi Artisan Bakehouse
+- [Whole Wheat Naan](https://marketlink.onrender.com/products/whole-wheat-naan): Rs 300 per pack, from Karachi Artisan Bakehouse
+
+### Herbs & Greens
+- [Baby Spinach](https://marketlink.onrender.com/products/baby-spinach): Rs 160 per bunch, from Hyderabad Herb Garden
+- [Coriander (Dhania)](https://marketlink.onrender.com/products/coriander-dhania): Rs 50 per bunch, from Hyderabad Herb Garden
+- [Fresh Mint (Podina)](https://marketlink.onrender.com/products/fresh-mint-podina): Rs 60 per bunch, from Hyderabad Herb Garden
+- [Iceberg Lettuce](https://marketlink.onrender.com/products/iceberg-lettuce): Rs 220 per piece, from Hyderabad Herb Garden
+
+### Honey & Preserves
+- [Acacia Honey](https://marketlink.onrender.com/products/acacia-honey): Rs 2200 per jar, from Kirthar Honey & Preserves
+- [Green Olives in Brine](https://marketlink.onrender.com/products/green-olives-in-brine): Rs 950 per jar, from Kirthar Honey & Preserves
+- [Mango Chutney](https://marketlink.onrender.com/products/mango-chutney): Rs 650 per jar, from Kirthar Honey & Preserves
+- [Strawberry Jam](https://marketlink.onrender.com/products/strawberry-jam): Rs 750 per jar, from Kirthar Honey & Preserves
+- [Wild Sidr Honey](https://marketlink.onrender.com/products/wild-sidr-honey): Rs 3200 per jar, from Kirthar Honey & Preserves
+
+### Grains & Pulses
+- [Aged Basmati Rice](https://marketlink.onrender.com/products/aged-basmati-rice): Rs 420 per kg, from Indus Grains & Pulses
+- [Chakki Atta (5 kg)](https://marketlink.onrender.com/products/chakki-atta-5-kg): Rs 1100 per pack, from Indus Grains & Pulses
+- [Red Kidney Beans](https://marketlink.onrender.com/products/red-kidney-beans): Rs 480 per kg, from Indus Grains & Pulses
+- [Roasted Peanuts](https://marketlink.onrender.com/products/roasted-peanuts): Rs 600 per kg, from Indus Grains & Pulses
+
+### Flowers & Plants
+- [Desi Rose Bouquet](https://marketlink.onrender.com/products/desi-rose-bouquet): Rs 700 per bunch, from Bloom & Bough Nursery
+- [Hibiscus Plant](https://marketlink.onrender.com/products/hibiscus-plant): Rs 1100 per piece, from Bloom & Bough Nursery
+- [Mini Cactus](https://marketlink.onrender.com/products/mini-cactus): Rs 450 per piece, from Bloom & Bough Nursery
+- [Money Plant (Potted)](https://marketlink.onrender.com/products/money-plant-potted): Rs 850 per piece, from Bloom & Bough Nursery
+- [Sunflower Bunch](https://marketlink.onrender.com/products/sunflower-bunch): Rs 900 per bunch, from Bloom & Bough Nursery
+- [Tulip Bunch](https://marketlink.onrender.com/products/tulip-bunch): Rs 1500 per bunch, from Bloom & Bough Nursery

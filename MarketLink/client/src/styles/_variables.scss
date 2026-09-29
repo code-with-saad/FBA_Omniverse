@@ -1,0 +1,111 @@
+$ml-forest: #173b2c;
+$ml-forest-2: #1f4a37;
+$ml-green: #2e7d4f;
+$ml-leaf: #6dbe45;
+$ml-lime: #d4f06e;
+$ml-cream: #faf7f0;
+$ml-sand: #f1ebdd;
+$ml-carrot: #f28c38;
+$ml-tomato: #e0513a;
+$ml-sky: #3c8dbc;
+$ml-honey: #f4b93e;
+$ml-ink: #16211c;
+$ml-muted: #66756d;
+$ml-line: #e7e1d3;
+
+
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 1140px,
+  xl: 1240px,
+  xxl: 1320px,
+);
+$primary: $ml-green;
+$secondary: $ml-muted;
+$success: #3a9a5b;
+$info: $ml-sky;
+$warning: $ml-honey;
+$danger: $ml-tomato;
+$light: $ml-sand;
+$dark: $ml-forest;
+
+$theme-colors-extra: (
+  'forest': $ml-forest,
+  'lime': $ml-lime,
+  'carrot': $ml-carrot,
+);
+
+$body-bg: $ml-cream;
+$body-color: $ml-ink;
+$border-color: $ml-line;
+$link-color: $ml-green;
+$link-decoration: none;
+$link-hover-decoration: underline;
+
+$font-family-sans-serif: 'Plus Jakarta Sans Variable', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+$headings-font-family: 'Fraunces Variable', Georgia, 'Times New Roman', serif;
+$headings-font-weight: 650;
+$headings-color: $ml-forest;
+$font-size-base: 0.975rem;
+$line-height-base: 1.6;
+$small-font-size: 0.85em;
+
+$border-radius: 0.8rem;
+$border-radius-sm: 0.55rem;
+$border-radius-lg: 1.25rem;
+$border-radius-xl: 1.6rem;
+$border-radius-pill: 50rem;
+
+$box-shadow-sm: 0 1px 2px rgba(23, 59, 44, 0.06);
+$box-shadow: 0 1px 2px rgba(23, 59, 44, 0.05), 0 10px 28px -12px rgba(23, 59, 44, 0.18);
+$box-shadow-lg: 0 2px 6px rgba(23, 59, 44, 0.06), 0 28px 60px -24px rgba(23, 59, 44, 0.3);
+
+$btn-border-radius: $border-radius-pill;
+$btn-border-radius-sm: $border-radius-pill;
+$btn-border-radius-lg: $border-radius-pill;
+$btn-padding-x: 1.15rem;
+$btn-padding-y: 0.55rem;
+$btn-font-weight: 600;
+$btn-padding-x-lg: 1.6rem;
+$btn-padding-y-lg: 0.8rem;
+
+$input-border-radius: 0.85rem;
+$input-border-radius-lg: 1rem;
+$input-bg: #fff;
+$input-border-color: #ddd6c6;
+
+
+$form-select-indicator-color: $ml-forest;
+$form-select-indicator: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><path fill='none' stroke='#{$form-select-indicator-color}' stroke-linecap='round' stroke-linejoin='round' stroke-width='2.2' d='m3.5 6 4.5 4.5L12.5 6'/></svg>");
+$form-select-bg-size: 14px 12px;
+$input-padding-y: 0.6rem;
+$input-padding-x: 0.9rem;
+$input-focus-border-color: $ml-leaf;
+$input-btn-focus-color: rgba($ml-leaf, 0.25);
+$form-label-font-weight: 600;
+$form-check-input-checked-bg-color: $ml-green;
+
+$card-border-radius: $border-radius-lg;
+$card-border-color: $ml-line;
+$card-cap-bg: transparent;
+$card-spacer-y: 1.25rem;
+$card-spacer-x: 1.25rem;
+
+$badge-font-weight: 600;
+$badge-border-radius: $border-radius-pill;
+$badge-padding-x: 0.7em;
+$badge-padding-y: 0.4em;
+
+$table-cell-padding-y: 0.8rem;
+$table-cell-padding-x: 0.85rem;
+$table-border-color: $ml-line;
+$table-hover-bg: rgba($ml-lime, 0.12);
+
+$nav-link-font-weight: 600;
+$dropdown-border-color: $ml-line;
+$dropdown-border-radius: 1rem;
+$modal-content-border-radius: 1.5rem;
+$alert-border-radius: 1rem;
+$progress-border-radius: 50rem;

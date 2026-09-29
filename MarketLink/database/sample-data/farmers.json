@@ -1,0 +1,815 @@
+[
+  {
+    "_id": "6ab81d4b532629ea684fb87b",
+    "user": "6ab81d4b532629ea684fb87a",
+    "stallName": "Malir Green Fields",
+    "slug": "malir-green-fields",
+    "contactPerson": "Ahmed Raza",
+    "phone": "+92 300 1234567",
+    "email": "farmer@marketlink.com",
+    "address": "Plot 14, Malir Agricultural Belt, Karachi",
+    "city": "Karachi",
+    "bio": "Three generations of vegetable growers from Malir. We pick on Friday evening so everything is at its freshest for the weekend markets. No synthetic pesticides, just compost and care.",
+    "bioUr": "ملیر کے سبزی اگانے والوں کی تیسری نسل۔ ہم جمعہ کی شام چنائی کرتے ہیں تاکہ ہفتے کے آخر کی مارکیٹوں کے لیے سب کچھ بالکل تازہ ہو۔ کوئی مصنوعی کیڑے مار دوا نہیں، صرف نامیاتی کھاد اور توجہ۔",
+    "tags": [
+      "Pesticide-free",
+      "Family farm",
+      "Picked daily"
+    ],
+    "categories": [
+      "6ab81d4b532629ea684fb861"
+    ],
+    "logo": "/uploads/photos/thumbs/vine-tomatoes.webp",
+    "coverImage": "/uploads/places/farms/malir.webp",
+    "coverCredit": {
+      "author": "Pipers Brook Vineyard Media",
+      "source": "https://www.flickr.com/photos/pbvmedia/18800818602",
+      "license": "CC BY 2.0"
+    },
+    "latitude": 24.8203,
+    "longitude": 67.0318,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb873"
+    ],
+    "operatingDays": [
+      0,
+      5,
+      6
+    ],
+    "pickupWindows": [
+      {
+        "market": "6ab81d4b532629ea684fb872",
+        "day": 6,
+        "start": "08:00",
+        "end": "12:00",
+        "_id": "6ab81d4b532629ea684fb87c"
+      },
+      {
+        "market": "6ab81d4b532629ea684fb872",
+        "day": 0,
+        "start": "08:00",
+        "end": "12:00",
+        "_id": "6ab81d4b532629ea684fb87d"
+      },
+      {
+        "market": "6ab81d4b532629ea684fb873",
+        "day": 5,
+        "start": "09:00",
+        "end": "13:00",
+        "_id": "6ab81d4b532629ea684fb87e"
+      }
+    ],
+    "slotMinutes": 30,
+    "slotCapacity": 6,
+    "orderCutoffHours": 12,
+    "blockedDates": [],
+    "autoApplyTemplate": true,
+    "templateLastAppliedWeek": "2026-W39",
+    "isActive": true,
+    "ratingAvg": 4.43,
+    "ratingCount": 67,
+    "createdAt": "2026-09-26T19:30:19.729Z",
+    "updatedAt": "2026-09-26T19:30:22.278Z",
+    "__v": 1
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb898",
+    "user": "6ab81d4b532629ea684fb897",
+    "stallName": "Gadap Orchard Co.",
+    "slug": "gadap-orchard-co",
+    "contactPerson": "Zainab Hussain",
+    "phone": "+92 321 5550101",
+    "email": "orchard@marketlink.com",
+    "address": "Gadap Town Orchards, Karachi",
+    "city": "Karachi",
+    "bio": "Mango, banana and melon orchards in the Gadap valley. We tree-ripen our fruit and bring it to market within a day of picking.",
+    "bioUr": "گڈاپ کی وادی میں آم، کیلے اور خربوزے کے باغات۔ ہم پھل درخت پر ہی پکنے دیتے ہیں اور توڑنے کے ایک دن کے اندر مارکیٹ لاتے ہیں۔",
+    "tags": [
+      "Tree-ripened",
+      "Orchard"
+    ],
+    "categories": [
+      "6ab81d4b532629ea684fb862"
+    ],
+    "logo": "/uploads/photos/thumbs/sindhri-mangoes.webp",
+    "coverImage": "/uploads/places/farms/gadap.webp",
+    "coverCredit": {
+      "author": "Larry Hoffman",
+      "source": "https://www.flickr.com/photos/dinesarasota/4525941785",
+      "license": "CC BY 2.0"
+    },
+    "latitude": 24.9214,
+    "longitude": 67.0948,
+    "markets": [
+      "6ab81d4b532629ea684fb874",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "operatingDays": [
+      0,
+      3,
+      5
+    ],
+    "pickupWindows": [
+      {
+        "market": "6ab81d4b532629ea684fb874",
+        "day": 0,
+        "start": "08:00",
+        "end": "13:00",
+        "_id": "6ab81d4b532629ea684fb899"
+      },
+      {
+        "market": "6ab81d4b532629ea684fb874",
+        "day": 3,
+        "start": "08:00",
+        "end": "12:00",
+        "_id": "6ab81d4b532629ea684fb89a"
+      },
+      {
+        "market": "6ab81d4b532629ea684fb876",
+        "day": 5,
+        "start": "16:00",
+        "end": "20:00",
+        "_id": "6ab81d4b532629ea684fb89b"
+      }
+    ],
+    "slotMinutes": 30,
+    "slotCapacity": 6,
+    "orderCutoffHours": 12,
+    "blockedDates": [],
+    "autoApplyTemplate": true,
+    "templateLastAppliedWeek": "2026-W39",
+    "isActive": true,
+    "ratingAvg": 4.35,
+    "ratingCount": 40,
+    "createdAt": "2026-09-26T19:30:19.868Z",
+    "updatedAt": "2026-09-26T19:30:22.280Z",
+    "__v": 1
+  },
+  {
+    "_id": "6ab81d4b532629ea684fb8b2",
+    "user": "6ab81d4b532629ea684fb8b1",
+    "stallName": "Thatta Dairy Collective",
+    "slug": "thatta-dairy-collective",
+    "contactPerson": "Imran Soomro",
+    "phone": "+92 333 7778899",
+    "email": "dairy@marketlink.com",
+    "address": "Village Jhimpir Road, Thatta, Sindh",
+    "city": "Karachi",
+    "bio": "A cooperative of twelve small dairy families. Grass-fed buffalo and cow milk, fresh paneer and free-range eggs delivered to market on ice.",
+    "bioUr": "بارہ چھوٹے ڈیری خاندانوں کی کوآپریٹو۔ گھاس پر پلی بھینسوں اور گایوں کا دودھ، تازہ پنیر اور دیسی انڈے، برف میں رکھ کر مارکیٹ پہنچائے جاتے ہیں۔",
+    "tags": [
+      "Cooperative",
+      "Grass-fed",
+      "Free-range"
+    ],
+    "categories": [
+      "6ab81d4b532629ea684fb863"
+    ],
+    "logo": "/uploads/photos/thumbs/farm-paneer.webp",
+    "coverImage": "/uploads/places/farms/thatta.webp",
+    "coverCredit": {
+      "author": "E. Dronkert",
+      "source": "https://www.flickr.com/photos/dnet/5640902658",
+      "license": "CC BY 2.0"
+    },
+    "latitude": 24.7942,
+    "longitude": 67.0671,
+    "markets": [
+      "6ab81d4b532629ea684fb873",
+      "6ab81d4b532629ea684fb872"
+    ],
+    "operatingDays": [
+      0,
+      5,
+      6
+    ],
+    "pickupWindows": [
+      {
+        "market": "6ab81d4b532629ea684fb873",
+        "day": 5,
+        "start": "08:00",
+        "end": "12:00",
+        "_id": "6ab81d4b532629ea684fb8b3"
+      },
+      {
+        "market": "6ab81d4b532629ea684fb873",
+        "day": 0,
+        "start": "08:00",
+        "end": "12:00",
+        "_id": "6ab81d4b532629ea684fb8b4"
+      },
+      {
+        "market": "6ab81d4b532629ea684fb872",
+        "day": 6,
+        "start": "08:00",
+        "end": "11:00",
+        "_id": "6ab81d4b532629ea684fb8b5"
+      }
+    ],
+    "slotMinutes": 30,
+    "slotCapacity": 6,
+    "orderCutoffHours": 24,
+    "blockedDates": [],
+    "autoApplyTemplate": true,
+    "templateLastAppliedWeek": "2026-W39",
+    "isActive": true,
+    "ratingAvg": 4.14,
+    "ratingCount": 28,
+    "createdAt": "2026-09-26T19:30:19.967Z",
+    "updatedAt": "2026-09-26T19:30:22.283Z",
+    "__v": 1
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8c1",
+    "user": "6ab81d4b532629ea684fb8c0",
+    "stallName": "Karachi Artisan Bakehouse",
+    "slug": "karachi-artisan-bakehouse",
+    "contactPerson": "Sana Mirza",
+    "phone": "+92 345 2223344",
+    "email": "bakery@marketlink.com",
+    "address": "Shop 7, Khayaban-e-Shamsheer, DHA Phase 5, Karachi",
+    "city": "Karachi",
+    "bio": "Slow-fermented sourdough and French-style pastries baked in small batches before sunrise. We use locally milled flour and Thatta butter.",
+    "bioUr": "آہستہ خمیر ہونے والی ساؤر ڈو روٹی اور فرانسیسی طرز کی پیسٹریاں، جو طلوعِ آفتاب سے پہلے تھوڑی تھوڑی مقدار میں پکائی جاتی ہیں۔ ہم مقامی چکی کا آٹا اور ٹھٹہ کا مکھن استعمال کرتے ہیں۔",
+    "tags": [
+      "Sourdough",
+      "Small batch"
+    ],
+    "categories": [
+      "6ab81d4b532629ea684fb864"
+    ],
+    "logo": "/uploads/photos/thumbs/butter-croissants.webp",
+    "coverImage": "/uploads/places/farms/bakehouse.webp",
+    "coverCredit": {
+      "author": "niki georgiev",
+      "source": "https://www.flickr.com/photos/85189931@N00/21958421901",
+      "license": "CC BY 2.0"
+    },
+    "latitude": 24.8188,
+    "longitude": 67.0296,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "operatingDays": [
+      0,
+      2,
+      6
+    ],
+    "pickupWindows": [
+      {
+        "market": "6ab81d4b532629ea684fb872",
+        "day": 6,
+        "start": "08:00",
+        "end": "12:00",
+        "_id": "6ab81d4c532629ea684fb8c2"
+      },
+      {
+        "market": "6ab81d4b532629ea684fb872",
+        "day": 0,
+        "start": "08:00",
+        "end": "12:00",
+        "_id": "6ab81d4c532629ea684fb8c3"
+      },
+      {
+        "market": "6ab81d4b532629ea684fb876",
+        "day": 2,
+        "start": "16:00",
+        "end": "20:00",
+        "_id": "6ab81d4c532629ea684fb8c4"
+      }
+    ],
+    "slotMinutes": 30,
+    "slotCapacity": 6,
+    "orderCutoffHours": 18,
+    "blockedDates": [],
+    "autoApplyTemplate": true,
+    "templateLastAppliedWeek": "2026-W39",
+    "isActive": true,
+    "ratingAvg": 4.46,
+    "ratingCount": 26,
+    "createdAt": "2026-09-26T19:30:20.072Z",
+    "updatedAt": "2026-09-26T19:30:22.285Z",
+    "__v": 1
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8db",
+    "user": "6ab81d4c532629ea684fb8da",
+    "stallName": "Hyderabad Herb Garden",
+    "slug": "hyderabad-herb-garden",
+    "contactPerson": "Farhan Qureshi",
+    "phone": "+92 301 4445566",
+    "email": "herbs@marketlink.com",
+    "address": "Latifabad Unit 8, Hyderabad",
+    "city": "Karachi",
+    "bio": "Leafy greens and fragrant herbs grown in raised beds and harvested the same afternoon for the evening markets.",
+    "bioUr": "اونچی کیاریوں میں اگائی گئی ہرے پتوں والی سبزیاں اور خوشبودار جڑی بوٹیاں، جو شام کی مارکیٹوں کے لیے اسی دوپہر کاٹی جاتی ہیں۔",
+    "tags": [
+      "Same-day harvest",
+      "Hydro-greens"
+    ],
+    "categories": [
+      "6ab81d4b532629ea684fb865",
+      "6ab81d4b532629ea684fb861"
+    ],
+    "logo": "/uploads/photos/thumbs/fresh-mint-podina.webp",
+    "coverImage": "/uploads/places/farms/herbs.webp",
+    "coverCredit": {
+      "author": "Jane Lenahan",
+      "source": "https://www.flickr.com/photos/83478713@N04/9517630535",
+      "license": "CC BY 2.0"
+    },
+    "latitude": 24.9395,
+    "longitude": 67.0441,
+    "markets": [
+      "6ab81d4b532629ea684fb875",
+      "6ab81d4b532629ea684fb877"
+    ],
+    "operatingDays": [
+      3,
+      4,
+      6
+    ],
+    "pickupWindows": [
+      {
+        "market": "6ab81d4b532629ea684fb875",
+        "day": 3,
+        "start": "16:00",
+        "end": "20:00",
+        "_id": "6ab81d4c532629ea684fb8dc"
+      },
+      {
+        "market": "6ab81d4b532629ea684fb875",
+        "day": 6,
+        "start": "16:00",
+        "end": "20:00",
+        "_id": "6ab81d4c532629ea684fb8dd"
+      },
+      {
+        "market": "6ab81d4b532629ea684fb877",
+        "day": 4,
+        "start": "07:00",
+        "end": "11:00",
+        "_id": "6ab81d4c532629ea684fb8de"
+      }
+    ],
+    "slotMinutes": 30,
+    "slotCapacity": 6,
+    "orderCutoffHours": 6,
+    "blockedDates": [],
+    "autoApplyTemplate": true,
+    "templateLastAppliedWeek": "2026-W39",
+    "isActive": true,
+    "ratingAvg": 4.47,
+    "ratingCount": 30,
+    "createdAt": "2026-09-26T19:30:20.182Z",
+    "updatedAt": "2026-09-26T19:30:22.287Z",
+    "__v": 1
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8ef",
+    "user": "6ab81d4c532629ea684fb8ee",
+    "stallName": "Kirthar Honey & Preserves",
+    "slug": "kirthar-honey-preserves",
+    "contactPerson": "Nadia Baloch",
+    "phone": "+92 312 9990011",
+    "email": "honey@marketlink.com",
+    "address": "Kirthar Range Apiaries, Jamshoro",
+    "city": "Karachi",
+    "bio": "Wild Sidr and acacia honey from our hives in the Kirthar foothills, plus small-batch jams and chutneys made from market surplus.",
+    "bioUr": "کیرتھر کے دامن میں ہمارے چھتوں سے جنگلی بیری اور پھلاہی کا شہد، اور مارکیٹ کے بچے ہوئے پھلوں سے تھوڑی مقدار میں بنے جام اور چٹنیاں۔",
+    "tags": [
+      "Raw honey",
+      "Zero waste"
+    ],
+    "categories": [
+      "6ab81d4b532629ea684fb866"
+    ],
+    "logo": "/uploads/photos/thumbs/acacia-honey.webp",
+    "coverImage": "/uploads/places/farms/honey.webp",
+    "coverCredit": {
+      "author": "Col Ford and Natasha de Vere",
+      "source": "https://www.flickr.com/photos/col_and_tasha/21487273820",
+      "license": "CC BY 2.0"
+    },
+    "latitude": 24.7928,
+    "longitude": 67.0652,
+    "markets": [
+      "6ab81d4b532629ea684fb873",
+      "6ab81d4b532629ea684fb874"
+    ],
+    "operatingDays": [
+      0,
+      5
+    ],
+    "pickupWindows": [
+      {
+        "market": "6ab81d4b532629ea684fb873",
+        "day": 5,
+        "start": "09:00",
+        "end": "13:00",
+        "_id": "6ab81d4c532629ea684fb8f0"
+      },
+      {
+        "market": "6ab81d4b532629ea684fb874",
+        "day": 0,
+        "start": "09:00",
+        "end": "13:00",
+        "_id": "6ab81d4c532629ea684fb8f1"
+      }
+    ],
+    "slotMinutes": 30,
+    "slotCapacity": 6,
+    "orderCutoffHours": 24,
+    "blockedDates": [],
+    "autoApplyTemplate": true,
+    "templateLastAppliedWeek": "2026-W39",
+    "isActive": true,
+    "ratingAvg": 4.58,
+    "ratingCount": 31,
+    "createdAt": "2026-09-26T19:30:20.285Z",
+    "updatedAt": "2026-09-26T19:30:22.289Z",
+    "__v": 1
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb8ff",
+    "user": "6ab81d4c532629ea684fb8fe",
+    "stallName": "Indus Grains & Pulses",
+    "slug": "indus-grains-pulses",
+    "contactPerson": "Kamran Shah",
+    "phone": "+92 322 3334455",
+    "email": "grains@marketlink.com",
+    "address": "Grain Market Road, Nawabshah",
+    "city": "Karachi",
+    "bio": "Stone-ground atta, aged basmati and home-cleaned pulses from farms along the Indus.",
+    "bioUr": "دریائے سندھ کے کنارے کے کھیتوں سے چکی کا پسا آٹا، پرانا باسمتی اور گھر میں صاف کی ہوئی دالیں۔",
+    "tags": [
+      "Stone-ground",
+      "Bulk friendly"
+    ],
+    "categories": [
+      "6ab81d4b532629ea684fb867",
+      "6ab81d4b532629ea684fb861"
+    ],
+    "logo": "/uploads/photos/thumbs/aged-basmati-rice.webp",
+    "coverImage": "/uploads/places/farms/grains.webp",
+    "coverCredit": {
+      "author": "RODRIGO GOMEZ",
+      "source": "https://www.flickr.com/photos/rgomez74/3056844531",
+      "license": "CC BY 2.0"
+    },
+    "latitude": 24.8601,
+    "longitude": 67.0305,
+    "markets": [
+      "6ab81d4b532629ea684fb877",
+      "6ab81d4b532629ea684fb875"
+    ],
+    "operatingDays": [
+      1,
+      3,
+      6
+    ],
+    "pickupWindows": [
+      {
+        "market": "6ab81d4b532629ea684fb877",
+        "day": 1,
+        "start": "07:00",
+        "end": "11:00",
+        "_id": "6ab81d4c532629ea684fb900"
+      },
+      {
+        "market": "6ab81d4b532629ea684fb877",
+        "day": 6,
+        "start": "07:00",
+        "end": "11:00",
+        "_id": "6ab81d4c532629ea684fb901"
+      },
+      {
+        "market": "6ab81d4b532629ea684fb875",
+        "day": 3,
+        "start": "17:00",
+        "end": "20:00",
+        "_id": "6ab81d4c532629ea684fb902"
+      }
+    ],
+    "slotMinutes": 30,
+    "slotCapacity": 6,
+    "orderCutoffHours": 12,
+    "blockedDates": [],
+    "autoApplyTemplate": true,
+    "templateLastAppliedWeek": "2026-W39",
+    "isActive": true,
+    "ratingAvg": 4.54,
+    "ratingCount": 35,
+    "createdAt": "2026-09-26T19:30:20.391Z",
+    "updatedAt": "2026-09-26T19:30:22.292Z",
+    "__v": 1
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb913",
+    "user": "6ab81d4c532629ea684fb912",
+    "stallName": "Bloom & Bough Nursery",
+    "slug": "bloom-bough-nursery",
+    "contactPerson": "Hina Farooq",
+    "phone": "+92 331 6667788",
+    "email": "nursery@marketlink.com",
+    "address": "Nursery Row, Shahrah-e-Faisal, Karachi",
+    "city": "Karachi",
+    "bio": "Cut flowers and easy-care houseplants grown in our shade houses along the Faisal nursery belt.",
+    "bioUr": "فیصل نرسری بیلٹ پر ہمارے سایہ دار گھروں میں اگائے گئے تازہ کٹے پھول اور آسانی سے پلنے والے گھریلو پودے۔",
+    "tags": [
+      "Flowers",
+      "Houseplants"
+    ],
+    "categories": [
+      "6ab81d4b532629ea684fb868"
+    ],
+    "logo": "/uploads/photos/thumbs/sunflower-bunch.webp",
+    "coverImage": "/uploads/places/farms/bloom.webp",
+    "coverCredit": {
+      "author": "Annette Taratuta",
+      "source": "https://www.flickr.com/photos/nettas/4646625499/",
+      "license": "CC BY 2.0"
+    },
+    "latitude": 24.8826,
+    "longitude": 67.0704,
+    "markets": [
+      "6ab81d4b532629ea684fb872",
+      "6ab81d4b532629ea684fb876"
+    ],
+    "operatingDays": [
+      0,
+      5
+    ],
+    "pickupWindows": [
+      {
+        "market": "6ab81d4b532629ea684fb872",
+        "day": 0,
+        "start": "08:00",
+        "end": "12:00",
+        "_id": "6ab81d4c532629ea684fb914"
+      },
+      {
+        "market": "6ab81d4b532629ea684fb876",
+        "day": 5,
+        "start": "16:00",
+        "end": "20:00",
+        "_id": "6ab81d4c532629ea684fb915"
+      }
+    ],
+    "slotMinutes": 30,
+    "slotCapacity": 6,
+    "orderCutoffHours": 12,
+    "blockedDates": [
+      "2026-10-02"
+    ],
+    "autoApplyTemplate": true,
+    "templateLastAppliedWeek": "2026-W39",
+    "isActive": true,
+    "ratingAvg": 4.04,
+    "ratingCount": 27,
+    "createdAt": "2026-09-26T19:30:20.495Z",
+    "updatedAt": "2026-09-26T19:30:22.294Z",
+    "__v": 1
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb928",
+    "user": "6ab81d4c532629ea684fb927",
+    "stallName": "Ravi Organic Farm",
+    "slug": "ravi-organic-farm",
+    "contactPerson": "Ali Hamza",
+    "phone": "+92 302 1112233",
+    "email": "lahore.farm@marketlink.com",
+    "address": "Raiwind Road Farms, Lahore",
+    "city": "Lahore",
+    "bio": "A family farm near Raiwind that follows organic practices, growing strawberries, kinnow and winter vegetables for Lahore families.",
+    "bioUr": "رائے ونڈ کے قریب ایک خاندانی فارم جو نامیاتی طریقوں پر عمل کرتا ہے اور لاہور کے خاندانوں کے لیے اسٹرابیری، کینو اور سردیوں کی سبزیاں اگاتا ہے۔",
+    "tags": [
+      "Organic practices",
+      "Winter crops"
+    ],
+    "categories": [
+      "6ab81d4b532629ea684fb862",
+      "6ab81d4b532629ea684fb861"
+    ],
+    "logo": "/uploads/photos/thumbs/strawberries.webp",
+    "coverImage": "/uploads/places/farms/modeltown.webp",
+    "coverCredit": {
+      "author": "Bioversity International",
+      "source": "https://www.flickr.com/photos/bioversity/8866148055",
+      "license": "CC BY 2.0"
+    },
+    "latitude": 31.4846,
+    "longitude": 74.3252,
+    "markets": [
+      "6ab81d4b532629ea684fb878"
+    ],
+    "operatingDays": [
+      0,
+      4
+    ],
+    "pickupWindows": [
+      {
+        "market": "6ab81d4b532629ea684fb878",
+        "day": 0,
+        "start": "07:00",
+        "end": "12:00",
+        "_id": "6ab81d4c532629ea684fb929"
+      },
+      {
+        "market": "6ab81d4b532629ea684fb878",
+        "day": 4,
+        "start": "08:00",
+        "end": "12:00",
+        "_id": "6ab81d4c532629ea684fb92a"
+      }
+    ],
+    "slotMinutes": 30,
+    "slotCapacity": 6,
+    "orderCutoffHours": 12,
+    "blockedDates": [],
+    "autoApplyTemplate": true,
+    "templateLastAppliedWeek": "2026-W39",
+    "isActive": true,
+    "ratingAvg": 4.27,
+    "ratingCount": 22,
+    "createdAt": "2026-09-26T19:30:20.607Z",
+    "updatedAt": "2026-09-26T19:30:22.296Z",
+    "__v": 1
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb93e",
+    "user": "6ab81d4c532629ea684fb93d",
+    "stallName": "Margalla Hills Farm",
+    "slug": "margalla-hills-farm",
+    "contactPerson": "Mehwish Abbasi",
+    "phone": "+92 305 8889900",
+    "email": "islamabad.farm@marketlink.com",
+    "address": "Shahdara Valley, Islamabad",
+    "city": "Islamabad",
+    "bio": "Hillside orchards above Islamabad with apples, peaches, cherries and kiwi from our partner farms in Swat.",
+    "bioUr": "اسلام آباد کے اوپر پہاڑی باغات، اور سوات میں ہمارے شراکت دار فارموں سے سیب، آڑو، چیری اور کیوی۔",
+    "tags": [
+      "Hill fruit",
+      "Orchard"
+    ],
+    "categories": [
+      "6ab81d4b532629ea684fb862"
+    ],
+    "logo": "/uploads/photos/thumbs/red-apples.webp",
+    "coverImage": "/uploads/places/farms/margalla.webp",
+    "coverCredit": {
+      "author": "Roger Braunstein",
+      "source": "https://www.flickr.com/photos/rogerimp/5666369791",
+      "license": "CC BY 2.0"
+    },
+    "latitude": 33.7024,
+    "longitude": 73.0271,
+    "markets": [
+      "6ab81d4b532629ea684fb879"
+    ],
+    "operatingDays": [
+      0,
+      6
+    ],
+    "pickupWindows": [
+      {
+        "market": "6ab81d4b532629ea684fb879",
+        "day": 6,
+        "start": "08:00",
+        "end": "13:00",
+        "_id": "6ab81d4c532629ea684fb93f"
+      },
+      {
+        "market": "6ab81d4b532629ea684fb879",
+        "day": 0,
+        "start": "08:00",
+        "end": "13:00",
+        "_id": "6ab81d4c532629ea684fb940"
+      }
+    ],
+    "slotMinutes": 30,
+    "slotCapacity": 6,
+    "orderCutoffHours": 12,
+    "blockedDates": [],
+    "autoApplyTemplate": true,
+    "templateLastAppliedWeek": "2026-W39",
+    "isActive": true,
+    "ratingAvg": 4.38,
+    "ratingCount": 26,
+    "createdAt": "2026-09-26T19:30:20.716Z",
+    "updatedAt": "2026-09-26T19:30:22.299Z",
+    "__v": 1
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb954",
+    "user": "6ab81d4c532629ea684fb953",
+    "stallName": "Sunny Acres Poultry",
+    "slug": "sunny-acres-poultry",
+    "contactPerson": "Rashid Mehmood",
+    "phone": "+92 311 2020202",
+    "email": "pending.farmer@marketlink.com",
+    "address": "Super Highway, Karachi",
+    "city": "Karachi",
+    "bio": "Free-range chicken and eggs. Waiting for approval.",
+    "bioUr": "کھلے میں پلی مرغیاں اور انڈے۔ منظوری کا انتظار ہے۔",
+    "tags": [
+      "Free-range"
+    ],
+    "categories": [
+      "6ab81d4b532629ea684fb863"
+    ],
+    "logo": "/uploads/photos/thumbs/desi-eggs.webp",
+    "coverImage": "/uploads/places/farms/poultry.webp",
+    "coverCredit": {
+      "author": "nickodoherty",
+      "source": "https://www.flickr.com/photos/nick-od/3892345045",
+      "license": "CC BY 2.0"
+    },
+    "latitude": 24.93,
+    "longitude": 67.1,
+    "markets": [
+      "6ab81d4b532629ea684fb874"
+    ],
+    "operatingDays": [
+      0
+    ],
+    "pickupWindows": [
+      {
+        "market": "6ab81d4b532629ea684fb874",
+        "day": 0,
+        "start": "08:00",
+        "end": "12:00",
+        "_id": "6ab81d4c532629ea684fb955"
+      }
+    ],
+    "slotMinutes": 30,
+    "slotCapacity": 6,
+    "orderCutoffHours": 12,
+    "blockedDates": [],
+    "autoApplyTemplate": true,
+    "templateLastAppliedWeek": "2026-W39",
+    "isActive": false,
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "createdAt": "2026-09-26T19:30:20.826Z",
+    "updatedAt": "2026-09-26T19:30:22.302Z",
+    "__v": 1
+  },
+  {
+    "_id": "6ab81d4c532629ea684fb957",
+    "user": "6ab81d4c532629ea684fb956",
+    "stallName": "Old Town Goat Dairy",
+    "slug": "old-town-goat-dairy",
+    "contactPerson": "Jawad Iqbal",
+    "phone": "+92 313 4040404",
+    "email": "suspended.farmer@marketlink.com",
+    "address": "Lyari, Karachi",
+    "city": "Karachi",
+    "bio": "Goat milk and cheese. Suspended for repeated late cancellations.",
+    "bioUr": "بکری کا دودھ اور پنیر۔ بار بار تاخیر سے منسوخی کی وجہ سے معطل۔",
+    "tags": [
+      "Goat milk"
+    ],
+    "categories": [
+      "6ab81d4b532629ea684fb863"
+    ],
+    "logo": "/uploads/photos/thumbs/goat-milk.webp",
+    "coverImage": "/uploads/places/farms/goat.webp",
+    "coverCredit": {
+      "author": "Jim Pennucci",
+      "source": "https://www.flickr.com/photos/pennuja/4694391114",
+      "license": "CC BY 2.0"
+    },
+    "latitude": 24.87,
+    "longitude": 67,
+    "markets": [
+      "6ab81d4b532629ea684fb877"
+    ],
+    "operatingDays": [
+      1
+    ],
+    "pickupWindows": [
+      {
+        "market": "6ab81d4b532629ea684fb877",
+        "day": 1,
+        "start": "07:00",
+        "end": "10:00",
+        "_id": "6ab81d4c532629ea684fb958"
+      }
+    ],
+    "slotMinutes": 30,
+    "slotCapacity": 6,
+    "orderCutoffHours": 12,
+    "blockedDates": [],
+    "autoApplyTemplate": true,
+    "templateLastAppliedWeek": "2026-W39",
+    "isActive": false,
+    "ratingAvg": 0,
+    "ratingCount": 0,
+    "createdAt": "2026-09-26T19:30:20.912Z",
+    "updatedAt": "2026-09-26T19:30:22.304Z",
+    "__v": 1
+  }
+]
