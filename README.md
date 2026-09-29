@@ -1,4 +1,4 @@
-# FBA_Omniverse – MarketLink (TechWiz 7, Team Omniverse)
+# FBA_Omniverse – MarketLink (TechWizz 7, Team Omniverse)
 
 Farmers-market pre-order web app: MongoDB, Express, React, Node. Cash on pickup.
 
