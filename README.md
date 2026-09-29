@@ -20,10 +20,10 @@ Farmers-market pre-order web app: MongoDB, Express, React, Node. Cash on pickup.
 | Farmer | Waiting for approval | pending.farmer@marketlink.com | Farmer@123 |
 | Farmer | Suspended | suspended.farmer@marketlink.com | Farmer@123 |
 
-## One-click start (for judges)
-Needs Node.js 20+ and a running MongoDB (local, or a MongoDB Atlas string in `MarketLink/server/.env`).
-- **Windows:** double-click `MarketLink/start.bat`
-- **macOS / Linux:** `bash MarketLink/start.sh`
+## One-click start (submission zip only)
+`start.bat` and `start.sh` come with the submission zip and are not on GitHub. Node.js is downloaded automatically if it is missing. The database is MongoDB Atlas, whose address is in `MarketLink/server/.env` (included in the zip). An internet connection is needed.
+- **Windows:** double-click `start.bat` (in this folder, next to this README)
+- **macOS / Linux:** `bash start.sh`
 
 On the first run it creates `server/.env`, installs packages, builds the site, loads the demo data and opens http://localhost:5000. Later runs just start the server. Log in with the credentials above.
 
